@@ -36,7 +36,8 @@
 - Yuvarlak tel çerçeveli gözlük, kısa ve düzgün kesilmiş koyu sakal. Uzun koyu palto, siyah balıkçı yaka.
 - Hiç uyumuyor. Uyuyamadığı gecelerde mahzendeki kendi odasında keman çalıyor.
 - Sherlock'tan alınan özellikler: Bir insanı saniyeler içinde okuyor (eller, ses, nefes). Arka plan seslerinden konum çıkarıyor. Düşünürken gözlerini kapatıyor. Soğuk ve kibirli görünüyor, duygularını saklıyor.
-- **Amacı:** Kızı ve yolcuları kurtarmak.
+- Ekibe karşı soğuk ve hızlı, kıza karşı sıcak ve sabırlı. Bu yumuşaklığın nereden geldiğini kendisi de bilmiyor.
+- **Amacı:** Kızı ve yolcuları kurtarmak. Uçağın gerçek olduğuna inanıyor.
 - **Kusuru:** Egoist. Mimar'ın bilmecelerini çözmek ona keyif veriyor. Bunu saklamaya çalışıyor ama ekip fark ediyor.
 - Zihnindeki odalardan biri hep kilitli, sebebini bilmiyor.
 - Not: "Profesör" adı ve gözlük, La Casa de Papel'deki "El Profesor"u hatırlatabilir.
@@ -67,7 +68,8 @@
 - Ekibin ona taktığı ad. Gerçek adı, yüzü ve sesi bilinmiyor. Yeraltında adı geçmiyor. Onu tanıyan suçlular konuşmak yerine ölüyor.
 - "Danışman suçlu": Suç işlemez, suçu tasarlar. Türkiye'de kök salmış, kansız bir suç imparatorluğunun lideri. Ağı devletin içine kadar uzanıyor.
 - Moriarty gibi konuşur: alaycı, oyunbaz, bir an tatlı bir an tehditkâr. "Tik tak" gibi psikolojik uyaranlar kullanır, Profesör'e "Profesörcüğüm" der.
-- İlk etapta kendi sesiyle hiç konuşmaz, bomba bağladığı çaresiz insanların ağzından konuşur. Kendi sesi ilk kez Part 23'te duyulur.
+- Kendi sesiyle hiç konuşmaz, bomba bağladığı çaresiz insanların ağzından konuşur. Kendi sesi ilk kez Part 23'te duyulur.
+- Rehine üzerinden sadece tek yönlü bir mesaj verir, sohbet etmez. Görev bitene kadar kızla konuşulamaz. Cevap bulununca Profesör, Mimar'ın gönderdiği numarayı arar. Mimar'ın alaycı cevabı yine rehinenin ağzından gelir, sonra hat kıza döner. En kilit anda yeni görev gelir.
 - Motivasyonu para değil, Profesör'le oynamak.
 
 ### Kız
