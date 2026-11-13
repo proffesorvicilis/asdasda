@@ -13,7 +13,7 @@
 - **Ela (7):** Profesör'ün küçük kız kardeşi. İkisi birlikte programa alındı.
 - **"Pilot" (13):** Programın en büyük ve en zeki çocuğu. Sonradan "O" olacak kişi. Profesör'e keman çalmayı ve gece 3'te hâlâ çaldığı **o şarkıyı** o öğretti. Bilmece oyunlarını da o icat etti.
 
-**Çatıdaki uçak oyunu:** Çocuklar köşkün çatı katında eski sandalyeleri yolcu koltukları gibi sıralayıp "uçak" kuruyordu. Tavandan iplerle sarı plastik bardaklar sarkıtıp oksijen maskesi yapmışlardı. Pilot uçağın pilotuydu, Profesör yardımcı pilot, Ela yolcu. Oyunun adı "Eve Uçuş"tu. Adadan kaçıp eve dönmenin hayaliydi. Çatı kattaki eski dahili telefon da "kokpit telsizi"ydi.
+**Çatıdaki uçak oyunu:** Çocuklar köşkün çatı katında eski sandalyeleri yolcu koltukları gibi sıralayıp "uçak" kuruyordu. Tavandan iplerle mutfağın sarı plastik çay bardaklarını sarkıtıp oksijen maskesi yapmışlardı. Personel de çayını aynı sarı bardaklardan içerdi. Pilot uçağın pilotuydu, Profesör yardımcı pilot, Ela yolcu. Oyunun adı "Eve Uçuş"tu. Adadan kaçıp eve dönmenin hayaliydi. Çatı kattaki eski dahili telefon da "kokpit telsizi"ydi.
 
 **Yangın gecesi, saat 03:17:**
 1. Müdire, Pilot'un yerine 9 yaşındaki Profesör'ü programın "bir numarası" seçti. Pilot'un dünyası yıkıldı.
@@ -37,6 +37,7 @@
 - Telefondaki kız sesi **yapay zekâyla üretilmiş bir ses**. Ela'nın 1997'deki dahili telefon kayıtlarından eğitilmiş bir model. O, cümleleri canlı olarak yazıyor ve kızın sesinden konuşturuyor. Bu yüzden ses Profesör'ün sorularına cevap verebiliyor.
 - Bazı cümleler ise **gerçek 1997 kayıtlarının birebir kendisi**: "Lütfen biri yardım etsin. Uçak düşecek. Herkes uyuyor." ve "Pilot bile uyuyor."
 - **Uçak ve kız ekranda görünür.** Bu görüntü, Profesör'ün kızı dinlerken zihninde canlandırdığı uçak. Gerçek bir uçak yok. İpuçları: uçak pencerelerinde bulut yok, sadece karanlık var (çatı katı). Maskeler bazı karelerde ipe asılı bardaklara benziyor.
+- **Kabinde herkes sarı maske takmış ve uyuyor. Sadece kız maske takmamış ve uyanık.** Profesör bunu Part 1'de çözüyor: maskelerden oksijen değil uyku gazı geliyor. 1997'deki karşılığı: çaya ilaç katılmıştı ve içen uyudu. Ela çocuk olduğu için çay içmedi, uyanık kaldı. Çatıdaki "maskeler" de zaten sarı çay bardaklarıydı. Maskeyi takan uyudu, bardaktan içen uyudu.
 - **Görseller her şeyi açıklamaz.** Bilgiyi konuşmalar ve arka plan sesleri verir (motor uğultusu, kabin uyarı sesi, martı, rüzgar, vapur düdüğü). Görsel, atmosferi taşır.
 - **O hiçbir zaman gösterilmez.** Sadece sesi var.
 - **O konuşurken arka planda**, eski bir gramofonda kısık sesle **o şarkı** çalar. İzleyici fark etmeyebilir, ama Profesör fark eder.
@@ -50,13 +51,14 @@
 | Saat **03:17** | Part 1, ilk kare | 1997 yangınının başladığı saat | Part 8 (dosya) |
 | Gece 3'te çalınan **şarkı** | Part 1, açılış | Pilot'un Profesör'e öğrettiği şarkı. Ela da onu mırıldanırdı. | Part 15 ve 22 |
 | Profesör'ün **uykusuzluğu** | Part 1 | Vakfın uykusuzluk deneyleri | Part 10 |
-| **"Profesör"** adı | Part 1 ("dört kişi bilir") | Lakap vakıfta verildi. O da biliyor, yani aslında beş kişi biliyor. | Part 10 ve 15 |
+| **"Profesör"** adı | Part 1 (kâğıtta yazıyor, Profesör: "O ismi kimse bilmez") | Lakap vakıfta verildi. O da biliyor. | Part 10 ve 15 |
 | **"Herkes uyuyor"** | Part 1 | Çaya ilaç katılmış personel | Part 6 (Saadet) |
-| **Sarı maskeler** | Part 1 | Çatıdaki oyunda ipe asılı sarı bardaklar | Part 22 |
-| **"Keman güzeldi"** | Part 1 | O, karşı binadan dinliyor. El yazısı 1997 bilmece notlarıyla aynı. | Part 18 |
+| **Herkes maskeli ve uyuyor, kız maskesiz ve uyanık** | Part 1 | Maskelerden gaz geliyor. 1997'de çayı içen uyudu, Ela içmedi. Maskeler = çatıdaki sarı çay bardakları. | Part 6 (çay) ve Part 22 (bardaklar) |
+| **"Bu sefer telefonu aç"** (kâğıdın arkasında) | Part 1 | 1997'de Profesör telefonu açmadı. Not O'nun el yazısı, 1997 bilmece notlarıyla aynı. | Part 18 |
 | **"Kayıp uçak yok"** | Part 2 | Uçak bir metafor, aslında çatı katı | Part 7 ve 22 |
 | **"Sen biliyorsun"** | Part 2 | Kızın adı Ela ve Profesör'ün kız kardeşi | Part 6 (ad), Part 22 (kardeş) |
-| **Hat üç şehirde birden** | Part 2 | O'nun ağı: devletin içinden sağlanan altyapı | Part 12 |
+| **Hat üç şehirde birden** ("ya bir devlet ya devletin içindeki biri") | Part 2 | O'nun ağı: devletin içinden sağlanan altyapı | Part 12 |
+| **"Polis zaten benim, savcı bey"** | Part 3 | O ekibi tanıyor ve devletin içinde. Ömer'in savcı olduğunu kimse söylemeden biliyor. | Part 12 ve 19 |
 | **"Önce oyun, sonra kız"** | Part 3 | 1997 gecesinin birebir tekrarı: bilmece mi, telefon mu? | Part 18 |
 | **Medusa ("başı ters", "bakan taşa döner")** | Part 3 | "Gerçek ters çevrilmiş", "bakan susar". Sarnıçta 1997'den kalma bir kaset var. | Part 5 |
 | **Martı, rüzgar, vapur sesi** | Part 3 | Heybeliada iskelesi, yani vakfın adası | Part 5 |
@@ -95,6 +97,9 @@ O, 1997 gecesi "uyuyan" yetişkinleri sırayla indiriyor. Her görev bir yolcuya
 
 ## 6. Ton ve kurallar
 
+- **Anlatıcı yok.** Hikaye sadece karakterlerin konuşmalarıyla ve arka plan sesleriyle ilerler.
+- **Her part tek, kesintisiz bir sahne gibi akar.** Her replik bir öncekinden doğar, sahneler arasında kopukluk olmaz. Bir part, bir öncekinin bittiği andan devam eder.
+- **Profesör hiçbir şeyi hafife almaz.** İlk cümleden ciddiye alır, sorularıyla durumu çözer. Zekası sorularından ve çıkarımlarından görünür.
 - **Görselle her şey açıklanmaz.** Ne olduğunu izleyici konuşmalardan ve arka plan seslerinden anlar. Görsel atmosferi taşır, bilgiyi tekrar etmez.
 - **Duraklama yok.** Sessiz an olacaksa en fazla yarım saniye sürer. Replikler arka arkaya gelir, ses hiç boşa düşmez.
 - Her part bir öncekinin sorusunu cevaplar ve yeni bir soru açar.

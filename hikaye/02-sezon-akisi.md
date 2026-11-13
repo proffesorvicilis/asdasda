@@ -1,4 +1,4 @@
-# Profesör: Düşüş — 1. Sezon Akışı (24 part, her biri ~30 sn)
+# Profesör: Düşüş — 1. Sezon Akışı (24 part, her biri ~40–45 sn)
 
 > Her part yazılmadan önce `00-hikaye-agi.md` dosyasına bakılır. Köşeli parantez içindeki notlar, partın ağdaki hangi bağlantıyı kullandığını gösterir.
 
@@ -6,18 +6,18 @@
 
 ## 1. PERDE: ÇAĞRI (Part 1–6)
 
-**Part 1 · Gizli Numara**
-Profesör gece 3'te han'ın müzik odasında o şarkıyı çalarken telefon çalıyor. Gizli numaradan ağlayan bir kız arıyor: uçak düşecek, herkes uyuyor. Profesör kapatmak üzereyken kız "Profesörü ara" yazan bir kâğıttan söz ediyor. Maskeleri soruyor. Kâğıdın altında "Keman güzeldi" yazıyor.
-**Kanca:** Biri onu dinliyor.
-[03:17, şarkı, Profesör adı, maskeler, herkes uyuyor, keman güzeldi]
+**Part 1 · Bu Sefer**
+Profesör gece 3'te han'ın müzik odasında o şarkıyı çalarken telefon çalıyor. Ağlayan bir kız: uçak düşecek, herkes uyuyor. Profesör ilk cümleden ciddiye alıyor. Kız numarayı koltuk cebindeki "Uçak düşerse Profesörü ara" yazan bir kâğıttan bulmuş. Profesör: "O ismi kimse bilmez." Kabinde herkes maske takmış ama uyuyor, sadece kız takmamış ve uyanık. Profesör çözüyor: maskelerden gaz geliyor. Kıza maskeyi takmamasını söylüyor, ekibi çağırıyor.
+**Kanca:** Kâğıdın arkasında "Bu sefer telefonu aç" yazıyor.
+[03:17, şarkı, Profesör adı, maskeler, herkes uyuyor, bu sefer telefonu aç]
 
 **Part 2 · Kayıp Uçak**
-Ekip üste toplanıyor. Tuna'ya göre hat aynı anda üç şehirde. Ömer bu gece kayıp bir uçak olmadığını söylüyor. Profesör kızın adını soruyor, kız "Sen biliyorsun" diyor. Hat kesiliyor, O konuşuyor: "Hâlâ o şarkıyı çalıyorsun. Kimden öğrendiğini hatırlıyor musun?"
+Ekip han'a geliyor, telefon hoparlörde. Bora'nın kara esprisi geliyor. Tuna'ya göre hat aynı anda üç şehirde: "ya bir devlet ya devletin içindeki biri." Ömer'e göre havada kayıp uçak yok. Profesör kızın adını soruyor, kız "Sen biliyorsun" diyor. Uçak sesi kesiliyor, gramofonda aynı şarkı çalıyor. O: "Hâlâ benim şarkımı çalıyorsun. O şarkıyı sana kim öğretti?"
 **Kanca:** Profesör hatırlamıyor.
-[kayıp uçak yok, sen biliyorsun, üç şehir, şarkı]
+[kayıp uçak yok, sen biliyorsun, üç şehir, şarkı, gramofon]
 
 **Part 3 · Bilmece**
-O kuralı koyuyor: kızla konuşmak istiyorsan önce oyun. Medusa bilmecesi geliyor. Sonra bombalı bir kadın (Saadet) hatta bağlanıyor. Profesör kadının arka planında martı, rüzgar ve vapur düdüğü duyuyor. Bilmece sarnıcı, ses ise denizi gösteriyor.
+O kuralı koyuyor: bilmece çözülürse hat açık kalır, çözülmezse kız yalnız kalır. Ömer'e "Polis zaten benim, savcı bey" diyor. Medusa bilmecesini Profesör anında çözüyor. Bombalı bir kadın (Saadet) hatta bağlanıyor. Profesör arka planda martı, rüzgar ve vapur düdüğü duyuyor: "Sarnıçta martı olmaz." Bilmece doğru ama kadın orada değil.
 **Kanca ve seçim:** SARNIÇ / SES. Ekip ikiye bölünüyor. Seçim, bir sonraki partta kimin izleneceğini belirliyor.
 [önce oyun, Medusa, Saadet, ada sesi]
 
@@ -102,7 +102,7 @@ Ekip iskelede. Tuna'nın elinde Bora'nın montu, Ömer konuşamıyor. Profesör 
 [telefonu açmamak, 1997'nin aynası]
 
 **Part 18 · Aynı Oyun**
-Profesör bu gecenin bilmecelerini, kaset kutusundan çıkan 1997 bilmece notlarıyla karşılaştırıyor. Sorular aynı, el yazısı aynı, "Keman güzeldi" de aynı elden. Kafasında taşlar yerine oturuyor: o gece de önce oyun vardı, sonra kız. Bilmecedeydi, telefonu açmadı.
+Profesör bu gecenin bilmecelerini, kaset kutusundan çıkan 1997 bilmece notlarıyla karşılaştırıyor. Sorular aynı, el yazısı aynı, "Bu sefer telefonu aç" notu da aynı elden. Kafasında taşlar yerine oturuyor: o gece de önce oyun vardı, sonra kız. Bilmecedeydi, telefonu açmadı.
 **Kanca:** "Ben açmadım."
 [keman güzeldi, önce oyun, 1997'nin aynası]
 

@@ -4,9 +4,10 @@
 
 - Seri adı: **Profesör: Düşüş**
 - Instagram Reels, dikey 9:16, part part (bölüm bölüm) interaktif seri.
-- Her part yaklaşık 30 saniye: 9–10 sahne, her sahne yaklaşık 3 saniye, seslendirme 55–65 kelime.
+- Her part yaklaşık 40–45 saniye, 15–18 kısa replik. Her part tek, kesintisiz bir sahne gibi akıyor.
+- Anlatıcı yok. Hikaye sadece karakterlerin konuşmaları ve arka plan sesleriyle ilerliyor.
 - Her part bir kancayla bitiyor. Yorum seçimi birkaç partta bir geliyor.
-- Seslendirme ElevenLabs ile, anlatım ikinci tekil şahıs ("sen"). İzleyici Profesör'ün yerinde.
+- Seslendirme ElevenLabs ile. Her karakterin ayrı sesi var.
 - Her sahnede 2–4 kelimelik altyazı. Kalın beyaz yazı, vurgulanan kelime turuncu.
 - Ekranın üstünde oyun arayüzü (HUD): SAAT, İRTİFA, HAT, SÜRE gibi sayaçlar.
 - Her bölüm iki seçenekli bir kararla bitiyor ("SARNIÇ / SES" gibi). Seçim yorumlarda yapılıyor ve çoğunluğun seçimi bir sonraki bölümü belirliyor.
@@ -40,7 +41,7 @@
 ## Ana fikir: uçak bir metafor
 
 - Gece Profesör'ü gizli bir numara arıyor. Ağlayan küçük bir kız uçakta olduğunu, uçağın düşeceğini ve herkesin uyuduğunu söylüyor.
-- Uçak gerçekçi anlatılıyor: kabin basıncı düşmüş, sarı oksijen maskeleri inmiş, maskesini takmayanlar bayılmış, pilot yığılmış, uçak otopilotta.
+- Uçak gerçekçi anlatılıyor: sarı oksijen maskeleri inmiş, herkes takmış ama hepsi uyuyor. Sadece kız takmamış ve uyanık. Maskelerden oksijen değil uyku gazı geliyor. Pilot da uyuyor, uçak otopilotta.
 - Ama bu gece kayıp bir uçak yok. Kız gerçek değil, uçak bir metafor. Bu gerçek ileride açıklanacak.
 - Profesör'ün çocukluğundan kalan, travmayla unuttuğu kötü bir insan var. İzleyici de Profesör de bunu sonradan öğrenecek. İfşa sonraki bölümlere bırakıldı.
 
@@ -102,7 +103,7 @@ Ekip, Profesör dahil 4 kişi. Hepsi toplama. Ekip resmi bir kurum değil, devle
 
 - Model: Türkçe için Multilingual v2 ya da Eleven v3.
 - Stability %30–40 civarında olsun. Çok yüksek olursa ses düz ve robot gibi kalıyor.
-- Her ses ayrı üretilmeli. Senaryodaki `[ANLATICI]` gibi isim etiketleri ElevenLabs'e yapıştırılmamalı.
+- Her ses ayrı üretilmeli. Senaryodaki `[PROFESÖR]` gibi isim etiketleri ElevenLabs'e yapıştırılmamalı.
 - v3'te `[whispers]`, `[crying]` gibi ses etiketleri kullanılabilir.
 - **Duraklama yok.** Replikler arka arkaya gelir. `<break>` etiketi ya da uzun `...` kullanılmaz. Sessiz an en fazla yarım saniye.
 - Telefonun karşı tarafı (kız, O, bombalı kadın) hafif telefon filtresiyle verilir. Arka plan sesleri (uçak, deniz, gramofon) ayrı katman olarak konur.
