@@ -1,6 +1,6 @@
 # Profesör: Düşüş — 1. Sezon Akışı
 
-> **Tek gece: 03:17 → 06:17.** 24 part, her biri yaklaşık 45–55 saniye. Her part yazılmadan önce `00-hikaye-agi.md` dosyasına bakılır.
+> **Tek gece: 03:17'den şafağa (06:17).** 24 part, her biri yaklaşık 45–55 saniye. Uçak İstanbul'a yaklaşıyor; kızla her konuşmada dışarıdaki ışıklar biraz daha belirginleşiyor. Her part yazılmadan önce `00-hikaye-agi.md` dosyasına bakılır.
 > **Döngü:** Kızla konuşma → en kilit anda hat kesilir → rehinenin tek yönlü mesajı (sohbet yok) → görev bitene kadar kızla konuşulamaz → çözüm → Profesör numarayı arayıp cevabı söyler → rehinenin ağzından alaycı cevap ve bir rakam → hat kıza döner.
 > Parantez içindeki saat, partın hikayede başladığı saat. Köşeli parantezler, partın ağdaki hangi bağlantıyı kullandığını gösterir.
 
@@ -9,19 +9,19 @@
 ## 1. PERDE: ÇAĞRI (03:17 – 03:40)
 
 **Part 1 · Bu Sefer** (03:17)
-Profesör mahzendeki odasında keman çalıyor, ekip ana salonda. Gizli numaradan ağlayan bir kız arıyor: uçak düşecek, herkes uyuyor. Profesör ilk cümleden ciddiye alıyor ve kapatmayacağına söz veriyor. Telefonla ana salona çıkıyor, ekip işe koyuluyor. Pilotları soruyor: kokpit kapısı açık, ikisi de uyuyor. Uçak sarsılıyor, Profesör kızla birlikte nefes sayıp onu sakinleştiriyor. Kabinde herkes maskeli ve uyuyor, sadece kız takmamış. Kız tam takmak üzereyken Profesör onu durduruyor: maskeyi takan uyumuş. Bora: "Maskelerde gaz var." Kız numarayı koltuk cebindeki bir kâğıttan bulmuş: "Uçak düşerse Profesörü ara." Ömer: "O ismi bu odanın dışında kimse bilmez."
-**Kanca:** Kâğıdın arkasında "Bu sefer telefonu aç" yazıyor.
-[03:17, herkes uyuyor, maskeler, kokpit kapısı, Profesör adı, bu sefer telefonu aç, kıza karşı yumuşaklık]
+Profesör mahzendeki odasında keman çalıyor, ekip ana salonda. Gizli numaradan ağlayan bir kız arıyor: uçak düşecek, herkes uyuyor. Profesör ilk cümleden ciddiye alıyor, telefonla ana salona çıkıyor, ekip işe koyuluyor. Profesör merak ediyor ve soruyor: Kız yalnız uçuyor, yedi yaşında. Kokpit kapısı açık, iki pilot da uyuyor. Nereye gidiyorlardı? "Eve." Ev nerede? Bilmiyor. Dışarısı kapkaranlık. Uçak sarsılıyor, Profesör onu sakinleştiriyor: "Ben de korkardım. Ama sesimi duyuyorsun, değil mi?" Kız numarayı koltuk cebindeki bir kâğıttan bulmuş: "Uçak düşerse Profesörü ara." Olayın nasıl başladığı anlatılmıyor.
+**Kanca:** Ömer: "O ismi bu odanın dışında kimse bilmez."
+[03:17, herkes uyuyor, yalnız, yedi yaşında, eve, kokpit kapısı, karanlık, Profesör adı, kıza karşı yumuşaklık]
 
 **Part 2 · Görünmeyen Uçak** (03:20)
-Tuna: Arama uçağın internetinden geliyor ama sinyal aynı anda üç şehirden geçirilmiş, "ya bir devlet ya devletin içindeki biri." Ömer: Radarda kaybolan uçak yok. Bora: "Kız yalan mı söylüyor?" Profesör: "Hayır. Transponderi kapatmışlar. Bu bir kaza değil. Uçak havada ama kimse göremiyor." Kız Profesör'ün gittiğini sanıp ağlıyor, Profesör onu sakinleştirip pencereden bakmasını istiyor: aşağıda hiç ışık yok. "Denizin üstündeler." Bora: "Uçağı şu an kim uçuruyor?" Profesör: "Otopilot ve sekiz yaşında bir kız." Profesör kıza söz veriyor: "Seni eve götüreceğim." Adını soruyor.
+Tuna: Arama uçağın internetinden geliyor ama sinyal aynı anda üç şehirden geçirilmiş, "ya bir devlet ya devletin içindeki biri." Ömer: Radarda kaybolan uçak yok. Bora: "Kız yalan mı söylüyor?" Profesör: "Hayır. Transponderi kapatmışlar. Uçak havada ama kimse göremiyor. Bu bir kaza değil." Kız Profesör'ün gittiğini sanıp ağlıyor. Profesör onu oyalamak için en sevdiği oyunu soruyor: "Uçak oyunu... Ama bu oyun değil, değil mi?" Profesör söz veriyor: "Seni eve götüreceğim." Bora: "Uçağı şu an kim uçuruyor?" Profesör: "Otopilot ve yedi yaşında bir kız." Profesör adını soruyor.
 **Kanca:** Kız "Benim adım—" derken hat kesiliyor. Rüzgar, martılar, hıçkıran bir kadın: "Merhaba Profesör. Uyuyamadın mı yine? Ben de."
-[üç şehir, transponder, deniz, eve götüreceğim, hat en kilit anda kesiliyor]
+[üç şehir, transponder, uçak oyunu, eve götüreceğim, hat en kilit anda kesiliyor]
 
 **Part 3 · Mesaj** (03:24)
-Kadın (Saadet), Mimar'ın tek yönlü mesajını okuyor: Uçağın yakıtı 06:17'de bitiyor ve yerini bir tek o biliyor. Ömer telefonuna uzanınca mesaj sanki görüyormuş gibi devam ediyor: "Telefonu bırak, savcı bey. Polis zaten benim." Kurallar: Bilmece çözülene kadar kızla konuşmak yok, her doğru cevap bir rakam, dört rakam uçağın kodu. Kadın bir an kendi sesiyle yalvarıyor: "Çocuklarım evde yalnız..." Birinci bilmece: "Dokuz kardeşiz, denizin ortasında. Ne en büyüğüyüm ne en küçüğü. Sırtımda yük taşırım. Bu hanımefendi neredeyse orası." Kırk dakika. "Cevabı bulunca beni ara." Hat kesiliyor, Profesör'ün telefonuna bir numara ve "CEVAP?" yazan bir mesaj düşüyor.
+Kadın (Saadet), Mimar'ın tek yönlü mesajını okuyor: "Kızla tanıştın. Tatlı, değil mi?" Ömer telefonuna uzanınca mesaj sanki görüyormuş gibi devam ediyor: "Telefonu bırak, savcı bey. Polis zaten benim." Kurallar: Bilmece çözülene kadar kızla konuşmak yok, her doğru cevap bir rakam. Kadın bir an kendi sesiyle yalvarıyor: "Çocuklarım evde yalnız..." Birinci bilmece: "Dokuz kardeşiz, denizin ortasında. Ne en büyüğüyüm ne en küçüğü. Sırtımda yük taşırım. Bu hanımefendi neredeyse orası." Kırk dakika. "Cevabı bulunca beni ara." Hat kesiliyor, Profesör'ün telefonuna bir numara ve "CEVAP?" yazan bir mesaj düşüyor.
 **Kanca:** SÜRE 40:00. Profesör: "Sus. Düşünüyorum."
-[06:17, oyunun kuralları, izleniyorlar, polis zaten benim, Heybeliada]
+[oyunun kuralları, izleniyorlar, polis zaten benim, Heybeliada]
 
 **Part 4 · Dokuz Kardeş** (03:26)
 Profesör ve ekip bilmeceyi çözüyor: dokuz kardeş Adalar, ne en büyük ne en küçük, sırtında yük yani heybe, Heybeliada. Mesajdaki vapur düdüğü ve martılar iskeleyi gösteriyor. Ömer: "Gülümsüyorsun." Profesör: "Hayır." Profesör numarayı arıyor, kadın açıyor. Profesör: "Heybeliada. İskele." Mimar'ın alaycı cevabı: "Dokuz dakika, Profesörcüğüm. Eskiden üç dakikada çözerdin. İlk rakam: sıfır." Kadın birden kendi sesiyle bağırıyor: "O gece çayı o verdi! Hepimiz uyuduk! Ela'yı bırakmamalıydık—" Mimar'ın sözleri: "Fazla konuştun, Saadet." Patlama, hat ölüyor. "Ela" adı Profesör'ün zihninde yarım saniyelik bir görüntü açıyor: ipe asılı sarı bir bardak.
@@ -33,9 +33,9 @@ Profesör ve ekip bilmeceyi çözüyor: dokuz kardeş Adalar, ne en büyük ne e
 ## 2. PERDE: YOLCULAR (03:36 – 05:15)
 
 **Part 5 · Gittin** (03:36)
-Hat kıza dönüyor: "Gittin... Yardım edeceğim dedin ve gittin." Profesör ilk kez özür diliyor ve onu sakinleştiriyor. Uçak alçalıyor, kızın kulakları acıyor, Profesör ona yutkunmasını söylüyor. Saadet'in son sözü aklında: "Senin adın... Ela mı?" Kız: "Ela..."
+Hat kıza dönüyor: "Gittin... Yardım edeceğim dedin ve gittin." Profesör ilk kez özür diliyor ve onu sakinleştiriyor. Uçak alçalıyor, kızın kulakları acıyor, Profesör ona yutkunmasını söylüyor. Profesör dışarıyı soruyor: Bu sefer uzakta tek tük ışıklar var. Saadet'in son sözü aklında: "Senin adın... Ela mı?" Kız: "Ela..."
 **Kanca:** Hat kesiliyor. Hırıltılı yaşlı bir adam (Dr. Ferit): "Merhaba yeniden, Profesörcüğüm."
-[Ela adı, kıza karşı yumuşaklık]
+[Ela adı, kıza karşı yumuşaklık, uzakta ışıklar]
 
 **Part 6 · Uyumayan Çocuklar** (03:40)
 Ferit, Mimar'ın mesajını okuyor: "Bu sefer bilmece yok, görev var. Askerini Karaköy iskelesinin altına gönder. Orada bir kutu var. Kutudaki kelime, cevaptır. Yirmi dakika. Tik tak." Hat kesiliyor, numara ve "CEVAP?" düşüyor.
@@ -53,9 +53,9 @@ Profesör numarayı arıyor, Ferit açıyor. Profesör: "Kanat." Mimar'ın alayc
 [Profesör adı, uykusuzluk, Mimar onu tanıyor]
 
 **Part 9 · Döngü** (04:00)
-Profesör kızı sakinleştiriyor. Tuna kızın arka planındaki motor sesini dinliyor: ses 47 saniyede bir birebir tekrar ediyor. Kızı korkutmamak için konuşmadan bir kâğıda yazıp Profesör'e gösteriyor: "MOTOR SESİ KAYIT." Profesör sakin sesini bozmadan kıza soru sormaya devam ediyor. Kız: "Profesör... pilot bile uyuyor." Profesör: "Pilot kim?"
+Profesör kızı sakinleştiriyor. Kız pencereden bakıyor: Işıklar çoğalmış, bir şehir. Tuna haritada rotayı hesaplıyor: Uçak İstanbul'a doğru alçalıyor. Aynı anda kızın arka planındaki motor sesini dinliyor: ses 47 saniyede bir birebir tekrar ediyor. Kızı korkutmamak için konuşmadan bir kâğıda yazıp Profesör'e gösteriyor: "MOTOR SESİ KAYIT." Profesör sakin sesini bozmadan kıza soru sormaya devam ediyor. Kız: "Profesör... pilot bile uyuyor." Profesör: "Pilot kim?"
 **Kanca:** Hat kesiliyor. Yaşlı, ağırbaşlı bir erkek sesi (Rauf Ergin) mesajı okumaya başlıyor.
-[motor sesi döngüsü, Pilot bile uyuyor]
+[İstanbul ışıkları, motor sesi döngüsü, Pilot bile uyuyor]
 
 **Part 10 · Akıl Hocası** (04:05)
 Rauf Mimar'ın mesajını okuyor: "Savcı beyi gönder. Hocası onu Bebek'teki evinde bekliyor. Asker de gidebilir ama içeri sadece savcı girer. Otuz dakika." Hat kesiliyor.
@@ -84,9 +84,9 @@ Tuna vakfın 1997'deki parasını bugünkü paravan şirketlere bağlıyor: O ge
 [üç şehir, izleniyorlar, ağ]
 
 **Part 15 · Bant** (05:05)
-Tuna, pille çalışan bir dizüstünde kızın sesini ayrıştırıyor. Sesin altında analog bant hışırtısı var: "Bu ses otuz yıllık bir kasetten üretilmiş bir yapay zekâ. Kız gerçek değil." Geri dönen Bora: "O zaman kimi kurtarıyoruz?" Profesör: "Otuz yıl önce kurtarılmayan birini."
+Kısa bir an kızın hattı açılıyor. Kız: "Köprü görünüyor! Işıklı bir köprü!" Bora: "Boğaz Köprüsü." Uçak İstanbul'un üstünde. Hat yine kesiliyor. Tuna, pille çalışan bir dizüstünde kızın sesini ayrıştırıyor. Sesin altında analog bant hışırtısı var: "Bu ses otuz yıllık bir kasetten üretilmiş bir yapay zekâ. Kız gerçek değil." Geri dönen Bora: "O zaman kimi kurtarıyoruz?" Profesör: "Otuz yıl önce kurtarılmayan birini."
 **Kanca:** Tuna'nın tuşlu telefonu çalıyor. Tuna koridora çıkıyor ve bir daha dönmüyor.
-[motor sesi döngüsü, yapay zekâ ses]
+[köprü ışıkları, motor sesi döngüsü, yapay zekâ ses]
 
 ---
 

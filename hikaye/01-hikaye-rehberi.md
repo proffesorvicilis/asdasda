@@ -10,13 +10,14 @@
 - Anlatıcı yok. Hikaye sadece karakterlerin konuşmaları ve arka plan sesleriyle ilerliyor.
 - Seslendirme ElevenLabs ile, her karakterin ayrı bir sesi var.
 - Her sahnede 2–4 kelimelik altyazı: kalın beyaz yazı, vurgulanan kelime turuncu.
-- Üst barda oyun arayüzü (HUD): SAAT · UÇUŞ KODU _ _ _ _ · YAKIT BİTİŞ 06:17 · SÜRE (bomba sayacı).
+- Üst barda oyun arayüzü (HUD): SAAT · RAKAMLAR _ _ _ _ · SÜRE (bomba sayacı).
 - Bazı partlar iki seçenekli bir kararla bitiyor, seçim yorumlarda yapılıyor.
 
 ## Ton
 
 - Yetişkin izleyiciye yönelik karanlık gerilim. Doğaüstü bir şey yok, her şey mantıklı.
-- Gerilim hiç düşmüyor, her saniye önemli. Sezon tek gecede geçiyor (03:17 – 06:17).
+- Gerilim hiç düşmüyor, her saniye önemli. Sezon tek gecede geçiyor (03:17'den şafağa).
+- Olayın öncesi anlatılmıyor. İzleyici olayın tam ortasına düşüyor.
 - Espri sadece karakterlerin ağzından, en gergin anlarda, kısa ve kuru.
 - Sherlock (BBC) yapısından ilham: zekice çıkarımlar, bilmeceler, kahramanla aynı zekâda bir kötü karakter.
 - Arka plan müziği yok. Tek müzik, Profesör'ün kendi odasında çaldığı keman.
@@ -36,7 +37,8 @@
 - Yuvarlak tel çerçeveli gözlük, kısa ve düzgün kesilmiş koyu sakal. Uzun koyu palto, siyah balıkçı yaka.
 - Hiç uyumuyor. Uyuyamadığı gecelerde mahzendeki kendi odasında keman çalıyor.
 - Sherlock'tan alınan özellikler: Bir insanı saniyeler içinde okuyor (eller, ses, nefes). Arka plan seslerinden konum çıkarıyor. Düşünürken gözlerini kapatıyor. Soğuk ve kibirli görünüyor, duygularını saklıyor.
-- Ekibe karşı soğuk ve hızlı, kıza karşı sıcak ve sabırlı. Bu yumuşaklığın nereden geldiğini kendisi de bilmiyor.
+- Ekibe karşı soğuk ve hızlı, kıza karşı sıcak ve sabırlı. Kızla doğal, kısa ve insanca konuşuyor, robotik açıklamalar yapmıyor. Bu yumuşaklığın nereden geldiğini kendisi de bilmiyor.
+- Meraklı: kıza kimle uçtuğunu, kaç yaşında olduğunu, nereye gittiğini, dışarıda ne gördüğünü soruyor.
 - **Amacı:** Kızı ve yolcuları kurtarmak. Uçağın gerçek olduğuna inanıyor.
 - **Kusuru:** Egoist. Mimar'ın bilmecelerini çözmek ona keyif veriyor. Bunu saklamaya çalışıyor ama ekip fark ediyor.
 - Zihnindeki odalardan biri hep kilitli, sebebini bilmiyor.
@@ -74,7 +76,7 @@
 
 ### Kız
 
-- 8 yaşlarında, kıvırcık saçlı. Uçakta herkes maske takmış ve uyuyor, sadece o maskesiz ve uyanık.
+- 7 yaşında, kıvırcık saçlı, yalnız uçuyor. Uçakta herkes maske takmış ve uyuyor, sadece o maskesiz ve uyanık. Bunun nasıl olduğu hiç anlatılmıyor.
 
 ## Mekân: Mahzen
 
