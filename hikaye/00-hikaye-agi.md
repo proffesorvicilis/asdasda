@@ -36,8 +36,9 @@
 - Doğaüstü hiçbir şey yok.
 - Telefondaki kız sesi **yapay zekâyla üretilmiş bir ses**. Ela'nın 1997'deki dahili telefon kayıtlarından eğitilmiş bir model. O, cümleleri canlı olarak yazıyor ve kızın sesinden konuşturuyor. Bu yüzden ses Profesör'ün sorularına cevap verebiliyor.
 - Bazı cümleler ise **gerçek 1997 kayıtlarının birebir kendisi**: "Lütfen biri yardım etsin. Uçak düşecek. Herkes uyuyor." ve "Pilot bile uyuyor."
-- **Uçak hiçbir zaman ekranda gösterilmez.** Ekranda sadece Profesör, oda ve ekip var. Uçağı izleyici arka plandaki seslerden anlar: motor uğultusu, kabin uyarı sesi, metal titreşimi. Gerçekte uçak olmadığı için bu, ifşanın kendisini de destekliyor.
-- **Telefonun karşı tarafı da gösterilmez.** Bombalı kadın, O ve kız sadece ses. Nerede olduklarını arka plan sesleri anlatır (martı, rüzgar, vapur düdüğü).
+- **Uçak ve kız ekranda görünür.** Bu görüntü, Profesör'ün kızı dinlerken zihninde canlandırdığı uçak. Gerçek bir uçak yok. İpuçları: uçak pencerelerinde bulut yok, sadece karanlık var (çatı katı). Maskeler bazı karelerde ipe asılı bardaklara benziyor.
+- **Görseller her şeyi açıklamaz.** Bilgiyi konuşmalar ve arka plan sesleri verir (motor uğultusu, kabin uyarı sesi, martı, rüzgar, vapur düdüğü). Görsel, atmosferi taşır.
+- **O hiçbir zaman gösterilmez.** Sadece sesi var.
 - **O konuşurken arka planda**, eski bir gramofonda kısık sesle **o şarkı** çalar. İzleyici fark etmeyebilir, ama Profesör fark eder.
 
 ---
@@ -94,7 +95,7 @@ O, 1997 gecesi "uyuyan" yetişkinleri sırayla indiriyor. Her görev bir yolcuya
 
 ## 6. Ton ve kurallar
 
-- **Görselle açıklama yok.** Ne olduğunu izleyici seslerden ve konuşmalardan anlar. Görseller sadece Profesör'ü, ekibi ve mekânı gösterir. Tek istisna Profesör'ün kendi anıları (Part 15 ve 22).
+- **Görselle her şey açıklanmaz.** Ne olduğunu izleyici konuşmalardan ve arka plan seslerinden anlar. Görsel atmosferi taşır, bilgiyi tekrar etmez.
 - **Duraklama yok.** Sessiz an olacaksa en fazla yarım saniye sürer. Replikler arka arkaya gelir, ses hiç boşa düşmez.
 - Her part bir öncekinin sorusunu cevaplar ve yeni bir soru açar.
 - Gerilim hiç düşmez. Espri sadece karakterlerin ağzından, en gergin anlarda ve kısa olur (Bora ile Tuna).
