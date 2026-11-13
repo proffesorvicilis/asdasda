@@ -1,9 +1,11 @@
-# Hikaye Rehberi
+# Profesör: Düşüş — Hikaye Rehberi
 
 ## Format
 
+- Seri adı: **Profesör: Düşüş**
 - Instagram Reels, dikey 9:16, part part (bölüm bölüm) interaktif seri.
-- Bölüm başına yaklaşık 90 saniye, 20–26 sahne.
+- Her part yaklaşık 30 saniye: 9–10 sahne, her sahne yaklaşık 3 saniye, seslendirme 55–65 kelime.
+- Her part bir kancayla bitiyor. Yorum seçimi birkaç partta bir geliyor.
 - Seslendirme ElevenLabs ile, anlatım ikinci tekil şahıs ("sen"). İzleyici Profesör'ün yerinde.
 - Her sahnede 2–4 kelimelik altyazı. Kalın beyaz yazı, vurgulanan kelime turuncu.
 - Ekranın üstünde oyun arayüzü (HUD): SAAT, İRTİFA, HAT, SÜRE gibi sayaçlar.
