@@ -51,7 +51,7 @@ Ekip, Profesör dahil 4 kişi. Hepsi toplama. Ekip resmi bir kurum değil, devle
 ### Profesör (ana karakter)
 
 - Türkiye'de birçok cinayeti çözmüş, kayıtlarda adı geçmeyen biri. Çıkarımda aşırı zeki.
-- Gözlüklü, keman çalıyor. Uyumuyor, gece 3'te keman çalıyor.
+- Gözlüklü (yuvarlak tel çerçeve), kısa ve düzgün kesilmiş koyu sakallı, keman çalıyor. Uzun koyu palto, siyah balıkçı yaka. Uyumuyor, gece 3'te keman çalıyor.
 - Sherlock'tan alınan özellikler: Bir insanı üç saniyede okuyor (ayakkabı, ses, nefes). Telefondaki arka plan seslerinden konum çıkarıyor. Düşünürken gözlerini kapatıp bilgileri zihnindeki odalara yerleştiriyor. Soğuk görünüyor, duygularını kibirle saklıyor. Dava yokken çürüyor.
 - Zihin odalarından biri hep kilitli, sebebini bilmiyor. Bu oda çocukluğuna açılıyor.
 - Gece çaldığı şarkıyı kimden öğrendiğini hatırlamıyor.
