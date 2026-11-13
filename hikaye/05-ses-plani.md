@@ -81,9 +81,16 @@ Sesler ElevenLabs Voice Library'den **ana dili Türkçe olan** seslerden seçile
 
 ## 4. Seçilen sesler
 
-| Karakter | Ses | Voice ID | Not |
-|---|---|---|---|
-| Kız | Gamze | `Hr3W7yWIljG9YBJn39oK` | Çizgi film karakteri sesi, en ince perde (medyan 381 Hz). Örnek: `hikaye/ses/secilen/kiz_gamze.mp3` |
+| Karakter | Ses | Voice ID | Stability | Not |
+|---|---|---|---|---|
+| Kız | Gamze | `Hr3W7yWIljG9YBJn39oK` | Creative | Çizgi film karakteri sesi, en ince perde (medyan 381 Hz). Telefon filtresi uygulanıyor. |
+| Profesör | Emin | `DsbR47WNEv8o9x37ib9X` | Natural | Keskin, karizmatik seslendirme sanatçısı (3. turdaki ilk aday) |
+| Bora | Emre | `euBhqSy9BY3XHNLwxF7J` | Natural | Doğal bariton |
+| Tuna | Agit Taşdemir | `qLctY6uJSzrtjp23kPzO` | Natural | Doğal, gerçekçi, nefesli |
+| Ömer | Aykut Ertuğrul | `E38heb42yln7Ox5qE9i9` | Natural | Sakin, ifadeli |
+| Saadet (rehine) | Tasarım 1 | `gXhtBWsl0fhuAbNHKhjA` | Creative | Voice Design ile tasarlandı. Mimar'ın sözlerini "kelime kelime" yöntemiyle okuyor. Telefon filtresi uygulanıyor. |
+
+**Saadet'in okuma yöntemi (kelime kelime):** Mimar'ın sözleri `[crying] [reading slowly from a paper, word by word]` etiketleriyle, kelime öbeklerinin arasına "..." konarak ve araya `[sniffles]`, `[sobbing]`, `[gasps]` serpiştirilerek üretiliyor. Kendi sözleri (`Lütfen... torunlarım evde yalnız`, `O gece çayı o verdi!`) ayrı üretiliyor: `[sobbing] [desperate]` ya da `[desperate] [shouting]`.
 
 **Kız sesi hakkında:** ElevenLabs Voice Design, 7 yaşında bir çocuk sesi tarifini güvenlik kuralları gereği engelledi. Kütüphanede de gerçek bir Türkçe çocuk sesi yok. Gamze, çocuksu tınıya en yakın ses.
 
@@ -121,6 +128,14 @@ Sesler ElevenLabs Voice Library'den **ana dili Türkçe olan** seslerden seçile
 - [x] ElevenLabs anahtarı doğrulandı (Starter plan).
 - [x] 1. tur denemeler üretildi. Sadece kız sesi (Gamze) seçildi.
 - [x] 2. tur denemeler üretildi (her ton ayrı). Rehine sesi Voice Design ile tasarlandı.
-- [ ] Kullanıcı Profesör, Bora, Tuna, Ömer ve Saadet için ses seçecek.
-- [ ] Seçilmeyen tasarım sesleri hesaptan silinecek (ses slotu boşaltmak için).
-- [ ] Onaydan sonra Part 1–4'ün bütün replikleri üretilip birleştirilecek.
+- [x] Bütün sesler seçildi. Seçilmeyen tasarım sesleri hesaptan silindi.
+- [x] Part 1–4 üretildi: `hikaye/ses/partN_tam.mp3` (birleşik), `hikaye/ses/partN/` (tek tek replikler), `hikaye/ses/partN_zamanlama.md` (her repliğin başlangıç ve bitiş saniyesi).
+
+## 8. Üretim notları (Part 1–4)
+
+- Her parça yazıya çevrilip senaryoyla karşılaştırıldı. Uymayan parçalar otomatik olarak yeniden üretildi. Yakalanan hatalar: "Yedi" yerine "Yeter", "Duyuyorum" yerine "Duyuyor o", "Yani" yerine "Eee, yani", "Ada büyük" yerine "Adı büyük", "Telefonu bırak" yerine uydurulmuş İngilizce kelimeler.
+- Ağlaması gereken satırlarda gülme algılanırsa satır yeniden üretiliyor (kızın "Bilmiyorum" repliği bu yüzden 4 kez üretildi).
+- Satır içindeki duraklamalar en fazla yaklaşık 0,25 saniyeye sıkıştırıldı.
+- Part 2'de kız "Benim adım Ela" diyor ama ses "E" harfinde cızırtıyla kesiliyor (kesme noktası kelime zamanlarından bulundu).
+- Hattın kesildiği yerlerde kısa bir cızırtı var. Patlama, motor sesi, keman, martı gibi efektler bu dosyalarda yok, kurguda ayrıca eklenecek.
+- Bütün part dosyaları -16 LUFS'a normalize edildi.
