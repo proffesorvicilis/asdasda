@@ -78,8 +78,31 @@ Sesler ElevenLabs Voice Library'den **ana dili Türkçe olan** seslerden seçile
 
 ---
 
-## 4. Durum
+## 4. Adaylar ve denemeler
 
-- [ ] ElevenLabs anahtarı doğrulanacak (`onboard check`).
-- [ ] Sesler kütüphaneden seçilecek ve her karakter için kısa bir deneme cümlesi üretilip kullanıcıya dinletilecek.
+Denemeler `hikaye/ses/denemeler/` klasöründe. Hepsi senaryodaki repliklerden, etiketli ve `eleven_v3` ile üretildi. Konuşmayı yazıya çevirerek kontrol edildi: etiketler sesli okunmamış, metinler doğru çıkmış.
+
+| Karakter | Aday | Voice ID | Not |
+|---|---|---|---|
+| Profesör | A · Mustafa Erkek | `Vbx8qgYYdsXg0blBt1S8` | Sinematik, orta-alçak perde, kontrollü duygu |
+| Profesör | B · Celil | `Zpbxhg6LG47cY8y5BJrf` | Derin, sakin ama yoğun, belgesel/dram |
+| Kız | A · Gamze | `Hr3W7yWIljG9YBJn39oK` | Çizgi film karakteri sesi, en ince perde (medyan 381 Hz) |
+| Kız | B · Tuana Öztürk | `ABViQqybYl9g037AxITK` | "Genç Türk kız" tarifli, yetişkin perdesinde (276 Hz) |
+| Kız | C · Gözde | `rtnDjO8siSxeTEeTVczO` | Duygusal, oyuncu sesi, ince perde (356 Hz) |
+| Bora | A · Akay | `XjeT2V2moeoWReDQKJU8` | Derin bariton, otoriter |
+| Bora | B · Umtu | `UPDVzVajMB72ut1Iympq` | Pürüzlü (raspy), özgün |
+| Tuna | A · Furkan | `Dzgub2SzfGvifooR4JMV` | Genç, doğal, sakin |
+| Tuna | B · Selim Mercan | `fW7rletfQVdBv3kQJPr2` | Genç, keskin, akıcı |
+| Ömer | A · Mahmut Hoca | `xHqOjnu0AbcqNgTDQJu6` | Tarifi "54 yaşında, ciddi, derin, ölçülü" |
+| Ömer | B · Şefik | `anu8LIf3pYhCJFkcpxzg` | Sıcak, otoriter bariton |
+| Saadet | A · Mimoza | `J2f0yzAg5MILTXuHmQvk` | Gerçekçi seslendirme sanatçısı, canlı oyunculuk |
+| Saadet | B · Nuray | `WgkQ6iX2TeKqW6ww3mEZ` | Sıcak, doğal |
+
+**Kız sesi hakkında:** ElevenLabs Voice Design, 7 yaşında bir çocuk sesi tarifini güvenlik kuralları gereği engelledi. Kütüphanede de gerçek bir Türkçe çocuk sesi yok. Bu yüzden adaylar, çocuksu tınıya en yakın genç kadın sesleri.
+
+## 5. Durum
+
+- [x] ElevenLabs anahtarı doğrulandı (Starter plan).
+- [x] Her karakter için 2–3 aday seçildi, etiketli denemeler üretildi.
+- [ ] Kullanıcı her karakter için bir ses seçecek.
 - [ ] Onaydan sonra Part 1–4'ün bütün replikleri üretilip birleştirilecek.
