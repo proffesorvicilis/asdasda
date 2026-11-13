@@ -103,5 +103,8 @@ Ekip, Profesör dahil 4 kişi. Hepsi toplama. Ekip resmi bir kurum değil, devle
 - Model: Türkçe için Multilingual v2 ya da Eleven v3.
 - Stability %30–40 civarında olsun. Çok yüksek olursa ses düz ve robot gibi kalıyor.
 - Her ses ayrı üretilmeli. Senaryodaki `[ANLATICI]` gibi isim etiketleri ElevenLabs'e yapıştırılmamalı.
-- v3'te `[whispers]`, `[crying]` gibi ses etiketleri ve `...` kullanılabilir. v2'de duraklamalar için `<break time="0.8s" />` kullanılıyor.
+- v3'te `[whispers]`, `[crying]` gibi ses etiketleri kullanılabilir.
+- **Duraklama yok.** Replikler arka arkaya gelir. `<break>` etiketi ya da uzun `...` kullanılmaz. Sessiz an en fazla yarım saniye.
+- Telefonun karşı tarafı (kız, O, bombalı kadın) hafif telefon filtresiyle verilir. Arka plan sesleri (uçak, deniz, gramofon) ayrı katman olarak konur.
+- Her zaman önce `00-hikaye-agi.md` dosyasına bakılır.
 - Ses efektleri (keman, telefon titreşimi, kabin uyarı sesi, motor uğultusu, hat cızırtısı, martı, rüzgar, vapur düdüğü) ayrı üretilip altına konmalı.
