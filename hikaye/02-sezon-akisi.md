@@ -1,148 +1,148 @@
-# Profesör: Düşüş — 1. Sezon Akışı (24 part, her biri ~40–45 sn)
+# Profesör: Düşüş — 1. Sezon Akışı
 
-> Her part yazılmadan önce `00-hikaye-agi.md` dosyasına bakılır. Köşeli parantez içindeki notlar, partın ağdaki hangi bağlantıyı kullandığını gösterir.
+> **Tek gece: 03:17 → 06:17.** 24 part, her biri yaklaşık 45–55 saniye. Her part yazılmadan önce `00-hikaye-agi.md` dosyasına bakılır.
+> Parantez içindeki saat, partın hikayede başladığı saat. Köşeli parantezler, partın ağdaki hangi bağlantıyı kullandığını gösterir.
 
 ---
 
-## 1. PERDE: ÇAĞRI (Part 1–6)
+## 1. PERDE: ÇAĞRI (03:17 – 04:05)
 
-**Part 1 · Bu Sefer**
-Profesör gece 3'te han'ın müzik odasında o şarkıyı çalarken telefon çalıyor. Ağlayan bir kız: uçak düşecek, herkes uyuyor. Profesör ilk cümleden ciddiye alıyor. Kız numarayı koltuk cebindeki "Uçak düşerse Profesörü ara" yazan bir kâğıttan bulmuş. Profesör: "O ismi kimse bilmez." Kabinde herkes maske takmış ama uyuyor, sadece kız takmamış ve uyanık. Profesör çözüyor: maskelerden gaz geliyor. Kıza maskeyi takmamasını söylüyor, ekibi çağırıyor.
+**Part 1 · Bu Sefer** (03:17)
+Mahzen. Ekibin hepsi orada, kimse uyumuyor. Gizli numaradan ağlayan bir kız arıyor: uçak düşecek, herkes uyuyor. Profesör ilk cümleden ciddiye alıyor, ekip aynı anda işe koyuluyor. Profesör pilotları soruyor: kokpit kapısı açık, iki pilot da maskeli ve uyuyor. Kabinde herkes maske takmış ve uyuyor, sadece kız takmamış ve uyanık. Profesör çözüyor: maskeyi takan uyumuş. Bora tamamlıyor: maskelerde gaz var. Kız numarayı koltuk cebindeki bir kâğıttan bulmuş: "Uçak düşerse Profesörü ara." Ömer: "O ismi bu odanın dışında kimse bilmez."
 **Kanca:** Kâğıdın arkasında "Bu sefer telefonu aç" yazıyor.
-[03:17, şarkı, Profesör adı, maskeler, herkes uyuyor, bu sefer telefonu aç]
+[03:17, herkes uyuyor, maskeler, kokpit kapısı, Profesör adı, bu sefer telefonu aç]
 
-**Part 2 · Kayıp Uçak**
-Ekip han'a geliyor, telefon hoparlörde. Bora'nın kara esprisi geliyor. Tuna'ya göre hat aynı anda üç şehirde: "ya bir devlet ya devletin içindeki biri." Ömer'e göre havada kayıp uçak yok. Profesör kızın adını soruyor, kız "Sen biliyorsun" diyor. Uçak sesi kesiliyor, gramofonda aynı şarkı çalıyor. O: "Hâlâ benim şarkımı çalıyorsun. O şarkıyı sana kim öğretti?"
-**Kanca:** Profesör hatırlamıyor.
-[kayıp uçak yok, sen biliyorsun, üç şehir, şarkı, gramofon]
+**Part 2 · Davet** (03:20)
+Tuna: hat aynı anda üç şehirde görünüyor, "ya bir devlet ya devletin içindeki biri." Ömer: havada kayıp ya da cevap vermeyen uçak yok. Bora transponder ihtimalini atıyor, Tuna askeri radara erişimleri olmadığını söylüyor. Profesör: "Otuz bin feette telefon çekmez... Ya da o kız hiç havada değil." Sonuç: "Bu bir yardım çağrısı değil. Bu bir davet." Profesör kızın adını soruyor, kız "Sen biliyorsun" diyor. Hat değişiyor: rüzgar, martılar, hıçkıran bir kadın. Kadın, kulağındaki sesin sözlerini tekrarlıyor: "Merhaba Profesör. Uyuyamadın mı yine? Ben de... Tik tak, tik tak."
+**Kanca:** "Göğsümde bir bomba var!"
+[üç şehir, kayıp uçak yok, telefon çekmez, sen biliyorsun, Mimar rehinenin ağzından]
 
-**Part 3 · Bilmece**
-O kuralı koyuyor: bilmece çözülürse hat açık kalır, çözülmezse kız yalnız kalır. Ömer'e "Polis zaten benim, savcı bey" diyor. Medusa bilmecesini Profesör anında çözüyor. Bombalı bir kadın (Saadet) hatta bağlanıyor. Profesör arka planda martı, rüzgar ve vapur düdüğü duyuyor: "Sarnıçta martı olmaz." Bilmece doğru ama kadın orada değil.
-**Kanca ve seçim:** SARNIÇ / SES. Ekip ikiye bölünüyor. Seçim, bir sonraki partta kimin izleneceğini belirliyor.
-[önce oyun, Medusa, Saadet, ada sesi]
+**Part 3 · Dokuz Kardeş** (03:24)
+Mimar kadının ağzından kuralları koyuyor: Uçağın yakıtı 06:17'de bitiyor. Uçağın yerini bir tek o biliyor. Her doğru cevap bir rakam, dört rakam bir uçuş kodu. Ömer araya giriyor, Mimar: "Kadını boş ver savcı bey. Polis zaten benim." Birinci bilmece: "Dokuz kardeşiz, denizin ortasında. Ne en büyüğüyüm ne en küçüğü. Sırtımda yük taşırım." Kadının kırk dakikası var. Profesör kısa düşünüyor, Tuna katkı veriyor: Heybeliada. Telefondaki vapur düdüğü doğruluyor. İlk rakam: 0. Ömer: "Gülümsüyorsun." Profesör: "Hayır."
+**Kanca ve seçim:** "Hat tek, Profesör. Kadınla konuşursan kızın sesi kesilir. Kızla konuşursan kadın yalnız kalır. Seç." → **KADIN / KIZ**
+[06:17, oyunun kuralları, polis zaten benim, Heybeliada, bilmece keyfi]
 
-**Part 4 · İkiye Bölünme**
-Bora ile Tuna sarnıca, Profesör ile Ömer Kabataş'tan kalkan son motora gidiyor. Yorumda hangisi seçildiyse o taraf izleniyor, diğerine son saniyede kısa bir kesme yapılıyor. Sesin geldiği yer Heybeliada iskelesi.
-**Kanca:** Saadet'in sayacı 12 dakika.
-[ada]
+**Part 4 · Tekne** (03:35)
+Profesör ve Bora Karaköy'den tekneyle adaya gidiyor, Tuna ve Ömer mahzende. Yorumlarda hangi hat seçildiyse o dinleniyor. KIZ seçildiyse: kız uçağın sallandığını söylüyor, Profesör onu sakinleştiriyor, o sırada kadının sayacı akıyor. KADIN seçildiyse: kadın Mimar'ın sözleriyle alay ediyor ("Tekne yavaş Profesörcüğüm. Tik tak."). İki yol da aynı yere çıkıyor.
+**Kanca:** Karanlıkta, dalgakıranın ucunda yanıp sönen kırmızı bir ışık.
+[seçim, sayaç]
 
-**Part 5 · Ters Baş / İskele**
-*Sarnıç tarafı:* Bora, Medusa başının altında suya batırılmış bir kutu buluyor. İçinde üzerinde "KANAT 03:17" yazan eski bir kaset var.
-*İskele tarafı:* Profesör dalgakıranda Saadet'i buluyor ve onu okuyor: hemşire elleri, 30 yıllık bir suçluluk, ada aksanı. O, kulaklıktan bir soru gönderiyor: "Ona sor. O gece neden uyudu?"
-**Kanca:** Saadet ağlayarak bir isim söylemek üzere.
-[Medusa ve kaset, Saadet ve 1997]
+**Part 5 · İskele** (03:58)
+Dalgakıran. Profesör kadını okuyor: ellerinde yıllarca dezenfektan kullanmaktan çatlaklar, yakasında ters takılmış eski bir hemşire saati, ada ağzı. "Hemşiresin. Bu adada çalışmışsın." Bora bombaya bakıyor: "Sökemem, sensör var." Mimar kadının ağzından: "Hâlâ çok iyisin Profesörcüğüm. Sana bilmece çözmeyi kim öğretmişti, hatırlıyor musun?" Profesör hatırlamıyor. Mimar: "Ona sor: O gece neden uyudu?"
+**Kanca:** Profesör: "Hangi gece?"
+[bilmeceyi kim öğretti, Saadet, 1997]
 
-**Part 6 · İlk Yolcu**
-Saadet: "Çayı o verdi... hepimiz uyuduk... Ela'yı bırakmamalıydık." "Ela" adını duyunca Profesör'ün zihnindeki kilitli kapı ilk kez sarsılıyor. Sayaç sıfırlanıyor, bomba patlıyor. Saadet ölüyor, Profesör yere savruluyor.
-O: "Birinci yolcu indi."
-[herkes uyuyor (çay), Ela adı, kilitli oda, ölümler gerçek]
+**Part 6 · İlk Yolcu** (04:04)
+Kadın (Saadet) kendi sesiyle, hıçkırarak: "Çayı o verdi... Hepimiz uyuduk... Ela'yı bırakmamalıydık." "Ela" adı Profesör'ün zihninde bir kapıyı sarsıyor: yarım saniyelik bir görüntü, ipe asılı sarı bir bardak. Mimar Saadet'in ağzından: "Tik tak... Yanlış soruyu sordun, Profesör." Bora Profesör'ü geriye çekiyor. Patlama. Saadet ölüyor.
+**Kanca:** Hat kıza dönüyor: "Profesör? Gittin... Yardım edeceğim dedin ve gittin."
+[çay, herkes uyuyor, Ela adı, kilitli oda, ölümler gerçek]
 
 ---
 
-## 2. PERDE: YOLCULAR (Part 7–15)
+## 2. PERDE: YOLCULAR (04:05 – 05:40)
 
-**Part 7 · Bant**
-Üste kaset dinleniyor. Bu gece telefonda duydukları cümlenin aynısı, 30 yıllık bantta da var: "Lütfen biri yardım etsin. Uçak düşecek. Herkes uyuyor." Tuna, telefondaki sesin bu banttan üretilmiş bir yapay zekâ modeli olduğunu buluyor.
-Profesör: "Uçak yok. Bant var."
-**Kanca:** Bantın sonunda çocuk sesleri: "Yardımcı pilot neredesin?"
-[kayıp uçak yok, yapay zekâ ses, uçak oyunu]
+**Part 7 · Döngü** (04:10)
+Mahzende Tuna, kızın arka planındaki motor sesini analiz ediyor: ses 47 saniyede bir birebir tekrar ediyor. "Bu motor sesi bir kayıt." Profesör (telefonda, adadan): "Ses kayıt. Ama kız sorularıma canlı cevap veriyor." Hat değişiyor: hırıltılı bir yaşlı adam, Mimar'ın sözleriyle ikinci bilmece. Cevap adadaki terk edilmiş sanatoryuma çıkıyor.
+**Kanca:** "Otuz dakika. Tik tak."
+[motor sesi döngüsü, ikinci yolcu]
 
-**Part 8 · Dosya**
-Ömer, Kanat Vakfı'nın kapatılmış dosyasını buluyor. 1997'de Heybeliada'da yangın çıkmış, saat 03:17. Sebebi "elektrik kontağı", bir çocuk kayıp. Dosyayı kapatan savcı Rauf Ergin, bugün yüksek yargıda.
-**Kanca:** Profesör saate bakıyor. Her gece aynı saatte uyanıyor.
-[03:17, devlet çürümüşlüğü, Rauf]
+**Part 8 · Beyaz Duvarlar** (04:13)
+Profesör bilmeceyi düşünüyor. Bora: "Hoşuna gidiyor, değil mi?" Profesör: "Konsantre olmama izin ver." Cevap: Heybeliada'daki terk edilmiş sanatoryum. Karanlıkta tepeye koşuyorlar.
+**Kanca:** Koridorun sonunda yatağa bağlı bir adam, başında ölü adam düğmesi tutan maskeli biri.
+[bilmece keyfi]
 
-**Part 9 · Pilot**
-Kız yeniden arıyor ve bantta da olan bir cümle söylüyor: "Pilot bile uyuyor." Profesör "Pilot kim?" diye soruyor, hat kesiliyor. O ikinci bilmeceyi gönderiyor: uyku ve beyaz duvarlarla ilgili. Cevap Heybeliada'daki terk edilmiş sanatoryum.
-**Kanca:** Sanatoryumda bir yatak, yatakta bir adam var.
-[Pilot, uykusuzluk]
-
-**Part 10 · Uyumayan Çocuklar**
-Dr. Ferit yatağa bağlı. O, Profesör'e soruları kendisinin sormasını söylüyor. Ferit konuşuyor: "Çocukları uyutmazdık. Zihnin sınırını görmek için. En iyisi sendin... Profesör." Profesör gözlüğüne dokunuyor. Hiç uyumuyor.
-**Kanca:** Lakabını ona burada vermişler.
+**Part 9 · Uyumayan Çocuklar** (04:30)
+Dr. Ferit hem Mimar'ın sözlerini hem kendi itirafını konuşuyor: "Çocukları uyutmazdık. Zihnin sınırını görmek için. En iyisi sendin... Profesör." Lakabın nereden geldiği ortaya çıkıyor. Profesör gözlüğüne dokunuyor: kendisi de hiç uyumuyor.
+**Kanca:** Maskeli adam: "On saniye."
 [uykusuzluk, Profesör adı]
 
-**Part 11 · Bora'nın Atışı**
-Ferit'in başında ölü adam düğmesi tutan maskeli bir adam var. O, Bora'ya: "On saniye. Vur ya da herkes ölür." Bora sayıyor, geçmişi gözünün önünden geçiyor. Bu sefer tetiği çekiyor. Düğme bir kayışla sabitlenmiş, bomba patlamıyor. O yaşamalarına izin verdi.
-**Kanca:** O: "Aferin asker. Sıradaki seçim o kadar kolay olmayacak."
+**Part 10 · Bora'nın Atışı** (04:38)
+Mimar, Ferit'in ağzından: "Vur ya da herkes ölür, asker." Bora sayıyor, geçmişi gözünün önünden geçiyor. Bu sefer tetiği çekiyor. Düğme bantla sabitlenmiş, bomba patlamıyor: Mimar buna izin vermiş. İkinci rakam: 3.
+**Kanca:** "Aferin asker. Sıradakinde bu kadar şanslı olmayacaksın."
+**Seçim (isteğe bağlı):** ATEŞ / BEKLE
 [Bora'nın yarası, Bora'nın ölümüne hazırlık]
 
-**Part 12 · Ağ**
-Tuna, vakfın 1997 parasının izini sürüyor: bugünkü paravan şirketlere, ihalelere ve isimlere uzanıyor. O gece uyuyan, susan ya da imza atan herkes bugün zengin ve korunuyor. Hat neden üç şehirde birden çıkıyordu, şimdi anlaşılıyor.
-**Kanca:** Listedeki isimlerden biri Ömer'in "temiz" saydığı bir isim.
-[üç şehir, devlet çürümüşlüğü]
+**Part 11 · Dosya** (04:45)
+Mahzende Ömer, Saadet ile Ferit'in adlarını kapalı arşivlerde arıyor. İkisi de 1997'de Heybeliada'daki Kanat Vakfı'nda çalışmış. Vakfın dosyası mühürlü: yangın, bir çocuk kayıp. Dosyayı kapatan savcı Rauf Ergin.
+**Kanca:** Ömer: "Rauf Ergin benim hocam."
+[devlet, Rauf, 1997]
 
-**Part 13 · Akıl Hocası**
-O, Ömer'e görev veriyor: gece adliyeye girip Rauf Ergin'den itiraf alacak, itirafı da kayda alacak. Ömer, gençliğinde örnek aldığı adamın karşısında oturuyor.
-**Kanca:** Rauf: "Sana o dosyayı ben öğrettim Ömer."
-[Rauf, Ömer]
+**Part 12 · Ağ** (04:55)
+Tuna vakfın 1997'deki parasını bugünkü paravan şirketlere bağlıyor: O gece uyuyan, susan ya da imza atan herkes bugün zengin ve korunuyor. Hattın neden üç şehirde birden göründüğü anlaşılıyor. Sonra Tuna'nın ekranları tek tek kararıyor, mahzene sızılmış. Tuna ve Ömer mahzeni terk edip ikinci bir tekneyle adaya geçiyor.
+**Kanca:** Kararmış ekranda tek satır: "Dördüncü yolcu sizden."
+[üç şehir, ağ, polis zaten benim]
 
-**Part 14 · İtiraf**
-Rauf: "Dosyayı ben kapattım. Kızın cesedi... hiç bulunmadı." Bir saniye sonra pencereden gelen bir kurşunla vuruluyor. Ömer kanın içinde kalakalıyor.
-**Kanca:** Ela'nın cesedi hiç bulunmadı.
-[Ela, ceset yok]
+**Part 13 · Akıl Hocası** (05:10)
+Üçüncü bilmece Rauf'un ağzından geliyor, cevap adanın eski kayıkhanesi. Ömer hocasının karşısında. Rauf kendi sesiyle: "Dosyayı ben kapattım. Kızın cesedi... hiç bulunmadı." Üçüncü rakam: 1. Bir saniye sonra karanlıktan bir kurşun geliyor.
+**Kanca:** Rauf yere düşüyor.
+[ceset yok, devlet]
 
-**Part 15 · Kilitli Oda**
-Profesör gece 3'te şarkıyı çalarken kilitli oda aralanıyor. Bir çatı katı, sıra sıra dizilmiş sandalyeler, ipe asılı sarı bardaklar. Kemanlı, büyük bir çocuk: "Ben pilotum, sen yardımcı pilotsun." Çocuğun yüzü bulanık.
-**Kanca:** Uçak oyununu hatırlıyor.
-[şarkı, Pilot, maskeler, uçak oyunu]
+**Part 14 · Pilot** (05:25)
+Hat kıza dönüyor. Kız, gerçek 1997 kaydıyla: "Pilot bile uyuyor." Profesör: "Pilot kim?" Hat kesiliyor. Profesör'ün kilitli odası aralanıyor: bir çatı katı, sıra sıra sandalyeler, ipe asılı sarı bardaklar. Büyük bir çocuk: "Ben pilotum, sen yardımcı pilotsun." Çocuğun yüzü bulanık.
+**Kanca:** Profesör: "Uçak oyunu..."
+[Pilot bile uyuyor, maskeler = bardaklar, kilitli oda]
+
+**Part 15 · Bant** (05:35)
+Tuna kızın sesini ayrıştırıyor. Sesin altında analog bant hışırtısı var: "Bu ses otuz yıllık bir kasetten üretilmiş bir yapay zekâ. Kız gerçek değil." Bora: "O zaman kimi kurtarıyoruz?" Profesör: "Otuz yıl önce kurtarılmayan birini."
+**Kanca:** Tuna'nın tuşlu telefonu çalıyor.
+[telefon çekmez, motor sesi döngüsü, yapay zekâ ses]
 
 ---
 
-## 3. PERDE: DÜŞÜŞ (Part 16–20)
+## 3. PERDE: DÜŞÜŞ (05:40 – 06:05)
 
-**Part 16 · Son Sayım**
-Bora ile Tuna arasında kısa ve kuru bir şaka. Hemen ardından Tuna'nın yeleğine bomba bağlandığı ortaya çıkıyor, ölü adam düğmesi yok. Bora yeleği Tuna'nın üstünden söküp kendine geçiriyor ve iskeleden denize koşuyor. Saymaya başlıyor. Bu sefer sayımı bitiriyor.
-**Kanca:** Deniz patlıyor.
+**Part 16 · Dördüncü Yolcu** (05:42)
+Tuna kayboluyor. Hat açılıyor: Tuna'nın sesi geliyor, kulağında Mimar, göğsünde bomba. Mimar'ın sözleri bu sefer bir arkadaşın ağzından çıkıyor: "Tik tak Profesör. Bu sefer tanıdık bir ses." Dördüncü bilmecenin cevabı Değirmen Burnu.
+**Kanca:** Bora, Profesör'den önce koşmaya başlıyor.
+[dördüncü yolcu sizden]
+
+**Part 17 · Son Sayım** (05:52)
+Değirmen Burnu. Bombada ölü adam düğmesi yok, sadece sayaç var. Bora yeleği Tuna'nın üstünden söküp kendisi giyiyor, kayalardan denize koşuyor ve sayıyor. Bu sefer sayımı bitiriyor. Patlama. Mimar, Tuna'nın ağzından son rakamı veriyor: 7.
+**Kanca:** Deniz.
 [Bora'nın sayması, ekipten ölüm]
 
-**Part 17 · Sessizlik**
-Ekip iskelede. Tuna'nın elinde Bora'nın montu, Ömer konuşamıyor. Profesör ilk kez bir şey hissediyor ve bunu saklayamıyor. O arıyor ama Profesör ilk kez telefonu açmıyor.
-**Kanca:** Telefon çalmaya devam ediyor.
+**Part 18 · Sessizlik** (05:55)
+Tuna'nın elinde Bora'nın montu var. Kimse konuşmuyor. Profesör ilk kez bir bilmeceden keyif almıyor. Telefon çalıyor ve Profesör açmıyor.
+**Seçim:** AÇ / AÇMA
 [telefonu açmamak, 1997'nin aynası]
 
-**Part 18 · Aynı Oyun**
-Profesör bu gecenin bilmecelerini, kaset kutusundan çıkan 1997 bilmece notlarıyla karşılaştırıyor. Sorular aynı, el yazısı aynı, "Bu sefer telefonu aç" notu da aynı elden. Kafasında taşlar yerine oturuyor: o gece de önce oyun vardı, sonra kız. Bilmecedeydi, telefonu açmadı.
-**Kanca:** "Ben açmadım."
-[keman güzeldi, önce oyun, 1997'nin aynası]
+**Part 19 · 0317** (06:00)
+Kod tamam: 0-3-1-7. Tuna: "Böyle bir uçuş yok. Bu bir uçuş kodu değil... bir saat." Ömer: "Vakıf yangını 03:17'de başlamış." Profesör: "Uçak hiçbir zaman havada değildi. Uçak burada. Köşkte."
+**Kanca:** Köşkün bekçi evinde bir ışık yanıyor.
+[03:17, Heybeliada, kayıp uçak yok]
 
-**Part 19 · Müdire**
-Ömer, Müdire Nevin Akalın'ı vakfın parasıyla kurulmuş özel bir klinikte buluyor. Yaşlı kadın gülümsüyor: "Pilot ölmedi. Ona yeni bir isim verdim. Devlet de yardım etti."
-**Kanca:** Profesör o ismi sorduğu anda Müdire'nin odasının ışıkları sönüyor.
+**Part 20 · Müdire** (06:05)
+Nevin Akalın'ın kulağında bir kulaklık var. Mimar'ın son ağzı o: "Pilot ölmedi, Profesör. Ona yeni bir isim verdim. Yalnız gel, yardımcı pilot. Uçak seni bekliyor."
+**Kanca:** Profesör ekibi durduruyor ve köşke tek başına yürüyor.
 [Pilot yaşıyor, devlet]
-
-**Part 20 · Son Çağrı**
-Saat yine 03:17. Kızın sesi bu kez hiçbir bantta olmayan bir cümle söylüyor: "Abi... neden gelmedin?" O: "Yalnız gel, yardımcı pilot. Uçak seni bekliyor."
-**Kanca:** Profesör tek başına adaya giden motora biniyor.
-[sen biliyorsun, kardeş, yardımcı pilot]
 
 ---
 
-## 4. PERDE: KARA KUTU (Part 21–24)
+## 4. PERDE: KARA KUTU (06:05 – 06:17)
 
-**Part 21 · Köşk**
-Heybeliada'da yanık köşk. Gece, ay ışığı. Profesör merdivenleri çıkıyor, her basamakta bir anı parçası geliyor.
+**Part 21 · Köşk** (06:08)
+Yanık köşk, şafak öncesi. Profesör merdivenleri çıkıyor, her basamakta bir anı kırıntısı geliyor.
 **Kanca:** Çatı katının kapısı aralık.
 
-**Part 22 · Uçak**
-Çatı katında sandalyeler yolcu koltukları gibi dizilmiş, tavandan ipe asılı sarı bardaklar sallanıyor, eski dahili telefon duvarda. Pilot koltuğunda eski bir keman ve üstünde "Yardımcı pilota" yazan bir kaset var. Profesör şarkıyı çalıyor ve kilitli oda tamamen açılıyor: Ela, onun kız kardeşi. O gece telefonu açmadı.
+**Part 22 · Uçak** (06:12)
+Çatı katında sandalyeler yolcu koltukları gibi dizili, tavandan ipe asılı sarı bardaklar sarkıyor, duvarda eski dahili telefon var. Kilitli oda tamamen açılıyor: Ela, onun kız kardeşi. O gece bodrumda bir bilmece ve çalıp da açılmayan bir telefon vardı.
 **Kanca:** Duvardaki dahili telefon çalıyor.
-[uçak = çatı katı, maskeler, şarkı, Ela = kardeş, kilitli oda]
+[maskeler = bardaklar, Ela = kardeş, bu sefer telefonu aç, bilmece keyfi]
 
-**Part 23 · Pilot**
-Dahili telefondan canlı bir ses geliyor. Bu kez O'nun kendi sesi, yapay zekâ yok: "Hoş geldin yardımcı pilot. Uçak hiç düşmedi Profesör. Sadece sen uyudun." Profesör onun sesini tanıyor.
-**Kanca:** Profesör onun gerçek adını fısıldıyor. Ad duyulmuyor.
-[Pilot bile uyuyor, kim uyudu]
+**Part 23 · Pilot** (06:15)
+Profesör'ün cebindeki telefondan ilk kez Mimar'ın kendi sesi geliyor, alaycı ve sakin: "Hoş geldin yardımcı pilot. Son bilmece masada. Ya onu çözersin ya telefonu açarsın. Otuz yıl önce ne seçtiğini ikimiz de biliyoruz." Masada 1997'de yarım kalan bilmece duruyor. Duvardaki dahili telefon çalmaya devam ediyor. Profesör bilmeceye bakıyor... ve telefonu açıyor.
+**Kanca:** Dahili telefondan kızın sesi geliyor.
+[Pilot bile uyuyor, bu sefer telefonu aç]
 
-**Part 24 · 2. Sezon**
-Üste dönen Tuna'nın tuşlu telefonuna bir mesaj geliyor. Tek satır: "Ela yaşıyor."
-**Kanca:** 2. SEZON.
+**Part 24 · Kara Kutu** (06:17)
+Kız: "Abi... neden bu kadar geç kaldın?" Bu cümle hiçbir bantta yok. Tuna kulaklıktan: "Profesör... bu ses sentetik değil. Bu canlı."
+**Kanca:** 2. SEZON
 [ceset yok, Ela]
 
 ---
 
 ## Seçim noktaları
 
-- **Part 3: SARNIÇ / SES.** Part 4 ve 5'te kimin izleneceğini belirliyor. Hikaye iki yolda da aynı yere, Part 6'ya bağlanıyor.
-- **Part 11'in sonu: ATEŞ / BEKLE** (isteğe bağlı). Bora'nın kararını yorumlara bırakmak için. İki sonuç da Part 12'ye bağlanıyor.
-- **Part 17'nin sonu: AÇ / AÇMA.** Profesör telefonu açsın mı? Açarsa Part 18 O'nun sesiyle başlar, açmazsa Profesör tek başına çözer. İki yol da aynı ifşaya varıyor.
+- **Part 3: KADIN / KIZ.** Part 4'te hangi hattın dinleneceğini belirliyor. İki yol da Part 5'te aynı yere bağlanıyor.
+- **Part 10: ATEŞ / BEKLE** (isteğe bağlı). Bora'nın kararını yorumlara bırakmak için. İki sonuç da Part 11'e bağlanıyor.
+- **Part 18: AÇ / AÇMA.** Profesör telefonu açsın mı? İki yol da Part 19'daki ifşaya varıyor.

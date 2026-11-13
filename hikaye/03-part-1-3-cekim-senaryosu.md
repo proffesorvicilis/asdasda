@@ -1,195 +1,178 @@
 # Profesör: Düşüş — Part 1–3 Senaryo
 
 > `00-hikaye-agi.md` dosyasına göre yazıldı.
-> **Kurallar:** Anlatıcı yok. Duraklama yok. Her part tek, kesintisiz bir sahne gibi akıyor ve bir öncekinin bittiği andan devam ediyor. Uçak ve kız ekranda görünüyor: kabinde herkes sarı maske takmış ve uyuyor, sadece kız maskesiz ve uyanık. O hiçbir zaman görünmüyor.
+> **Kurallar:** Anlatıcı yok, müzik yok, duraklama yok. Her part tek, kesintisiz bir sahne ve bir öncekinin bittiği andan devam ediyor. Ekip zaten mahzende. Mimar hiç görünmüyor, sesi de duyulmuyor; bomba bağladığı kadının ağzından konuşuyor.
 > İtalik satırlar görüntü, hareket ve ses tarifi. Kalın isimli satırlar seslendirme.
 
 ---
 
-## PART 1 · "Bu Sefer" (~40 sn)
+## PART 1 · "Bu Sefer" (~45 sn)
 
-**Mekân:** Galata'daki taş han, müzik odası. Gece 03:17.
+**Mekân:** Galata'nın altındaki mahzen. Gece 03:17.
+**HUD:** SAAT 03:17
 
-*Loş müzik odası, tek lamba, kemerli pencere. Dışarıda Haliç'in ışıkları. Profesör pencerenin önünde, sırtı dönük, o şarkıyı çalıyor. Masadaki telefon çalmaya başlıyor, ekranda GİZLİ NUMARA yazıyor. Profesör çalmayı bırakmadan yayın ucuyla hoparlör tuşuna dokunuyor.*
+*Mahzenin tonozlu ana odası. Duvarlarda tablolar, raflarda eski kitaplar, mum ve lamba ışığı. Tuna teknik köşede ekranların başında. Bora eski deri bir koltukta silahını temizliyor. Ömer lambanın altında bir dosya okuyor. Profesör delil duvarının önünde ayakta, uyumamış. Ortadaki masada telefon titriyor: GİZLİ NUMARA. Profesör hoparlöre basıyor.*
 *Telefondan jet motoru uğultusu, kabin uyarı sesi ve metal titreşimi geliyor.*
 
-**KIZ:** (ağlayarak) Lütfen biri yardım etsin! Uçak düşecek! Herkes uyuyor!
-
-*Keman susuyor.*
-
-**PROFESÖR:** (sakin, hızlı) Sakin ol. Neredesin?
+**KIZ:** (ağlayarak) Alo? Lütfen biri yardım etsin! Uçak düşecek! Herkes uyuyor!
+**PROFESÖR:** (anında ciddi, masaya yürüyerek) Seni duyuyorum. Neredesin?
 **KIZ:** Uçaktayım! Kimse uyanmıyor!
 
-*Karanlık uçak kabini. Koltuklarda yolcular, hepsinin yüzünde sarı oksijen maskesi var, başları yana düşmüş. Koridorun ortasında maskesiz küçük bir kız, telefonu iki eliyle kulağına bastırmış.*
+*Profesör parmağıyla Tuna'yı işaret ediyor, Tuna aramayı izlemeye başlıyor. Ömer kendi telefonunu alıyor.*
+*Karanlık uçak kabini. Koltuklarda yolcular, hepsinin yüzünde sarı maske var, başları yana düşmüş. Koridorun ortasında maskesiz küçük bir kız, telefonu iki eliyle kulağına bastırmış.*
 
-**PROFESÖR:** Bu numarayı nereden buldun?
-**KIZ:** Koltuğun cebinde bir kâğıt vardı. "Uçak düşerse Profesörü ara" yazıyor.
-
-*Profesör'ün eli kemanın sapında kasılıyor.*
-
-**PROFESÖR:** O ismi kimse bilmez... Etrafında ne görüyorsun? Her şeyi söyle.
-**KIZ:** Tavandan sarı maskeler indi. Herkes taktı. Ama hepsi uyuyor.
+**PROFESÖR:** Pilotlar nerede?
+**KIZ:** Kokpitin kapısı açık. İkisi de uyuyor. Yüzlerinde maske var.
+**PROFESÖR:** (kaşları çatılıyor) Kokpit kapısı asla açık kalmaz... Herkesin yüzünde maske mi var?
+**KIZ:** Tavandan sarı maskeler indi. Herkes taktı. Sonra hepsi uyudu.
 **PROFESÖR:** Sen taktın mı?
 **KIZ:** Hayır... korktum.
+**PROFESÖR:** (gözlerini kısarak) Maskeyi takan uyumuş, takmayan uyanık.
+**BORA:** (ayağa kalkarak) Maskelerde gaz var.
+**PROFESÖR:** (kıza, sert ve net) Dinle beni. O maskeyi ne olursa olsun takma.
+**PROFESÖR:** Bu numarayı nereden buldun?
+**KIZ:** Önümdeki koltuğun cebinde bir telefon vardı. Yanında da bir kâğıt. "Uçak düşerse Profesörü ara" yazıyor.
 
-*Profesör gözlerini kapatıyor, hızla düşünüyor.*
+*Herkes başını kaldırıp Profesör'e bakıyor.*
 
-**PROFESÖR:** Maskeyi takan uyumuş, takmayan uyanık. O maskelerden oksijen gelmiyor.
-**KIZ:** Ne geliyor?
-**PROFESÖR:** Beni dinle. Ne olursa olsun o maskeyi takma.
-
-*Telefondan gelen motor sesi kalınlaşıyor, uçak burnunu aşağı veriyor. İRTİFA sayacı hızla düşüyor.*
-
-**KIZ:** (çığlık) Uçak aşağı iniyor! Kulaklarım acıyor!
-
-*Profesör kemanı masaya bırakıp paltosunu alıyor. Bir eliyle ikinci telefonunu kulağına götürüyor.*
-
-**PROFESÖR:** Bora. Tuna'yı ve Ömer'i al, hana gelin. Şimdi.
-**KIZ:** (fısıltı) Profesör... kâğıdın arkasında bir şey daha yazıyor.
+**ÖMER:** O ismi bu odanın dışında kimse bilmez.
+**KIZ:** (fısıltı) Kâğıdın arkasında da bir şey yazıyor.
 **PROFESÖR:** Oku.
 **KIZ:** "Bu sefer... telefonu aç."
 
 *Profesör olduğu yerde donuyor. Siyah ekran. Ekranda: PART 2*
 
 ```
-[KIZ] [crying, panicked] Lütfen biri yardım etsin! Uçak düşecek! Herkes uyuyor!
-[PROFESÖR] [calm, fast] Sakin ol. Neredesin?
+[KIZ] [crying, panicked] Alo? Lütfen biri yardım etsin! Uçak düşecek! Herkes uyuyor!
+[PROFESÖR] [serious, fast] Seni duyuyorum. Neredesin?
 [KIZ] [crying] Uçaktayım! Kimse uyanmıyor!
-[PROFESÖR] Bu numarayı nereden buldun?
-[KIZ] [sobbing] Koltuğun cebinde bir kâğıt vardı. "Uçak düşerse Profesörü ara" yazıyor.
-[PROFESÖR] [tense] O ismi kimse bilmez... Etrafında ne görüyorsun? Her şeyi söyle.
-[KIZ] Tavandan sarı maskeler indi. Herkes taktı. Ama hepsi uyuyor.
+[PROFESÖR] Pilotlar nerede?
+[KIZ] [sobbing] Kokpitin kapısı açık. İkisi de uyuyor. Yüzlerinde maske var.
+[PROFESÖR] [suspicious] Kokpit kapısı asla açık kalmaz... Herkesin yüzünde maske mi var?
+[KIZ] Tavandan sarı maskeler indi. Herkes taktı. Sonra hepsi uyudu.
 [PROFESÖR] Sen taktın mı?
 [KIZ] [quiet] Hayır... korktum.
-[PROFESÖR] [fast, thinking aloud] Maskeyi takan uyumuş, takmayan uyanık. O maskelerden oksijen gelmiyor.
-[KIZ] Ne geliyor?
-[PROFESÖR] [firm] Beni dinle. Ne olursa olsun o maskeyi takma.
-[KIZ] [screaming] Uçak aşağı iniyor! Kulaklarım acıyor!
-[PROFESÖR] [into second phone] Bora. Tuna'yı ve Ömer'i al, hana gelin. Şimdi.
-[KIZ] [whispers] Profesör... kâğıdın arkasında bir şey daha yazıyor.
+[PROFESÖR] [thinking, fast] Maskeyi takan uyumuş, takmayan uyanık.
+[BORA] [grim] Maskelerde gaz var.
+[PROFESÖR] [firm] Dinle beni. O maskeyi ne olursa olsun takma.
+[PROFESÖR] Bu numarayı nereden buldun?
+[KIZ] Önümdeki koltuğun cebinde bir telefon vardı. Yanında da bir kâğıt. "Uçak düşerse Profesörü ara" yazıyor.
+[ÖMER] [low, tense] O ismi bu odanın dışında kimse bilmez.
+[KIZ] [whispers] Kâğıdın arkasında da bir şey yazıyor.
 [PROFESÖR] Oku.
 [KIZ] [whispers] "Bu sefer... telefonu aç."
 ```
 
 ---
 
-## PART 2 · "Kayıp Uçak" (~45 sn)
+## PART 2 · "Davet" (~50 sn)
 
-**Mekân:** Han'ın tonozlu ana salonu, on dakika sonra. Masada telefon hoparlörde, uçak sesi hiç kesilmiyor. Duvarda kırmızı iple bağlanmış dosyalar.
+**Mekân:** Aynı oda, kesintisiz devam. Telefon hoparlörde, uçak sesi sürüyor.
+**HUD:** SAAT 03:20
 
-*Kapı sertçe açılıyor. Bora içeri giriyor, montu yarı giyilmiş.*
+*Tuna'nın ekranındaki haritada üç ayrı şehirde aynı anda yanıp sönen üç nokta var.*
 
-**BORA:** Gece üçte arayan ya ölmüştür ya ölecektir. Hangisi?
-**PROFESÖR:** (dönmeden) Henüz karar verilmedi.
-**KIZ:** (hoparlörden, ağlayarak) Profesör? Orada mısın?
-
-*Bora olduğu yerde duruyor.*
-
-**BORA:** Bu bir çocuk mu?
-**PROFESÖR:** Uçakta. Herkes baygın, maskelerden gaz geliyor. Tuna, aramanın yerini bul.
-
-*Tuna masaya oturmuş. Ekrandaki haritada üç ayrı şehirde aynı anda yanıp sönen üç nokta var.*
-
-**TUNA:** Bulamıyorum. Hat aynı anda İstanbul'da, Ankara'da ve Bakü'de görünüyor.
+**TUNA:** Hat aynı anda İstanbul'da, Ankara'da ve Bakü'de görünüyor.
 **PROFESÖR:** Yani?
 **TUNA:** Yani bunu yapabilen ya bir devlettir... ya da devletin içindeki biri.
 
-*Ömer içeri giriyor, telefonu kulağında, sırtını hemen duvara veriyor.*
+*Ömer telefonunu kulağından indiriyor.*
 
-**ÖMER:** Hava trafikle konuştum. Şu an havada düşen, kaybolan ya da cevap vermeyen tek bir uçak yok.
-**BORA:** Uçak yoksa bu kız nerede?
+**ÖMER:** Hava trafikteki adamımla konuştum. Şu an cevap vermeyen, rotadan çıkan tek bir uçak yok.
+**BORA:** Transponderi kapatmış olabilirler.
+**TUNA:** Kapatsalar bile askeri radar görür. Ona erişimimiz yok.
+**PROFESÖR:** Bir şey daha var. Otuz bin feette telefon çekmez.
+**TUNA:** Uydu hattı olabilir.
+**PROFESÖR:** Ya da o kız hiç havada değil.
+**BORA:** O zaman bu kadar zahmet niye?
+**PROFESÖR:** Kokpit kapısı açık bırakılmış. Maskelere gaz konmuş. Kâğıda benim adım yazılmış. Bu bir yardım çağrısı değil, Bora. Bu bir davet.
 
 *Profesör telefona eğiliyor.*
 
 **PROFESÖR:** (yumuşak) Bana adını söyle.
 **KIZ:** Sen biliyorsun.
 
-*Hat cızırdıyor. Uçak sesi bir anda kesiliyor. Yerine uzaktan, eski bir gramofondan aynı şarkı geliyor: Profesör'ün çaldığı şarkı.*
+*Hat cızırdıyor. Uçak sesi bir anda kesiliyor. Yerine sert bir rüzgar, martı çığlıkları ve hıçkıran bir kadın geliyor. Ekip donup kalıyor.*
 
-**O:** (sakin, keyifli) İyi geceler Profesör. Hâlâ benim şarkımı çalıyorsun.
-**PROFESÖR:** Kimsin sen?
-**O:** Yanlış soru. Doğru soru şu: O şarkıyı sana kim öğretti?
+**KADIN:** (ağlayarak, ezberlenmiş gibi; Mimar'ın sözleri) Merhaba Profesör. Uyuyamadın mı yine? Ben de.
+**KADIN:** (kendi sesi, panikle) Lütfen... bunları ben söylemiyorum... kulağımda biri var...
+**KADIN:** (titreyerek; Mimar'ın sözleri) Tik tak, tik tak... Duyuyor musun Profesör?
 
-*Herkes Profesör'e bakıyor. Profesör'ün gözleri boşlukta.*
+*Telefondan kesik kesik bir bip sesi duyuluyor.*
 
-**BORA:** Kim öğretti?
-**PROFESÖR:** (zor duyulur) ...Hatırlamıyorum.
+**KADIN:** (çığlık) Göğsümde bir bomba var!
 
 *Ekranda: PART 3*
 
 ```
-[BORA] [dry, tired] Gece üçte arayan ya ölmüştür ya ölecektir. Hangisi?
-[PROFESÖR] [cold] Henüz karar verilmedi.
-[KIZ] [crying, through phone] Profesör? Orada mısın?
-[BORA] [stunned] Bu bir çocuk mu?
-[PROFESÖR] [fast] Uçakta. Herkes baygın, maskelerden gaz geliyor. Tuna, aramanın yerini bul.
-[TUNA] [tense] Bulamıyorum. Hat aynı anda İstanbul'da, Ankara'da ve Bakü'de görünüyor.
+[TUNA] [tense, typing] Hat aynı anda İstanbul'da, Ankara'da ve Bakü'de görünüyor.
 [PROFESÖR] Yani?
 [TUNA] Yani bunu yapabilen ya bir devlettir... ya da devletin içindeki biri.
-[ÖMER] [serious] Hava trafikle konuştum. Şu an havada düşen, kaybolan ya da cevap vermeyen tek bir uçak yok.
-[BORA] Uçak yoksa bu kız nerede?
+[ÖMER] [serious] Hava trafikteki adamımla konuştum. Şu an cevap vermeyen, rotadan çıkan tek bir uçak yok.
+[BORA] Transponderi kapatmış olabilirler.
+[TUNA] Kapatsalar bile askeri radar görür. Ona erişimimiz yok.
+[PROFESÖR] [thinking] Bir şey daha var. Otuz bin feette telefon çekmez.
+[TUNA] Uydu hattı olabilir.
+[PROFESÖR] [cold] Ya da o kız hiç havada değil.
+[BORA] O zaman bu kadar zahmet niye?
+[PROFESÖR] [fast, certain] Kokpit kapısı açık bırakılmış. Maskelere gaz konmuş. Kâğıda benim adım yazılmış. Bu bir yardım çağrısı değil, Bora. Bu bir davet.
 [PROFESÖR] [softly] Bana adını söyle.
 [KIZ] [quiet] Sen biliyorsun.
-[O] [calm, amused] İyi geceler Profesör. Hâlâ benim şarkımı çalıyorsun.
-[PROFESÖR] [cold] Kimsin sen?
-[O] [playful] Yanlış soru. Doğru soru şu: O şarkıyı sana kim öğretti?
-[BORA] [low] Kim öğretti?
-[PROFESÖR] [barely audible] Hatırlamıyorum.
+[KADIN] [crying, reciting] Merhaba Profesör. Uyuyamadın mı yine? Ben de.
+[KADIN] [panicked] Lütfen... bunları ben söylemiyorum... kulağımda biri var...
+[KADIN] [trembling, reciting] Tik tak, tik tak... Duyuyor musun Profesör?
+[KADIN] [screaming] Göğsümde bir bomba var!
 ```
 
 ---
 
-## PART 3 · "Bilmece" (~45 sn)
+## PART 3 · "Dokuz Kardeş" (~55 sn)
 
-**Mekân:** Aynı salon, kesintisiz devam. O konuşurken arkasında gramofon çalmaya devam ediyor.
+**Mekân:** Aynı oda, kesintisiz devam. Telefondan rüzgar, martılar ve bombanın kesik bip sesi geliyor.
+**HUD:** SAAT 03:24 · YAKIT BİTİŞ 06:17 · UÇUŞ KODU _ _ _ _
 
-**O:** Kızı kurtarmak istiyorsun. Güzel. Ama önce oyun. Ben bilmece sorarım, sen çözersin, hat açık kalır. Çözemezsen kız... yalnız kalır.
-**ÖMER:** Bu konuşmayı polise—
-**O:** Polis zaten benim, savcı bey.
+**KADIN:** (ağlayarak; Mimar'ın sözleri) Kuralları ben koyarım, Profesörcüğüm. Uçağın yakıtı altıyı on yedi geçe bitiyor. Uçağın yerini bir tek ben biliyorum.
+**ÖMER:** Bu kadını kim—
+**KADIN:** (Mimar'ın sözleri) Kadını boş ver, savcı bey. Polis zaten benim.
 
-*Ömer donup kalıyor. Kimse ona savcı olduğunu söylemedi.*
+*Ömer donup kalıyor. Kimse kadına onun savcı olduğunu söylemedi.*
 
-**O:** Birinci bilmece. Bin yıldır suyun altında uyuyan bir kadın. Başı ters. Ona bakan taşa döner. Kırk dakikan var.
-**PROFESÖR:** (anında) Yerebatan Sarnıcı. Medusa.
-**O:** Hızlısın. Ama bilmece senin için değil. Misafirimiz için.
+**KADIN:** (Mimar'ın sözleri) Ben sorarım, sen çözersin. Her doğru cevap bir rakam. Dört rakam, bir uçuş kodu. Kod tamamsa uçağı bulursun.
+**KADIN:** (Mimar'ın sözleri, sesi kırılarak) Birinci bilmece. Dokuz kardeşiz, denizin ortasında. Ne en büyüğüyüm ne en küçüğü. Sırtımda yük taşırım. Bu hanımefendinin kırk dakikası var. Tik tak.
 
-*Hat değişiyor. Telefondan sert rüzgar, martı çığlıkları ve uzaktan bir vapur düdüğü geliyor.*
+*SÜRE 40:00 sayacı başlıyor. Profesör gözlerini kapatıyor.*
 
-**KADIN:** (ağlayarak, titreyerek) Alo? Lütfen... göğsüme bir şey bağladılar... kırmızı bir ışık yanıp sönüyor... Benim iki çocuğum var!
+**PROFESÖR:** Dokuz kardeş, denizin ortasında... Adalar.
+**TUNA:** En büyüğü Büyükada.
+**PROFESÖR:** Ne en büyük ne en küçük. Sırtında yük taşıyan... (gözlerini açıyor) Heybe. Heybeliada.
 
-*Karanlıkta bir kadın, saçları rüzgarda savruluyor, göğsünde kırmızı bir ışık yanıp sönüyor. Arkası bulanık. SÜRE 40:00 sayacı başlıyor.*
+*Telefondan uzun bir vapur düdüğü geliyor.*
 
-**BORA:** (silahını beline takarak) Sarnıca yirmi dakikada varırım.
-**PROFESÖR:** (elini kaldırıyor, gözleri kapalı) Dur. Dinle.
+**BORA:** (montunu kaparak) Karaköy'de tekne var. Yirmi beş dakika.
+**KADIN:** (Mimar'ın sözleri) Aferin. İlk rakam: sıfır.
 
-*Rüzgar, martılar, vapur düdüğü.*
+*HUD: UÇUŞ KODU 0 _ _ _*
 
-**PROFESÖR:** Martı, rüzgar, vapur düdüğü. Sarnıçta martı olmaz.
-**TUNA:** Bilmece yalan mı söylüyor?
-**PROFESÖR:** Bilmece doğru. Ama kadın orada değil.
-**O:** (alçak sesle gülerek) Kırk dakika Profesör. İkisine birden yetişemezsin.
+**ÖMER:** (Profesör'e bakarak) Gülümsüyorsun.
+**PROFESÖR:** Hayır.
+**KADIN:** (Mimar'ın sözleri) Son bir kural. Hat tek, Profesör. Kadınla konuşursan kızın sesi kesilir. Kızla konuşursan kadın... yalnız kalır. Seç.
 
-*Profesör başını kaldırıp kameraya bakıyor.*
-
-**PROFESÖR:** Sarnıç mı... ses mi?
-
-*Ekranda: SARNIÇ / SES · Yorumlara yaz*
+*Ekranda: KADIN / KIZ · Yorumlara yaz*
 
 ```
-[O] [calm, playful] Kızı kurtarmak istiyorsun. Güzel. Ama önce oyun. Ben bilmece sorarım, sen çözersin, hat açık kalır. Çözemezsen kız... yalnız kalır.
-[ÖMER] [angry] Bu konuşmayı polise—
-[O] [amused] Polis zaten benim, savcı bey.
-[O] Birinci bilmece. Bin yıldır suyun altında uyuyan bir kadın. Başı ters. Ona bakan taşa döner. Kırk dakikan var.
-[PROFESÖR] [instant] Yerebatan Sarnıcı. Medusa.
-[O] Hızlısın. Ama bilmece senin için değil. Misafirimiz için.
-[KADIN] [crying, shaking, wind] Alo? Lütfen... göğsüme bir şey bağladılar... kırmızı bir ışık yanıp sönüyor... Benim iki çocuğum var!
-[BORA] [determined] Sarnıca yirmi dakikada varırım.
-[PROFESÖR] [sharp] Dur. Dinle.
-[PROFESÖR] [focused] Martı, rüzgar, vapur düdüğü. Sarnıçta martı olmaz.
-[TUNA] Bilmece yalan mı söylüyor?
-[PROFESÖR] Bilmece doğru. Ama kadın orada değil.
-[O] [soft laugh] Kırk dakika Profesör. İkisine birden yetişemezsin.
-[PROFESÖR] [to camera] Sarnıç mı... ses mi?
+[KADIN] [crying, reciting] Kuralları ben koyarım, Profesörcüğüm. Uçağın yakıtı altıyı on yedi geçe bitiyor. Uçağın yerini bir tek ben biliyorum.
+[ÖMER] [angry] Bu kadını kim—
+[KADIN] [reciting, trembling] Kadını boş ver, savcı bey. Polis zaten benim.
+[KADIN] [reciting] Ben sorarım, sen çözersin. Her doğru cevap bir rakam. Dört rakam, bir uçuş kodu. Kod tamamsa uçağı bulursun.
+[KADIN] [voice breaking, reciting] Birinci bilmece. Dokuz kardeşiz, denizin ortasında. Ne en büyüğüyüm ne en küçüğü. Sırtımda yük taşırım. Bu hanımefendinin kırk dakikası var. Tik tak.
+[PROFESÖR] [thinking aloud] Dokuz kardeş, denizin ortasında... Adalar.
+[TUNA] En büyüğü Büyükada.
+[PROFESÖR] [focused] Ne en büyük ne en küçük. Sırtında yük taşıyan... Heybe. Heybeliada.
+[BORA] [urgent] Karaköy'de tekne var. Yirmi beş dakika.
+[KADIN] [reciting] Aferin. İlk rakam: sıfır.
+[ÖMER] [quiet] Gülümsüyorsun.
+[PROFESÖR] [flat] Hayır.
+[KADIN] [reciting, sobbing] Son bir kural. Hat tek, Profesör. Kadınla konuşursan kızın sesi kesilir. Kızla konuşursan kadın... yalnız kalır. Seç.
 ```
 
 ---
@@ -198,14 +181,15 @@
 
 | Part | Efektler |
 |---|---|
-| 1 | Keman (o şarkı), telefon zili, jet motoru uğultusu, kabin uyarı sesi, metal titreşimi, uçağın dalışında kalınlaşan motor sesi |
-| 2 | Kapının sert açılışı, telefondan sürekli uçak uğultusu, klavye sesi, hat cızırtısı, uçak sesinin kesilmesi, uzaktan gramofon (o şarkı) |
-| 3 | Gramofon (O konuşurken), hat değişimi, sert rüzgar, martı çığlıkları, vapur düdüğü, silahın beline takılma sesi |
+| 1 | Telefon titreşimi, jet motoru uğultusu, kabin uyarı sesi, metal titreşimi, koltuktan kalkış |
+| 2 | Klavye sesi, sürekli uçak uğultusu, hat cızırtısı, uçak sesinin aniden kesilmesi, sert rüzgar, martı çığlıkları, bombanın kesik bip sesi |
+| 3 | Rüzgar, martılar, bip sesi (partın sonuna doğru hızlanıyor), uzun bir vapur düdüğü, mont kapma ve silah sesi |
 
 ## Görsel notları
 
-- **Kız:** Maskesiz. Kıvırcık saçlı, 8 yaşında gibi, gözleri yaşlı, telefonu iki eliyle kulağına bastırıyor. Mevcut kız görseli maskeli olduğu için yeniden üretilecek.
-- **Kabin:** Bütün yolcuların yüzünde sarı maske var, başları düşmüş. Pencerelerde bulut yok, sadece karanlık. Bazı karelerde maskeler ipe asılı sarı çay bardaklarına benziyor (çatı katı ipucu).
-- **Profesör:** Gözlüklü, kısa koyu sakallı, uzun koyu palto, keman.
-- **O:** Hiç görünmüyor.
-- **Kadın:** Yüzü net değil, sadece silueti, rüzgarda savrulan saçları ve göğsündeki kırmızı ışık.
+- **Mahzen:** V for Vendetta'daki yeraltı galerisi tarzı. Taş tonozlar, tablolar, kitaplar, heykeller, mum ve lamba ışığı. Bir köşede abartısız bir teknik oda (birkaç sunucu dolabı, üç dört ekran). Delil duvarı.
+- **Profesör:** Gözlüklü, kısa koyu sakallı, uzun koyu palto. Keman yok. Mevcut görsel kemanlı ve sakalsız olduğu için yeniden üretilecek.
+- **Kız:** Maskesiz. Mevcut görsel maskeli olduğu için yeniden üretilecek.
+- **Kabin:** Bütün yolcuların yüzünde sarı maske var, başları düşmüş. Kokpit kapısı açık, iki pilot da maskeli ve uyuyor. Pencerelerde bulut yok, sadece karanlık.
+- **Kadın:** Yüzü net değil. Karanlıkta silueti, rüzgarda savrulan saçları ve göğsünde yanıp sönen kırmızı ışık görünüyor.
+- **Mimar:** Hiç görünmüyor.
