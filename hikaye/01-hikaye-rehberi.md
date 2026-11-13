@@ -19,7 +19,7 @@
 - Gerilim hiç düşmüyor, her saniye önemli. Sezon tek gecede geçiyor (03:17 – 06:17).
 - Espri sadece karakterlerin ağzından, en gergin anlarda, kısa ve kuru.
 - Sherlock (BBC) yapısından ilham: zekice çıkarımlar, bilmeceler, kahramanla aynı zekâda bir kötü karakter.
-- Müzik yok.
+- Arka plan müziği yok. Tek müzik, Profesör'ün kendi odasında çaldığı keman.
 
 ## Görsel stil
 
@@ -34,7 +34,7 @@
 
 - Türkiye'de birçok cinayeti çözmüş, kayıtlarda adı geçmeyen biri. Çıkarımda aşırı zeki.
 - Yuvarlak tel çerçeveli gözlük, kısa ve düzgün kesilmiş koyu sakal. Uzun koyu palto, siyah balıkçı yaka.
-- Hiç uyumuyor. Gece 3'te mahzende, delil duvarının önünde ayakta.
+- Hiç uyumuyor. Uyuyamadığı gecelerde mahzendeki kendi odasında keman çalıyor.
 - Sherlock'tan alınan özellikler: Bir insanı saniyeler içinde okuyor (eller, ses, nefes). Arka plan seslerinden konum çıkarıyor. Düşünürken gözlerini kapatıyor. Soğuk ve kibirli görünüyor, duygularını saklıyor.
 - **Amacı:** Kızı ve yolcuları kurtarmak.
 - **Kusuru:** Egoist. Mimar'ın bilmecelerini çözmek ona keyif veriyor. Bunu saklamaya çalışıyor ama ekip fark ediyor.
@@ -90,5 +90,5 @@
 - **Duraklama yok.** `<break>` etiketi ya da uzun `...` kullanılmaz. Sessiz an en fazla yarım saniye.
 - **Rehineler:** Mimar'ın sözlerini söylerken ezberlenmiş gibi, düz ama titrek konuşurlar. Kendi sözlerinde ise panik vardır. Mimar'ın kendi sesi Part 23'e kadar hiç üretilmez.
 - Kız ve rehinelerin sesine hafif telefon filtresi uygulanır.
-- Arka plan sesleri ayrı katman olarak eklenir: jet motoru, kabin uyarı sesi, rüzgar, martı, vapur düdüğü, bombanın bip sesi.
-- Müzik yok.
+- Arka plan sesleri ayrı katman olarak eklenir: Part 1 açılışında keman, sonra jet motoru, kabin uyarı sesi, rüzgar, martı, vapur düdüğü, bombanın bip sesi.
+- Kemanın dışında müzik yok.

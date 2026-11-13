@@ -8,7 +8,7 @@
 ## 1. PERDE: ÇAĞRI (03:17 – 04:05)
 
 **Part 1 · Bu Sefer** (03:17)
-Mahzen. Ekibin hepsi orada, kimse uyumuyor. Gizli numaradan ağlayan bir kız arıyor: uçak düşecek, herkes uyuyor. Profesör ilk cümleden ciddiye alıyor, ekip aynı anda işe koyuluyor. Profesör pilotları soruyor: kokpit kapısı açık, iki pilot da maskeli ve uyuyor. Kabinde herkes maske takmış ve uyuyor, sadece kız takmamış ve uyanık. Profesör çözüyor: maskeyi takan uyumuş. Bora tamamlıyor: maskelerde gaz var. Kız numarayı koltuk cebindeki bir kâğıttan bulmuş: "Uçak düşerse Profesörü ara." Ömer: "O ismi bu odanın dışında kimse bilmez."
+Mahzen. Profesör kendi odasında keman çalıyor, ekip ana salonda. Telefon çalıyor: gizli numaradan ağlayan bir kız. Uçak düşecek, herkes uyuyor. Profesör ilk cümleden ciddiye alıyor, kemanı bırakıp konuşa konuşa ana salona yürüyor. Ekip aynı anda işe koyuluyor. Profesör pilotları soruyor: kokpit kapısı açık, iki pilot da maskeli ve uyuyor. Kabinde herkes maske takmış ve uyuyor, sadece kız takmamış ve uyanık. Profesör çözüyor: maskeyi takan uyumuş. Bora tamamlıyor: maskelerde gaz var. Kız numarayı koltuk cebindeki bir kâğıttan bulmuş: "Uçak düşerse Profesörü ara." Ömer: "O ismi bu odanın dışında kimse bilmez."
 **Kanca:** Kâğıdın arkasında "Bu sefer telefonu aç" yazıyor.
 [03:17, herkes uyuyor, maskeler, kokpit kapısı, Profesör adı, bu sefer telefonu aç]
 

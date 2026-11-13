@@ -1,7 +1,7 @@
 # Profesör: Düşüş — Part 1–3 Senaryo
 
 > `00-hikaye-agi.md` dosyasına göre yazıldı.
-> **Kurallar:** Anlatıcı yok, müzik yok, duraklama yok. Her part tek, kesintisiz bir sahne ve bir öncekinin bittiği andan devam ediyor. Ekip zaten mahzende. Mimar hiç görünmüyor, sesi de duyulmuyor; bomba bağladığı kadının ağzından konuşuyor.
+> **Kurallar:** Anlatıcı yok, arka plan müziği yok (tek müzik Profesör'ün kemanı), duraklama yok. Her part tek, kesintisiz bir sahne ve bir öncekinin bittiği andan devam ediyor. Ekip zaten mahzende. Mimar hiç görünmüyor, sesi de duyulmuyor; bomba bağladığı kadının ağzından konuşuyor.
 > İtalik satırlar görüntü, hareket ve ses tarifi. Kalın isimli satırlar seslendirme.
 
 ---
@@ -11,14 +11,14 @@
 **Mekân:** Galata'nın altındaki mahzen. Gece 03:17.
 **HUD:** SAAT 03:17
 
-*Mahzenin tonozlu ana odası. Duvarlarda tablolar, raflarda eski kitaplar, mum ve lamba ışığı. Tuna teknik köşede ekranların başında. Bora eski deri bir koltukta silahını temizliyor. Ömer lambanın altında bir dosya okuyor. Profesör delil duvarının önünde ayakta, uyumamış. Ortadaki masada telefon titriyor: GİZLİ NUMARA. Profesör hoparlöre basıyor.*
+*Mahzenin bir ucunda Profesör'ün odası: kitaplarla dolu taş duvarlar, tek lamba, mumlar. Profesör sırtı dönük, keman çalıyor. Masadaki telefon titremeye başlıyor: GİZLİ NUMARA. Profesör yayı durduruyor, yayın ucuyla hoparlör tuşuna dokunuyor.*
 *Telefondan jet motoru uğultusu, kabin uyarı sesi ve metal titreşimi geliyor.*
 
 **KIZ:** (ağlayarak) Alo? Lütfen biri yardım etsin! Uçak düşecek! Herkes uyuyor!
-**PROFESÖR:** (anında ciddi, masaya yürüyerek) Seni duyuyorum. Neredesin?
+**PROFESÖR:** (anında ciddi) Seni duyuyorum. Neredesin?
 **KIZ:** Uçaktayım! Kimse uyanmıyor!
 
-*Profesör parmağıyla Tuna'yı işaret ediyor, Tuna aramayı izlemeye başlıyor. Ömer kendi telefonunu alıyor.*
+*Profesör kemanı masaya bırakıyor, telefonu alıp odasından çıkıyor. Mahzenin tonozlu ana salonu: duvarlarda tablolar, raflarda eski kitaplar, mum ve lamba ışığı. Tuna teknik köşede ekranların başında, Bora eski deri bir koltukta silahını temizliyor, Ömer lambanın altında bir dosya okuyor. Üçü de başını kaldırıyor. Profesör telefonu ortadaki masaya koyup parmağıyla Tuna'yı işaret ediyor. Tuna aramayı izlemeye başlıyor, Ömer kendi telefonunu alıyor.*
 *Karanlık uçak kabini. Koltuklarda yolcular, hepsinin yüzünde sarı maske var, başları yana düşmüş. Koridorun ortasında maskesiz küçük bir kız, telefonu iki eliyle kulağına bastırmış.*
 
 **PROFESÖR:** Pilotlar nerede?
@@ -181,14 +181,15 @@
 
 | Part | Efektler |
 |---|---|
-| 1 | Telefon titreşimi, jet motoru uğultusu, kabin uyarı sesi, metal titreşimi, koltuktan kalkış |
+| 1 | Keman (Profesör'ün odasında, telefonla birlikte kesiliyor), telefon titreşimi, jet motoru uğultusu, kabin uyarı sesi, metal titreşimi, ayak sesleri, koltuktan kalkış |
 | 2 | Klavye sesi, sürekli uçak uğultusu, hat cızırtısı, uçak sesinin aniden kesilmesi, sert rüzgar, martı çığlıkları, bombanın kesik bip sesi |
 | 3 | Rüzgar, martılar, bip sesi (partın sonuna doğru hızlanıyor), uzun bir vapur düdüğü, mont kapma ve silah sesi |
 
 ## Görsel notları
 
 - **Mahzen:** V for Vendetta'daki yeraltı galerisi tarzı. Taş tonozlar, tablolar, kitaplar, heykeller, mum ve lamba ışığı. Bir köşede abartısız bir teknik oda (birkaç sunucu dolabı, üç dört ekran). Delil duvarı.
-- **Profesör:** Gözlüklü, kısa koyu sakallı, uzun koyu palto. Keman yok. Mevcut görsel kemanlı ve sakalsız olduğu için yeniden üretilecek.
+- **Profesör:** Gözlüklü, kısa koyu sakallı, uzun koyu palto, elinde keman. Mevcut görsel sakalsız ve arka planı eski han olduğu için sakal eklenip arka plan mahzendeki odasına çevrilecek.
+- **Profesör'ün odası:** Mahzenin bir ucunda, kitaplarla dolu taş duvarlı küçük bir oda. Pencere yok. Tek lamba, mumlar, masada keman kutusu ve telefon.
 - **Kız:** Maskesiz. Mevcut görsel maskeli olduğu için yeniden üretilecek.
 - **Kabin:** Bütün yolcuların yüzünde sarı maske var, başları düşmüş. Kokpit kapısı açık, iki pilot da maskeli ve uyuyor. Pencerelerde bulut yok, sadece karanlık.
 - **Kadın:** Yüzü net değil. Karanlıkta silueti, rüzgarda savrulan saçları ve göğsünde yanıp sönen kırmızı ışık görünüyor.

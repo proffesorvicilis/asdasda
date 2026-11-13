@@ -63,7 +63,8 @@
 - Bir köşede abartısız bir teknik oda: birkaç sunucu dolabı, kablolar, üç dört ekran. Mahzenin geri kalanıyla tezat oluşturuyor ama sırıtmıyor.
 - Duvarlardan biri delil duvarı: fotoğraflar, haritalar, kırmızı ip.
 - Ekip burada yaşıyor. Hepsi kayıt dışı, illegal insanlar ve geceleri hep buradalar. Ömer görevdeki bir savcı ama ailesi gittiğinden beri geceleri eve gitmiyor, burada kalıyor.
-- Müzik yok. Gramofon, keman, plak yok.
+- **Profesör'ün odası:** Mahzenin bir ucunda, kitaplarla dolu küçük bir oda. Tek lamba, mumlar, masada bir keman kutusu. Profesör uyuyamadığı gecelerde burada keman çalıyor.
+- Gramofon ya da arka plan müziği yok. Tek müzik, Profesör'ün kendi odasında çaldığı keman.
 
 ---
 
@@ -123,7 +124,7 @@
 
 ## 9. Ton ve kurallar
 
-- **Anlatıcı yok. Müzik yok, keman yok.**
+- **Anlatıcı yok. Arka plan müziği yok.** Tek müzik, Profesör'ün kendi odasında çaldığı keman.
 - **Duraklama yok.** Sessiz an olacaksa en fazla yarım saniye sürer.
 - **Her part tek, kesintisiz bir sahne.** Her replik bir öncekinden doğar. Bir part, bir öncekinin bittiği andan devam eder.
 - **Her saniye önemli.** Kimse "on dakika sonra" gelmez, ekip zaten mahzende.
