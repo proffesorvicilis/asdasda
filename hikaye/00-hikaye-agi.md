@@ -118,7 +118,7 @@
 
 | Sıra | Yolcu | 1997'deki rolü | Bugün neden çaresiz | Görev | Cevap | Rakam | Sonu |
 |---|---|---|---|---|---|---|---|
-| 1 | **Saadet**, 54 | Nöbetçi hemşire, çayı içip uyudu | Dul, iki çocuğu var, borç içinde | Bilmece: rehine nerede? | Heybeliada iskelesi | 0 | Cevap doğru ama kendi sözlerini söylediği için ölüyor (Part 4) |
+| 1 | **Saadet**, 65 | Nöbetçi hemşire, çayı içip uyudu | Dul, torunlarına bakıyor, borç içinde | Bilmece: rehine nerede? | Heybeliada iskelesi | 0 | Cevap doğru ama kendi sözlerini söylediği için ölüyor (Part 4) |
 | 2 | **Dr. Ferit Alpay**, 70 | Vakfın doktoru, uykusuzluk deneylerini yönetti | Ölümcül hasta, kimsesi yok | Bora Karaköy iskelesinin altından bir kutu çıkarıyor | Kanat | 3 | Mimar onu "hastalığına bırakıyor", yaşıyor (Part 8) |
 | 3 | **Rauf Ergin**, 66 | 1997'de dosyayı kapatan savcı, bugün yüksek yargıda | Mimar oğlunu elinde tutuyor | Ömer, Bebek'teki evinde hocasından itiraf alıyor, Bora ölü adam düğmesi tutan adamı vuruyor | Dosyayı kapatan kişi | 1 | İtiraftan sonra bir keskin nişancı tarafından vuruluyor (Part 13) |
 | 4 | **Tuna** | Ekipten | Ekipten biri | Bilmece: Tuna nerede? | Karaköy rıhtımı | 7 | Bora onu kurtarıp ölüyor (Part 18) |

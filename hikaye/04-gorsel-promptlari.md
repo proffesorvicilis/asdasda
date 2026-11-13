@@ -348,7 +348,7 @@ Her satırda: **ID · süre · seslendirme · referanslar**, sonra prompt. Büt�
 [STYLE] Close-up of [PROFESÖR] listening, jaw clenched, the anger contained; candlelight flickering on his glasses.
 ```
 
-**P3-06** · 0:16–0:19 · KADIN: "Lütfen... çocuklarım evde yalnız..." · Ref: L-07
+**P3-06** · 0:16–0:19 · KADIN: "Lütfen... torunlarım evde yalnız..." · Ref: L-07
 ```
 [STYLE] Dark choppy sea at night in strong wind; far away at the end of a breakwater, a tiny red light blinks. Seagulls circling. Nobody visible. Lonely, cold, wide.
 ```

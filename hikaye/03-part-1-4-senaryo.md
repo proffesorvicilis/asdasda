@@ -156,7 +156,7 @@
 *Ömer'in eli havada donuyor. Kimse kadına onun savcı olduğunu söylemedi. Ekip etrafına bakıyor: tavana, duvarlara, ekranlara. İzleniyorlar.*
 
 **KADIN:** (Mimar'ın sözleri) Kurallar basit. Ben sorarım, sen çözersin. Çözene kadar kızla konuşamazsın. Her doğru cevap bir rakam.
-**KADIN:** (kendi sesi, kırılarak) Lütfen... çocuklarım evde yalnız...
+**KADIN:** (kendi sesi, kırılarak) Lütfen... torunlarım evde yalnız...
 **KADIN:** (Mimar'ın sözleri, titreyerek) Birinci bilmece. Dokuz kardeşiz, denizin ortasında. Ne en büyüğüyüm ne en küçüğü. Sırtımda yük taşırım. Bu hanımefendi neredeyse, orası. Kırk dakika. Cevabı bulunca beni ara. Tik tak, tik tak.
 
 *Hat kesiliyor. Yarım saniyelik sessizlik. Profesör'ün telefonuna bir mesaj düşüyor: bir numara ve tek kelime, "CEVAP?" HUD: SÜRE 40:00 akmaya başlıyor.*
@@ -169,7 +169,7 @@
 [KADIN] [crying, reciting] Kızla tanıştın. Tatlı, değil mi?
 [KADIN] [reciting, trembling] Telefonu bırak, savcı bey. Polis zaten benim.
 [KADIN] [reciting] Kurallar basit. Ben sorarım, sen çözersin. Çözene kadar kızla konuşamazsın. Her doğru cevap bir rakam.
-[KADIN] [breaking down] Lütfen... çocuklarım evde yalnız...
+[KADIN] [breaking down] Lütfen... torunlarım evde yalnız...
 [KADIN] [trembling, reciting] Birinci bilmece. Dokuz kardeşiz, denizin ortasında. Ne en büyüğüyüm ne en küçüğü. Sırtımda yük taşırım. Bu hanımefendi neredeyse, orası. Kırk dakika. Cevabı bulunca beni ara. Tik tak, tik tak.
 [TUNA] [tense] Numara hiçbir yere kayıtlı değil.
 [BORA] [low] Kırk dakika.
