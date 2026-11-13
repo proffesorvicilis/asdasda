@@ -201,21 +201,32 @@ def align_line(row, words, pre):
 
 
 def chunks(tw):
-    out, cur = [], []
+    """Önce noktalamadan böl, sonra uzun öbekleri 2-3 kelimelik dengeli parçalara ayır (en fazla 4)."""
+    phrases, cur = [], []
     for tok, t in tw:
         cur.append((tok, t))
-        punct = re.search(r'[.?!…,—:]$', tok) is not None
-        if len(cur) >= 3 or (punct and len(cur) >= 1):
-            if len(cur) == 1 and not punct and len(tok) < 4:
-                continue
-            out.append(cur)
+        if re.search(r'[.?!…,—:]$', tok):
+            phrases.append(cur)
             cur = []
     if cur:
-        if out and len(cur) == 1 and len(out[-1]) < 4:
-            out[-1] += cur
+        phrases.append(cur)
+    out = []
+    for ph in phrases:
+        n = len(ph)
+        if n <= 4:
+            out.append(ph)
+            continue
+        k = -(-n // 3)  # parça sayısı
+        size = -(-n // k)
+        for i in range(0, n, size):
+            out.append(ph[i:i + size])
+    merged = []
+    for c in out:  # tek kısa kelimeyi bir öncekine ekle
+        if merged and len(c) == 1 and len(merged[-1]) < 4 and not re.search(r'[.?!…]$', merged[-1][-1][0]):
+            merged[-1] = merged[-1] + c
         else:
-            out.append(cur)
-    return out
+            merged.append(c)
+    return merged
 
 
 def ass_time(t):
