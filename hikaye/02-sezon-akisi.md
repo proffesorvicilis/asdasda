@@ -1,5 +1,7 @@
 # Profesör: Düşüş — 1. Sezon Akışı
 
+> **Video kurgusu (her video en fazla 45 sn):** Senaryodaki Part 1–4 kurguda 6 videoya bölündü. Video 1 = Part 1 replik 1–17 · Video 2 = Part 1 replik 18–22 + Part 2 replik 1–6 · Video 3 = Part 2 replik 7–17 + Part 3 replik 1 · Video 4 = Part 3 replik 2–6 · Video 5 = Part 3 replik 7–9 + Part 4 replik 1–7 · Video 6 = Part 4 replik 8–15. Bölme ve video üretimi: `hikaye/araclar/video_yap.py`. Yeni zamanlamalar: `hikaye/ses/kurgu/`.
+>
 > **Tek gece: 03:17'den şafağa (06:17).** 24 part, her biri yaklaşık 45–55 saniye. Uçak İstanbul'a yaklaşıyor; kızla her konuşmada dışarıdaki ışıklar biraz daha belirginleşiyor. Her part yazılmadan önce `00-hikaye-agi.md` dosyasına bakılır.
 > **Döngü:** Kızla konuşma → en kilit anda hat kesilir → rehinenin tek yönlü mesajı (sohbet yok) → görev bitene kadar kızla konuşulamaz → çözüm → Profesör numarayı arayıp cevabı söyler → rehinenin ağzından alaycı cevap ve bir rakam → hat kıza döner.
 > Parantez içindeki saat, partın hikayede başladığı saat. Köşeli parantezler, partın ağdaki hangi bağlantıyı kullandığını gösterir.
