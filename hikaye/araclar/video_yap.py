@@ -261,7 +261,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             hl = next((k for k, (tok, _) in enumerate(c) if norm(tok) not in {norm(x) for x in STOP}), 0)
             parts = []
             for k, (tok, _) in enumerate(c):
-                w = tr_upper(tok)
+                w = tr_upper(tok).replace('"', '').replace('“', '').replace('”', '')
                 parts.append('{\\c&H1A7AFF&}' + w + '{\\c&HFFFFFF&}' if k == hl else w)
             txt = '{\\pos(540,1130)\\fscx88\\fscy88\\t(0,90,\\fscx100\\fscy100)}' + ' '.join(parts)
             ev.append(f'Dialogue: 0,{ass_time(st)},{ass_time(en)},Sub,,0,0,0,,{txt}')

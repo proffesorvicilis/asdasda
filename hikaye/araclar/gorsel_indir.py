@@ -38,29 +38,42 @@ def main(files, download):
     for f in files:
         d = json.load(open(f))
         items += d.get('items', d if isinstance(d, list) else [])
-    best = {}
+    STOPW = set('the a an of and in on with to his her their at from by is are as it its into one two three while for no not this that'.split())
+    def bag(x):
+        return set(w for w in re.findall(r'[a-z]{3,}', x) if w not in STOPW)
+    gens = []
     for it in items:
         if it.get('status') != 'completed':
             continue
         p = (it.get('params') or {}).get('prompt', '')
-        if not p.startswith('STYLE: Graphic-novel'):
+        if not p.startswith('STYLE: Graphic') or 'character reference sheet' in p.lower():
             continue
+        url = ((it.get('results') or {}).get('rawUrl')) or ''
+        ts = it.get('createdAt') or it.get('created_at') or 0
         k = key(p)
         kk = re.sub(r'[^a-z0-9 ]', '', k)
-        scores = []
-        for x, sents in SENTS.items():
-            hit = sum(1 for z in sents if z in kk)
-            scores.append((hit / max(1, len(sents)), hit, difflib.SequenceMatcher(None, kk[-400:], TN[x][-400:]).ratio(), x))
-        scores.sort(reverse=True)
-        frac, hit, sim, sid = scores[0]
-        sc = frac if hit >= 2 else sim
-        url = ((it.get('results') or {}).get('rawUrl')) or ''
-        ts = it.get('created_at') or it.get('createdAt') or 0
-        if sc < 0.34 or not url:
-            print(f'eşleşmedi ({sc:.2f}): {it.get("id")}', file=sys.stderr)
+        body = re.split(r'single vertical cinematic frame\.|consistent\.', k)[-1]
+        sc = {x: sum(1 for z in SENTS[x] if z in kk) / max(1, len(SENTS[x])) for x in T}
+        jac = {x: len(bag(body) & bag(T[x])) / max(1, len(bag(body) | bag(T[x]))) for x in T}
+        gens.append(dict(id=it.get('id'), ts=ts, url=url, sc=sc, jac=jac))
+    gens.sort(key=lambda g: -g['ts'])  # en yeni önce
+    best, used = {}, set()
+    # 1. aşama: kesin eşleşmeler (cümle örtüşmesi >= 0.5)
+    for g in gens:
+        x, v = max(g['sc'].items(), key=lambda kv: kv[1])
+        if v >= 0.5 and x not in best:
+            best[x] = (g['ts'], g['url'], v, g['id']); used.add(g['id'])
+        elif v >= 0.5:
+            used.add(g['id'])  # aynı sahnenin eski sürümü
+    # 2. aşama: kalanlar, kelime benzerliğine göre açgözlü eşleştirme
+    pairs = sorted(((g['jac'][x] + g['sc'][x], g['id'], x, g) for g in gens if g['id'] not in used for x in T if x not in best), key=lambda t: -t[0])
+    for v, gid, x, g in pairs:
+        if gid in used or x in best or v < 0.12:
             continue
-        if sid not in best or ts > best[sid][0]:
-            best[sid] = (ts, url, sc, it.get('id'))
+        best[x] = (g['ts'], g['url'], round(v, 2), gid); used.add(gid)
+    for g in gens:
+        if g['id'] not in used:
+            print(f'eşleşmedi: {g["id"]}', file=sys.stderr)
     have = sorted(best)
     miss = [s for s in T if s not in best]
     print(f'eşleşen: {len(have)} / {len(T)}')
