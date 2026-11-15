@@ -30,7 +30,7 @@ TAG = {
 DEEPEN = {'BORA'}  # bu taklitlerde ses biraz pesleştirilir
 
 PARTS = {
- 1: dict(hud=dict(clock='03:17'), beds=[('ucak_ugultu', .12, 4, 26), ('ruzgar_marti', .17, 28, 'end')], tail=4.5, items=[
+ 1: dict(hud=dict(clock='03:17'), beds=[('ucak_ugultu', .12, 4, 23), ('ruzgar_marti', .17, 25, 'end')], tail=3.5, items=[
   dict(v='N', t='Gece üç on yedi. Uyuyamıyorsun. Odanda keman çalıyorsun.', shot='P1-01', fx=[('keman', .45, 0, 6)]),
   dict(v='N', t='Telefon titriyor. Gizli numara.', shot='P1-02', fx=[('telefon_titresim', .8, 0)], card=('GELEN ARAMA', 'GİZLİ NUMARA', 2.6)),
   dict(v='N', t='Açıyorsun.', shot='P1-03'),
@@ -49,9 +49,6 @@ PARTS = {
   dict(v='PROF_SOFT', t='Biliyorum. Ben de korkardım. Ama sesimi duyuyorsun, değil mi?', shot='P1-16'),
   dict(v='KIZ', t='Koltuğun cebinde bir kâğıt vardı. "Uçak düşerse Profesörü ara" yazıyor.', shot='P1-17'),
   dict(v='OMER_W', t='O ismi bu odanın dışında kimse bilmez.', shot='P1-18'),
-  dict(v='TUNA', t='Sinyal aynı anda üç şehirden geliyor. Bunu ya bir devlet yapar... ya da devletin içindeki biri.', shot='P2-03', fx=[('klavye', .18, 0)], hud=dict(clock='03:20')),
-  dict(v='OMER', t='Radarda kaybolan tek bir uçak yok.', shot='P2-04', hud=dict(radar=True)),
-  dict(v='PROF', t='Transponderi kapatmışlar. Bu bir kaza değil.', shot='P2-06'),
   dict(v='KIZ', t='Profesör? Gittin mi?', shot='P2-07', fx=[('kabin_uyari', .2, 0)]),
   dict(v='PROF_SOFT', t='Buradayım. En sevdiğin oyun ne?', shot='P2-08'),
   dict(v='KIZ_SMALL', t='Uçak oyunu... Ama bu oyun değil, değil mi?', shot='P2-09', shot2=('P2-11', .5)),
@@ -62,7 +59,7 @@ PARTS = {
   dict(v='SAADET', t='Merhaba... Profesör. Uyuyamadın mı... yine? Ben de.'),
   dict(v='SAADET_OWN', t='Göğsümde... bir bomba var...', fx=[('bomba_bip', .25, 0)]),
   dict(v='N', t='Ömer telefonuna uzanıyor. Polisi arasın mı?', shot='P3-02'),
-  dict(v='N', t='Yorumlara yaz. Ara, ya da arama. Çoğunluk ne derse, ikinci bölüm o.', shot='P3-04',
+  dict(v='N', t='Yorumlara yaz: Ara, ya da arama.', shot='P3-04',
        card=('SEÇİM', 'ARA|ARAMA', 99)),
  ]),
 }
