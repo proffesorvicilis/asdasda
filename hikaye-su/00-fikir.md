@@ -7,6 +7,35 @@
 Milyarder Cevdet Aras, Sarıyer'in altına lüks bir sığınak yaptırmış. Taşınmadan önce gerçek bir insan 40 gün içinde yaşasın istiyor:
 hava, su, yemek, psikoloji. Seçilen kişi: Barış, 31, borçlu, kaybedecek bir şeyi yok.
 
+## İş ilanı (Barış'ın gördüğü)
+**Pozisyon:** Sığınak Yaşam Testi Sorumlusu (geçici, 40 gün)
+**Ücret:** Günlük 100.000 TL, toplam **4.000.000 TL**. Yarısı 40. gün kapıda nakit, yarısı bir hafta sonra hesaba.
+**Yer:** Sarıyer, gizli konum. Yerin 18 metre altında 140 m²: yatak odası, mutfak, spor odası, makine dairesi.
+**Aranan:** 25–40 yaş, sağlıklı, sigara kullanmayan, klostrofobisi olmayan, psikolojik testi geçen.
+
+## Günlük görevler (makine dairesindeki kontrol listesi)
+- **07.00** Hava: CO₂ ve oksijen ölçümü, filtre basıncını deftere yaz.
+- **09.00** Su: arıtma tankı seviyesi, numune şişesi doldur ve etiketle.
+- **12.00** Jeneratör: 15 dakikalık test çalıştırması.
+- **15.00** Stok: o günün yemek ve ilaç sayımı, eksik varsa bildir.
+- **18.00** Kamera: 6 iç ve 1 kapı kamerasının kayıtlarını kontrol et.
+- **21.00** Rapor: interkomdan Cevdet Bey'e günlük rapor, ardından ses günlüğü (uyku, ruh hali, rüyalar).
+
+## Sorumluluklar ve kesintiler
+- Bir sistem arızalanırsa kılavuza göre kendin onaracaksın; dışarıdan teknisyen gelmez.
+- Kaçırılan her rapor: −100.000 TL.
+- Kapıyı açarsan ücretin tamamı yanar ve sözleşme biter.
+- Telefon, internet, saat yok. Zamanı yalnızca duvardaki gün sayacı gösterir.
+- Test öncesi ve sonrası tam sağlık taraması; bütün kamera kayıtları şirkete ait.
+
+## Görevler = korku sahneleri
+Her görev bir dehşet anı taşıyor:
+- **Hava:** Bir gün CO₂ ölçümü, içeride iki kişi nefes alıyormuş gibi çıkıyor.
+- **Su:** Numune şişesinin etiketinde senin el yazınla bir tarih var; o tarih henüz gelmedi.
+- **Stok:** Her gün bir kişilik fazla yemek eksiliyor.
+- **Kamera:** Gece kayıtlarında sen uyurken mutfakta biri oturuyor.
+- **Rapor:** 9. günden sonra 21.00 raporunda interkomdan "Tamam Barış, iyi geceler" diyen ses kapıdaki ölü adamın sesi.
+
 ## Kurallar (sözleşmenin son sayfası)
 1. Kapı 40 gün zaman kilitli. İçeriden açılabilir ama açarsan para yok.
 2. Dışarıyla tek bağlantın kapı kamerası ve interkom.
