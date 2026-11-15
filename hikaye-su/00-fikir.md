@@ -1,29 +1,32 @@
-# KENAR NOTU — 40 gün (taslak fikir, eski "Su Gelmeden" iptal)
+# 40 GÜN BEDAVA (taslak fikir; "Su Gelmeden" ve "Kenar Notu" yedekte)
 
-## Tek cümle
-Batmak üzere olan bir sahaf, ölen bir koleksiyoncunun evinde 4.000 kitabı 40 günde kataloglama işini alır. Günde 100 kitap. İlk kitabın kenarında, 1981 tarihli bir el yazısı: "Hoş geldin, Kenan."
+## Kanca (ilk 3 saniye)
+"İstanbul'da kira kırk bin. Sen bir ilan görüyorsun: Kadıköy, 3+1, eşyalı. 40 gün bedava."
 
-## İş ve kurallar (avukatın verdiği kâğıt)
-1. Kitapları sırayla kataloglayacaksın. Atlamak yok.
-2. Hiçbir kitabı evden çıkarmayacaksın.
-3. Gece kütüphanede kalmayacaksın.
-Ücret iyi, çünkü önceki dört kişi işi yarıda bıraktı.
+## Neden tutar
+Herkesin derdi: kira krizi ve ev sahibi. İzleyici ilk saniyede kendini koyuyor.
+"Kurallar" hikâyeleri Reels/TikTok'ta en çok yorum alan tür: herkes kuralı tahmin edip yorum yazıyor.
 
-## Notların merdiveni
-- **Gün 1–10, küçük ve doğru:** "Çayını fazla demledin." "Sol ayakkabının bağı çözülecek." Kenan tesadüf diyor ama her gün bir not daha tutuyor.
-- **Gün 11–20, kişisel:** Notlar kimsenin bilmediği şeyleri biliyor: kapanan dükkânı, borcunu, kardeşiyle küslüğünü.
-- **Gün 21–30, uyarı:** "Yarın kapıya gelen adama açma." Kenan açmaz; adam avukat çıkar. Notlara güvenmeye başlıyor.
-- **Gün 31–39, yönlendirme:** Notlar emir veriyor. Kural 1'i çiğniyor, atlayıp 4000. kitaba bakmak istiyor.
-- **Gün 40, son kitap:** Kitap bomboş, içinde bir dolma kalem var.
+## Adam
+Emre, 28. İşten çıkarılmış, ev sahibi kirayı ikiye katlamış, bavulu arkadaşının kapısında.
+İlanı veren ev sahibi telefonda kibar, yüzünü hiç göstermiyor. Tek şart: buzdolabındaki kurallar.
 
-## Final
-Notlar koleksiyoncunun değil. Onları 1981'de bu işi alan önceki katalogcu yazmış: o da bitirememiş, evde kalmış ve koleksiyoncu olmuş. Son sahnede Kenan masada oturuyor ve 1 numaralı kitabın kenarına yazıyor: "Hoş geldin, ..."
+## Buzdolabındaki kâğıt
+1. Gece 03.00'te kapı çalarsa açma. Kim olursa olsun.
+2. Arka odanın kapısı kilitli. Anahtarı arama.
+3. Komşulara benim kim olduğumu sorma.
+4. Her akşam ışıkları sen kapat. Kendiliğinden kapanırsa evden çık, sabaha kadar dönme.
+5. 40. günün sonunda ev senin.
+
+## Akış
+- **Gün 1–7:** Ev harika, Emre şanslı olduğunu düşünüyor. 3. gece 03.00'te kapı çalıyor; tıklatma, sonra kendi sesi: "Emre, anahtarı unuttum."
+- **Gün 8–20:** Komşular ona acıyarak bakıyor. Apartmanın kapıcısı aynı daire için her 40 günde bir yeni isim yazıyor; defterde onlarca isim var.
+- **Gün 21–35:** Işıklar kendiliğinden kapanıyor. Arka odadan biri her gece biraz daha yakından konuşuyor.
+- **Gün 36–39:** Emre kuralları çiğniyor ve arka odanın anahtarını buluyor.
+- **Gün 40:** Tapu gerçekten onun adına. Ama ev sahibi olmanın bir şartı var: yeni bir kiracı.
+  Son sahne: Emre telefonda ilan yazıyor: **"Kadıköy, 3+1, eşyalı. 40 gün bedava."**
 
 ## Format
-- Üst barda **GÜN 1 / 40** ve **KİTAP 0001 / 4000** sayaçları.
-- Anlatıcı yine adama "sen" diye sesleniyor.
-- Kenar notlarını anlatıcı, yaşlı bir adamı taklit ederek okuyor.
-- Seçim anı: "Notu dinlesin mi?"
-
-## Yedek
-**Monitör:** 40 günlük gece operatörlüğü. Tek ekran, tek boş oda. Bir gün odanın kendi odası olduğunu, ekranın da bir gün ilerisini gösterdiğini fark eder. 39. gece ekranda sandalyesinde başkası oturuyor.
+- Üst barda **GÜN 1 / 40** ve saat (03.00 yaklaşırken kırmızı).
+- Anlatıcı "sen" diye konuşuyor.
+- Her bölümün sonunda seçim: "Kapıyı açsın mı?", "Arka odaya girsin mi?"
