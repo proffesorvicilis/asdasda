@@ -8,21 +8,17 @@ Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~140 sn · "sen"
 
 ## Olay: Perde
 
-- **18 Aralık sabahı:** Ankara'da hava bir gecede +10'dan 0'a düşüyor. Haberler "soğuk hava dalgası" diyor.
-- **Gün içindeki tuhaflıklar:**
-  - Güneş tepede ama ısıtmıyor.
-  - Öğlen olmasına rağmen sıcaklık bir derece bile yükselmiyor.
-  - Soğuma aynı anda bütün dünyada yaşanıyor.
-  - Güneş panelleri açık havada yarı yarıya üretiyor.
-- **Gece 23.40, son dakika:** NASA ve Avrupa Uzay Ajansı ortak açıklama yapıyor.
-  - Güneş Sistemi yıldızlararası bir toz bulutuna girdi; bulut güneş ışığını perdeliyor.
-  - Sıcaklık her gün yaklaşık on derece düşecek.
-  - En yoğun noktaya sekiz gün içinde ulaşılacak (yaklaşık −80).
-  - Etki en az üç ay sürecek.
-- Sosyal medya buluta hemen bir isim veriyor: **Perde**. Geceleri yıldızlar görünmüyor.
+- **Gün 1 (18 Aralık):** Ankara'da hava bir gecede +10'dan 0'a düşüyor. Haberler "Sibirya kaynaklı soğuk hava dalgası" diyor.
+- **Gün içindeki tuhaflıklar:** Güneş ısıtmıyor, öğlen bile sıcaklık kıpırdamıyor, soğuma bütün dünyada aynı anda yaşanıyor.
+- **Bizimkilerin ipucu:** Çiftliğin hava istasyonu, açık havada gelen güneş ışığının normalin yarısı olduğunu ve saat saat azaldığını ölçüyor. Aras'la Çınar'la hesabı yapıyorsunuz: güneş kısılıyorsa dünya her gün biraz daha soğuyacak.
+- **Haberler:**
+  - Gün 2 (−10) ve Gün 3 (−20) boyunca hâlâ "soğuk hava dalgası, bir hafta sürebilir" diyor.
+  - Gün 3 akşamı, −20'den sonra ve −30'a düşmeden önceki gece, son dakika: NASA ve Avrupa Uzay Ajansı'nın açıklaması. Güneş Sistemi yıldızlararası bir toz bulutuna girdi, güneş ışığı perdeleniyor. Sıcaklık her gün yaklaşık on derece düşecek ve beş gün sonra en yoğun noktaya (yaklaşık −80) ulaşılacak. Etki en az üç ay sürecek.
+  - Sosyal medya buluta "Perde" diyor. Ertesi sabah bütün ülke markete koşuyor.
+- **Avantajınız:** Siz iki gün önce, raflar doluyken ve kimse panik yapmazken hazırlanmaya başladınız.
 - **Sonuçları:**
   - Aylarca dışarıda hiçbir şey yetişmeyecek.
-  - Ağaçlar, otlar, yabani hayvanlar, ahırdaki hayvanlar ölecek.
+  - Ağaçlar, yabani hayvanlar ve ahırdaki hayvanlar ölecek.
   - Yiyecek sadece depoda olan ve içeride yetiştirilen kadar.
 
 ## Karakterler
@@ -57,93 +53,83 @@ Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~140 sn · "sen"
 
 ## GÜN 1 · 0° · "Soğuk Hava Dalgası" (Ankara)
 
-- **07.40:** Alarm. Yerler buz gibi, pencere kenarları buz tutmuş. Telefon sıfır gösteriyor; dün +10'du. On derece düşmüş.
+- **07.40:** Alarm çalıyor, yerler buz gibi. Telefon sıfır gösteriyor; dün +10'du. On derece düşmüş.
 - **07.50:** Kahve ve haber: "Sibirya kaynaklı soğuk hava dalgası." Kış işte, Ankara'nın ayazı.
-- **09.00:** Sabah koşusu. Parktaki havuz buz tutmuş, ağaçlarda tek bir kuş yok. Güneş tepede ama ısıtmıyor; soluk, eski bir ampul gibi.
-- **12.00:** Kafe. Hava durumu uygulaması −10, −20, −30 gösteriyor; masadakiler "uygulama bozulmuş" diye gülüyor.
-- **13.00:** Sıcaklık öğlen bile sıfırdan kıpırdamıyor. Haber bandında Avrupa, Asya ve Amerika'da aynı anda ani soğuma geçiyor. Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.
+- **09.00:** Sabah koşusu. Parktaki havuz buz tutmuş, ağaçlarda tek bir kuş yok. Güneş soluk bir ampul gibi.
+- **12.00:** Kafede hava durumu uygulaması −10, −20, −30 gösteriyor. Masadakiler "uygulama bozulmuş" diye gülüyor.
+- **13.00:** Sıcaklık öğlen bile kıpırdamıyor. Haber bandında Avrupa, Asya ve Amerika'da aynı anda ani soğuma geçiyor. Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.
 - **14.30:** Aras telefonda: "Gökyüzü masmavi ama paneller yarı yarıya az üretiyor. Güneş sanki kısılmış."
-- **15.00:** Çınar: "Ben de tam seni arayacaktım. Bu soğuk normal değil, değil mi?" "Akşam bana gel."
-- **19.00:** Çınar elinde poşetler ve düdüklü tencereyle geliyor. Mercimek çorbası. Aras görüntülü aramada, çiftlikteki sobanın başında.
-- **20.00:** Ana haber hâlâ "soğuk hava dalgası" diyor. Spiker artık gülümsemiyor.
-- **23.40:** SON DAKİKA, Perde açıklaması.
-- **23.45 · Karar konuşması:**
-  - Çınar: "Ankara'da kalırsak ne olur?"
-  - Sen hesabı yüksek sesle yapıyorsun: Bu soğukta doğalgaz şebekesi birkaç gün dayanır. Elektrik santrallerinin çoğu gazla çalışıyor. Önce ısı gider, sonra elektrik, sonra su.
-  - Aras: "Çiftlikteki termal kuyu kendiliğinden akıyor, elektriğe ihtiyacı yok. Türbinler de depo da tohum bankası da burada."
-  - Kararı vermeniz bir dakika sürüyor: çiftliğe gidiyorsunuz.
-- **SEÇİM: NE ZAMAN ÇIKIYORSUNUZ?** → BU GECE / SABAH
-  - **BU GECE:** Yollar boş, sakin. Ama sadece evdekiyle ve arabaların bagajıyla gidiyorsunuz. Kiler 50 gün kalıyor ama duvar için bir gece kazanıyorsunuz.
-  - **SABAH:** Saat 08.00'de toptancı açılıyor; şirketten kalma toptancı kartın hâlâ cüzdanında. Un ve pirinç çuvalları, teneke yağ, tuz, şeker, çay, konserve alınıyor (kiler 90 güne çıkıyor). Ama saat dokuzda reyonlarda kavga çıkıyor ve Ankara çıkışı kilitleniyor; çiftliğe ancak akşam varıyorsunuz. Dolu arabanızı görenler de var.
+- **15.00:** Çınar'ı akşama çağırıyorsun.
+- **19.00:** Çınar elinde poşetler ve düdüklü tencereyle geliyor. Mercimek çorbası pişiyor. Aras görüntülü aramada, çiftlikteki sobanın başında.
+- **21.00:** Akşam haberleri hâlâ "soğuk hava dalgası" diyor. Ama Aras'ın ekranındaki grafik başka bir şey söylüyor:
+  - Çiftliğin hava istasyonu bütün gün güneşi ölçmüş. Gökyüzü açık ama gelen ışık normalin yarısı ve her saat azalıyor.
+  - Hesap yüksek sesle yapılıyor: güneş yarıya inerse dünya her gün biraz daha soğur. Bugün on derece düştü, yarın bir on derece daha.
+  - Aras: "Bu bir hava olayı değil kanka."
+  - Çınar: "Kimse fark etmeden hazırlanırsak herkesten önde oluruz." Ama bu, herkesi kendi kaderine bırakmak demek.
+- **SEÇİM: SESSİZCE HAZIRLANIYOR MUSUN, HERKESİ UYARIYOR MUSUN?** → SESSİZCE HAZIRLAN / HERKESİ UYAR
+  - **SESSİZCE HAZIRLAN:** Ertesi gün raflar dolu ve kimse panik yapmıyor; kiler 120 güne çıkıyor. Ama günler sonra biri yüzüne söyleyecek: "Biliyordun ve sustun."
+  - **HERKESİ UYAR:** Grafiği ve hesabı internete koyuyorsun. Çoğu "komplo teorisi" diye gülüyor ama bazıları inanıyor. Ertesi gün toptancı kalabalık, bazı raflar boş; kiler 90 gün. Günler sonra tanımadığın birinden bir mesaj geliyor: "Sayende hazırlandık."
 
-## GÜN 2 · −10° · "Duvar"
+## GÜN 2 · −10° · "Stok" (Ankara'dan çiftliğe)
 
-Çiftlikteki ilk iş: duvarlar.
-
-- **Sınır turu:**
-  - Çınar elinde metre, Aras elinde tablet. Taş duvar 1,6 metre ve 400 metre boyunca dönüyor.
-  - Ana kapı basit bir sürgülü kapı. Orman tarafında sadece tel örgü var.
-  - Aras: "Kızılcahamam termal sularıyla meşhur. Ankara'dan kaçan herkes buraya gelecek."
-- **İş:**
-  - Çınar kapıya iki kat çelik sac kaynatıyor, arkasına sürgülü kiriş takıyor.
-  - Aras köşelere gece görüşlü kameralar ve hareket sensörlü projektörler takıyor; görüntüyü mutfaktaki ekrana bağlıyor.
-  - Sen ve Aras orman tarafına dikenli tel çekiyorsunuz. Traktör kapının arkasına park ediliyor.
-- **Termal kuyu (teknik):** Kuyu artezyen. "Saniyede iki litre, altmış derece. Bu, iki yüz elli kilovatlık bir soba demek; elektriksiz, bedava." Tek kural: su asla durmayacak.
-- **Cam sera:** Aras camı tıklatıyor: "Bu cam eksi kırkta tutulamaz. Güneş de yok zaten. İçindeki her şey ölecek." Yarının işi belli: ekimi soğuk hava deposuna taşımak.
-- **Akşam:** Çınar sobada tavuk sote ve pilav yapıyor. Aras eski bir hoparlörden müzik açıyor. Zeus sobanın önünde. Yorgunluktan konuşmadan yiyorsunuz, sonra gülüyorsunuz.
-- **Haber:** Ankara'da benzinlik kuyrukları var, marketlerde ilk kavgalar çıkıyor, olağanüstü hal ilan edildi. Paris −15.
+- **07.30:** Haber: "Soğuk hava dalgası sürüyor; meteoroloji bir hafta sürebileceğini söylüyor." İnsanlar işe gidiyor, okullar açık.
+- **Gece hazırlanan liste:** Önce kalori, sonra ısı, sonra ilaç.
+- **08.00 · Toptancı:** Şirketten kalma toptancı kartıyla un, pirinç, bulgur, mercimek çuvalları, teneke yağ, şeker, tuz (et saklamak için), çay, kahve, konserve ve 200 kg patates alınıyor. Kasiyer: "Düğün mü var abi?"
+- **11.00 · Eczane:** Ağrı kesici, ateş düşürücü, C vitamini, sargı, antiseptik. Antibiyotik reçetesiz verilmiyor.
+- **13.00 · Hırdavat:** Boru izolasyonu, ısıtıcı kablo, testere zincirleri, bidonlar, fenerler, piller ve bir jeneratör daha. Henüz kimse jeneratör almıyor.
+- **15.00 · Zirai market:** Gübre, besin solüsyonu, yetiştirme torbaları, tavuk yemi.
+- **16.00 · Mazot:** Çiftliğin tankı, kış için doldurulur gibi sakin bir siparişle doldurtuluyor. Arabaların depoları ve bidonlar da dolduruluyor.
+- **18.00 · Yola çıkış:** Aras çiftliğin pikabıyla Ankara'ya gelmiş; iki araba ve pikap tıka basa dolu Kızılcahamam'a gidiyor.
+- **20.00 · Çiftlik:** Erzak depoya indiriliyor. Termal suyun buharı karanlıkta yükseliyor, Zeus kuyruk sallıyor.
+- **21.00 · Akşam:** Çınar sobada tavuk sote ve pilav yapıyor. Plan tahtasına ilk liste yazılıyor: ISI · ELEKTRİK · SU · YİYECEK · GÜVENLİK · HABERLER.
+- **23.00 · Haber:** "Yarın −20 bekleniyor." Haberlerde kimse güneşten bahsetmiyor.
 - **SEÇİM: DUVAR STRATEJİSİ** → GENİŞ SINIR / DAR KALE
   - **GENİŞ SINIR:** Türbinler, ahır ve cam sera dahil bütün çiftlik çevriliyor. Ama malzeme yetmiyor; orman tarafındaki duvar ince kalıyor.
   - **DAR KALE:** Sadece ev, depo ve termal kuyu çevriliyor; duvar kalın ve yüksek. Ama türbinler ve ahır dışarıda kalıyor.
 
-## GÜN 3 · −20° · "Kalori"
+## GÜN 3 · −20° · "Duvar" (akşam: açıklama)
 
-- **07.30 · Haber:** Ankara −20. Mazot dondu, otobüsler durdu, okullar kapandı. Metro istasyonları sığınak oldu. "Gece sokakta yaşayan üç kişi donarak öldü."
-- **09.00 · Teknik masa** (beyaz tahtada hesaplar):
-  - **Kalori:** Üç kişi, günde 2.500 kalori, 100 gün: 750 bin kalori. Kilerde 450 bin var (SABAH seçildiyse 750 bin). "Gerisi ya içeride yetişecek ya dışarıdan gelecek."
-  - **Hayvanlar:** 30 tavuk günde 3,5 kg yem yiyor; yem 40 gün sonra bitiyor. Eksi kırkta ahır donar. Işık olmadan tavuk yumurtlamaz; günde 14 saat ışık ister.
-  - **Dışarısı:** "Bu soğukta dışarıda tek bir bitki, tek bir hayvan yaşamayacak."
-- **Sera planı (neden donmayacak?):**
-  - Cam sera bırakılıyor. Ekim soğuk hava deposuna taşınıyor: 12 cm poliüretan panel, soğuğu nasıl içeride tutuyorsa sıcağı da öyle tutuyor. Eksi seksende bile ısı kaybı sadece 7-8 kilovat.
-  - LED'lerin ışığa dönüşmeyen enerjisi zaten ısı oluyor; oda gündüz kendini ısıtıyor. Rafların altına döşenen termal borular geceyi karşılıyor.
-  - Girişe iki kapılı bir hava kilidi yapılıyor. Nem alıcı, bitkilerin terlediği suyu geri topluyor. Arı yok; domatesi elektrikli diş fırçasıyla, salatalığı fırçayla elle tozlaştıracaklar.
-- **Ne ekilecek? (tartışma):**
-  - Çınar: "Domates, salatalık. Vitaminsiz kalırız."
-  - Sen: "Önce kalori. Patates."
-  - Aras: "Patates kalorinin kralı ama 70-90 gün sürer. En hızlısı filiz: 7-10 gün. Turp 25, ıspanak 40 gün."
-  - Karar:
-    - %60 patates: kilerdeki filizlenmiş patatesler ekiliyor, çünkü patates tohumdan değil yumrudan yetişir.
-    - %15 soğan ve sarımsak: soğan başlarından üç haftada yeşil soğan.
-    - %15 domates ve salatalık: üçüncü aya.
+- **Sabah · Duvar:**
+  - Taş duvar 1,6 metre, kapı basit bir sürgülü kapı, orman tarafında sadece tel var.
+  - Çınar kapıya iki kat çelik sac kaynatıyor.
+  - Aras gece görüşlü kameraları ve hareket sensörlü projektörleri takıp mutfaktaki ekrana bağlıyor.
+  - Orman tarafına dikenli tel çekiliyor; traktör kapının arkasına park ediliyor.
+- **Öğleden sonra · Teknik masa:**
+  - **Kalori:** Üç kişi, günde 2.500 kalori, 100 gün. Kiler ne kadar tutuyor?
+  - **Tavuklar:** Yem 40 gün sonra bitiyor. Eksi kırkta ahır donar; ışık olmadan tavuk yumurtlamaz.
+  - **Ekim:**
+    - Cam sera bırakılıyor; ekim 12 cm yalıtımlı soğuk hava deposuna taşınıyor.
+    - LED'lerin ısısı odayı gündüz ısıtıyor; raf altındaki termal borular geceyi karşılıyor.
+    - Girişe hava kilidi yapılıyor; nem alıcı var. Domates elektrikli diş fırçasıyla elle tozlaştırılacak.
+  - **Ne ekilecek?** Çınar domates ve salatalık istiyor, sen patates; Aras süreleri sayıyor (patates 70-90 gün, filiz 7-10, turp 25, ıspanak 40). Karar:
+    - %60 patates: filizlenen patatesler ekiliyor, patates yumrudan yetişir.
+    - %15 soğan ve sarımsak.
+    - %15 domates ve salatalık.
     - %10 filiz, turp ve ıspanak: C vitamini, iskorbüte karşı.
-  - Çınar: "Çilek?" Sen: "Kıyamette çileğe yer yok."
-- **Elektrik hesabı:** LED'ler günde 16 saatte 400 kWh yakar. Türbinler ortalama 480 kWh üretir. Bataryada 200 kWh, jeneratörde 8.000 kWh yedek var. Türbinler giderse sera gider.
-- **İş:** Raflar taşınıyor, Aras LED'leri bağlıyor, Çınar termal boruları döşüyor. Sen patatesleri ikişer gözlü parçalara bölüp torbalara ekiyorsun, filizleri tepsilere seriyorsun. Gece depo mor-pembe ışıkla yanıyor.
-- **Akşam:** Termal havuz, karın ortasında dumanı tüten su, elinizde çay. Gökyüzünde tek yıldız yok. "Ya üç ayda geçmezse?" Çınar: "O zaman dördüncü ayın planını da yaparız kanka."
+    - "Kıyamette çileğe yer yok."
+  - **Elektrik:** LED'ler günde 400 kWh yakıyor, türbinler 480 kWh üretiyor. "Türbinler giderse ekim gider."
+- **20.00 · Akşam:** Termal havuz, elinizde çay; gökyüzünde tek bir yıldız yok.
+- **21.00 · SON DAKİKA:** NASA ve Avrupa Uzay Ajansı'nın açıklaması. Spikerin sesi titriyor. Sosyal medya buluta "Perde" diyor. Salonda kimse konuşmuyor. Çınar: "Biz biliyorduk." Aras: "Yarın bütün ülke markete koşacak."
 - **SEÇİM: TAVUKLARI NE YAPIYORSUNUZ?** → KES VE DONDUR / SICAKTA TUT
   - **KES VE DONDUR:** 30 tavuktan 36 kg et çıkıyor; tuzlanıp kavurma yapılıyor, dışarıda donduruluyor. Yem ve ısı derdi bitiyor, yumurta da bitiyor.
   - **SICAKTA TUT:** Deponun yanına LED ışıklı küçük bir kümes yapılıyor; günde 15 yumurta. Ama yem 40 günde bitecek ve kümes elektrikten pay istiyor.
 
-## GÜN 4 · −30° · "Karanlık"
+## GÜN 4 · −30° · "Panik"
 
-- **03.00:** Ulusal şebeke çöküyor; güney ufkundaki Ankara'nın ışıkları sönüyor.
-- **08.00 · Haber** (uydu, bataryayla): Ankara karanlıkta. Doğalgaz basıncı bitti, apartmanlarda insanlar donuyor, hastaneler jeneratörle çalışıyor. Otoyolda binlerce kişi kuzeye, Kızılcahamam'ın termal otellerine yürüyor.
+- **Sabah haberleri:** Marketler yağmalanıyor, benzinlikler boş, otoyolda kuzeye kilometrelerce kuyruk var. Siz o rafları iki gün önce sakin sakin doldurdunuz.
+- **Gece 03.00:** Ulusal şebeke çöküyor; güney ufkundaki Ankara'nın ışıkları sönüyor.
 - **Çiftlik:**
-  - Termal su akıyor. Türbinler kanat ısıtıcılarıyla dönüyor. Depo +21; ilk filizler çıktı.
-  - Zeus duvarın dibinde donmuş bir karaca buluyor. Çınar bir süre bakıyor: "Et bu."
-- **Eksik listesi:**
-  1. Patates için daha fazla LED.
-  2. Gübre ve besin solüsyonu.
-  3. Antibiyotik ve ilaç.
-  4. Mazot.
-- **Yağma tartışması:** Kasabadaki zirai market, nalbur ve eczane kapalı; sahipleri ya Ankara'da ya da kaçtı.
+  - Termal su akıyor, depo +21, ilk filizler çıktı.
+  - Zeus duvar dibinde donmuş bir karaca buluyor. Çınar: "Et bu."
+- **Eksikler:** Reçetesiz alınamayan antibiyotikler ve patatesi ikiye katlayacak kadar LED.
+- **Yağma tartışması:** Kasabanın eczanesi ve bahçe marketi kapalı, sahipleri kaçtı.
   - Çınar: "Bu hırsızlık kanka."
   - Sen: "Sahibi kalmadı. Artık hırsızlık değil, hayatta kalmak."
-  - Aras: "Gece gideriz. Gündüz herkes görür."
-- **Akşam:** Karaca güveci. Aras ruhsatlı av tüfeğini temizliyor. Kimse çok konuşmuyor.
-- **SEÇİM: TEK GECE, TEK DÜKKÂN. NERESİ?** → ZİRAİ MARKET / ECZANE
-  - **ZİRAİ MARKET:** LED lambalar, gübre, 200 kg tohumluk patates, tavuk yemi. Sera ikiye katlanıyor.
-  - **ECZANE:** Antibiyotik, ağrı kesici, sargı, serum, insülin. Bir yara, bir enfeksiyon sizi öldürmüyor.
+  - Aras: "Gece gideriz."
+- **Akşam:** Karaca güveci. Aras av tüfeğini temizliyor.
+- **SEÇİM: TEK GECE, TEK DÜKKÂN** → ECZANE / BAHÇE MARKETİ
+  - **ECZANE:** Antibiyotik, serum, insülin.
+  - **BAHÇE MARKETİ:** LED yetiştirme lambaları ve tohumluk patates. Ekim ikiye katlanıyor.
 
 ## GÜN 5 · −40° · "Yağma"
 
@@ -165,7 +151,7 @@ Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~140 sn · "sen"
 
 ## GÜN 6 · −50° · "Türbinler"
 
-- **Asya'nın revir odası:** Çınar'ın kepengi kaldırırken açılan eli dikiliyor. ECZANE seçildiyse antibiyotik var; seçilmediyse Asya kaynamış suyla ve ne bulursa onunla idare ediyor.
+- **Asya'nın revir odası:** Çınar'ın kepengi kaldırırken açılan eli dikiliyor. ECZANE seçildiyse antibiyotik var; BAHÇE MARKETİ seçildiyse Asya kaynamış suyla ve ne bulursa onunla idare ediyor.
 - **Türbinler:**
   - Yağ koyulaşıyor, kanatlar buz tutuyor, bir türbinin dişli kutusu alarm veriyor.
   - Aras kemerle kuleye tırmanıyor; on dakikalık nöbetlerle, ısı tabancasıyla motor bölmesinin ısıtıcısını tamir ediyor. Türbin yeniden dönüyor.
@@ -213,7 +199,7 @@ Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~140 sn · "sen"
 
 ## GÜN 1 metni (seslendirmeye hazır, ~140 sn)
 
-Ekrandaki saatler: 07.40 → 07.50 → 09.00 → 12.00 → 13.00 → 14.30 → 15.00 → 19.00 → 20.00 → 23.40 → 23.45
+Ekrandaki saatler: 07.40 → 07.50 → 09.00 → 12.00 → 13.00 → 14.30 → 15.00 → 19.00 → 21.00
 
 1. **ANLATICI:** On sekiz Aralık sabahı alarmın çaldığında, yerler buz gibiydi.
 2. **ANLATICI:** Pencerenin kenarları buz tutmuştu. Telefon sıfır dereceyi gösteriyordu. Dün artı ondu.
@@ -240,27 +226,26 @@ Ekrandaki saatler: 07.40 → 07.50 → 09.00 → 12.00 → 13.00 → 14.30 → 1
 23. **ANLATICI:** Çınar yedide kapıdaydı. Elinde iki poşet, bir de düdüklü tencere.
 24. **ÇINAR:** Senin buzdolabında yumurtayla yoğurttan başka bir şey olmadığını biliyorum.
 25. **ANLATICI:** Mercimek çorbasının kokusu bütün evi sardı. Aras görüntülü aramadaydı, çiftlikteki sobanın başından.
-26. **ANLATICI:** Akşam haberleri hâlâ soğuk hava dalgası diyordu. Ama spiker artık gülümsemiyordu.
-27. **ANLATICI:** Gece on bire yirmi kala, ekranda kırmızı bir yazı belirdi. Son dakika.
-28. **SPİKER:** NASA ve Avrupa Uzay Ajansı ortak bir açıklama yaptı. Güneş Sistemi, yıldızlararası bir toz bulutuna girdi.
-29. **SPİKER:** Bulut güneş ışığını perdeliyor. Sıcaklıkların her gün yaklaşık on derece düşmesi bekleniyor.
-30. **SPİKER:** En yoğun noktaya sekiz gün içinde ulaşılacak. Etkinin en az üç ay sürmesi bekleniyor.
-31. **ANLATICI:** Spikerin sesi titriyordu. Sosyal medya buluta bir isim vermişti bile: Perde.
-32. **ÇINAR:** Üç ay... Ankara'da kalırsak ne olur?
-33. **ANLATICI:** Hesabı yüksek sesle yaptın. Bu soğukta doğalgaz şebekesi birkaç gün dayanır. Elektrik santrallerinin çoğu da gazla çalışıyor.
-34. **ANLATICI:** Önce ısı gider. Sonra elektrik. Sonra su.
-35. **ARAS:** Çiftlikteki termal kuyu kendiliğinden akıyor, elektriğe ihtiyacı yok. Türbinler de, depo da, tohum bankası da burada.
-36. **ANLATICI:** Kararı vermeniz bir dakika sürdü. Çiftliğe gidiyordunuz.
-37. **ANLATICI:** Ama ne zaman?
-38. **ANLATICI:** Bu gece, yarı boş arabalarla mı? Yoksa sabah sekizde, toptancı açılınca, bütün Ankara'yla birlikte mi?
+26. **ANLATICI:** Akşam haberleri hâlâ soğuk hava dalgası diyordu. Ama Aras'ın ekranındaki grafik başka bir şey söylüyordu.
+27. **ARAS:** Çiftliğin hava istasyonu bütün gün güneşi ölçtü. Gökyüzü açık ama gelen ışık normalin yarısı.
+28. **ARAS:** Ve her saat biraz daha azalıyor.
+29. **ÇINAR:** Güneş azalırsa ne olur?
+30. **ANLATICI:** Hesabı yüksek sesle yaptın. Güneş kısılırsa dünya her gün biraz daha soğur.
+31. **ANLATICI:** Bugün on derece düştü. Yarın bir on derece daha.
+32. **ARAS:** Bu bir hava olayı değil kanka.
+33. **ANLATICI:** Haberlerde kimse bundan bahsetmiyordu. Henüz.
+34. **ÇINAR:** Kimse fark etmeden hazırlanırsak, herkesten önde oluruz.
+35. **ANLATICI:** Ama bu, herkesi kendi kaderine bırakmak demekti.
+36. **ANLATICI:** Sessizce hazırlanıyor musun, yoksa herkesi uyarıyor musun?
 
 **Seçim ekranı:**
 
 - Üstte: GÜN 1 · KARAR ANI
-- Soru: "PERDE GELİYOR. NE ZAMAN ÇIKIYORSUNUZ?"
-- Butonlar: [BU GECE] [SABAH]
-- Altında: "Bu gece: yollar boş, erzak az · Sabah: üç aylık erzak, ama bütün Ankara yollarda"
-- En altta: "2. GÜN: DUVAR. TAKİP ET"
+- Kırmızı satır: "HENÜZ KİMSE BİLMİYOR."
+- Soru: "SUSUYOR MUSUN, UYARIYOR MUSUN?"
+- Butonlar: [SESSİZ KAL] [HERKESİ UYAR]
+- Altında: "Sessiz kal: raflar dolu, kimse panik yapmıyor · Uyar: birkaç kişi kurtulur, paniği sen başlatırsın"
+- En altta: "2. GÜN: EKSİ ON. TAKİP ET"
 
 ## Görüntü ve ses
 
