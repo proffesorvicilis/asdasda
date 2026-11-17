@@ -1,0 +1,1 @@
+{"words": [{"text": "Bir,", "start": 0.06, "end": 0.52, "type": "word", "logprob": -0.0003329738538013771}, {"text": "iki,", "start": 1.1, "end": 1.54, "type": "word", "logprob": -8.434007213509176e-06}, {"text": "üç", "start": 2.4, "end": 2.94, "type": "word", "logprob": -0.000460876093711704}], "stt": "Bir, iki, üç", "score": 1.0}

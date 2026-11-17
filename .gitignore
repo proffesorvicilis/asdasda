@@ -4,3 +4,9 @@
 # Higgsfield'dan indirilen sahne görselleri (büyük dosyalar, Higgsfield'da da duruyor)
 /hikaye/gorseller/
 __pycache__/
+
+# Gece Nöbeti: ara çıktılar (yeniden üretilebilir)
+/fener/cikti/_sessiz.mp4
+/fener/cikti/_parca/
+/fener/ses/efekt/*.wav
+/fener/ses/miks.wav
