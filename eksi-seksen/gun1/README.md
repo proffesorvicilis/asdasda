@@ -1,16 +1,24 @@
 # Eksi Seksen · Gün 1/9 · "Soğuk Hava Dalgası"
 
-- **Video:** `cikti/gun1.mp4` (1080×1920, 30 fps, ~2:23)
-- **Kapak:** `cikti/kapak.png` ("GÜN 1 · 0°C · EKSİ SEKSEN")
-- **Sesler:** anlatıcı (Orhan), haber spikeri (televizyon filtresi), Aras (telefon ve görüntülü arama filtresi), Çınar
-- **Görünüm:** Fener'le aynı çizim dili. Gündüz sahneleri soğuk mavi, akşam sahneleri sıcak turuncu. Karaoke altyazı (en fazla 3 kelime), Reels güvenli alanı. Üstte GÜN 1/9, saat, sıcaklık ve yer.
+- **Video:** `cikti/gun1.mp4` (1080×1920, 30 fps, 2:30)
+- **Kapak:** `cikti/kapak.png` ("GÜN 1 · 0°C · EKSİ SEKSEN", buz tutmuş camın ardında Atakule ve Kocatepe)
+- **Sesler:** Türkçede en çok kullanılan ElevenLabs sesleri, kararlı çok dilli modelle (multilingual v2), yapay hızlandırma olmadan:
+  - **Anlatıcı:** Doga – Audiobook Master
+  - **Haber spikeri:** Mert Aksoy (hafif televizyon filtresi)
+  - **Aras:** Yunus – Soft and Natural (telefon ve görüntülü arama filtresi)
+  - **Çınar:** Mert – Energetic, Natural and Friendly
+- **Görünüm:**
+  - Ayrıntılı çizimler: Çankaya'da çatı katı (yerden tavana cam, Ankara panoraması, Atakule ve Kocatepe), mermer adalı mutfak, Kuğulu Park (buz tutmuş havuz, kuğu evi), Tunalı'da kafe, Kızılay'da eczane, fırın ve banka, sarı taksi ve otobüs, Türkiye haritalı haber stüdyosu, dünyadan canlı yayınlar, ayrıntılı çiftlik, giriş holü ve akşam sofrası (mercimek çorbası, ince belli çay bardakları).
+  - Gündüz soğuk mavi, akşam sıcak turuncu.
+  - Karaoke altyazı (en fazla 3 kelime), Reels güvenli alanı.
 
 **Paylaşım açıklaması:**
 
 ```
 Eksi Seksen · Gün 1/9 ❄️
 
-Ankara'da hava bir gecede on derece düştü.
+Çankaya'da bir çatı katı. Kurduğun şirketi milyonlarca dolara sattın.
+Bir sabah Ankara'da hava on derece düştü.
 Haberler "soğuk hava dalgası" diyor.
 Ama gökyüzü açıkken güneş panelleri yarı yarıya üretiyor.
 Güneş kısılıyor. Ve henüz kimse bilmiyor.
@@ -26,12 +34,12 @@ Susuyor musun, uyarıyor musun?
 
 | Saat | Sahne |
 |---|---|
-| 07.40 | Yatak odası, alarm, buz tutmuş cam, telefonda 0° (dün +10°) |
+| 07.40 | Çatı katı yatak odası: alarm, Ankara panoraması, şirketi milyonlarca dolara satmışsın; telefonda 0° (dün +10°) |
 | 07.50 | Mutfak, kahve, televizyonda "soğuk hava dalgası" |
-| 09.00 | Park: buz tutmuş havuz, kuşsuz ağaçlar, soluk güneş |
-| 12.00 | Kafe: hava durumu uygulamasında −10, −20, −30; masadakiler gülüyor |
-| 13.00 | Eczane tabelası: 13.00 / 0°C |
-| 13.05 | Haber bandı ve dünya küresi: her yerde aynı anda soğuma |
+| 09.00 | Kuğulu Park: buz tutmuş havuz, boş kuğu evi, kuşsuz ağaçlar, soluk güneş |
+| 12.00 | Tunalı'da kafe: hava durumu uygulamasında −10, −20, −30; masadakiler gülüyor |
+| 13.00 | Kızılay: eczane tabelası 13.00 / 0°C, fırın, banka, taksi, otobüs |
+| 13.05 | Dünyadan canlı yayınlar: Paris, Tokyo, New York; haber bandı |
 | 14.30 | Aras'la telefon (bölünmüş ekran): paneller yarı yarıya üretiyor |
 | 14.31 | Çiftlik ve kurucuların fotoğrafı (Filiz, 2021) |
 | 15.00 | Çınar'la telefon |

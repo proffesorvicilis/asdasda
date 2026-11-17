@@ -53,10 +53,10 @@ Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~140 sn · "sen"
 
 ## GÜN 1 · 0° · "Soğuk Hava Dalgası" (Ankara)
 
-- **07.40:** Alarm çalıyor, yerler buz gibi. Telefon sıfır gösteriyor; dün +10'du. On derece düşmüş.
+- **07.40:** Çankaya'daki çatı katında alarm çalıyor. Otuz üç yaşındasın, şirketini milyonlarca dolara satmışsın; bir daha çalışman gerekmiyor. Yerler buz gibi. Telefon sıfır gösteriyor; dün +10'du. On derece düşmüş.
 - **07.50:** Kahve ve haber: "Sibirya kaynaklı soğuk hava dalgası." Kış işte, Ankara'nın ayazı.
-- **09.00:** Sabah koşusu. Parktaki havuz buz tutmuş, ağaçlarda tek bir kuş yok. Güneş soluk bir ampul gibi.
-- **12.00:** Kafede hava durumu uygulaması −10, −20, −30 gösteriyor. Masadakiler "uygulama bozulmuş" diye gülüyor.
+- **09.00:** Sabah koşusu. Kuğulu Park'taki havuz buz tutmuş, ağaçlarda tek bir kuş yok. Güneş soluk bir ampul gibi.
+- **12.00:** Tunalı'daki bir kafede hava durumu uygulaması −10, −20, −30 gösteriyor. Masadakiler "uygulama bozulmuş" diye gülüyor.
 - **13.00:** Sıcaklık öğlen bile kıpırdamıyor. Haber bandında Avrupa, Asya ve Amerika'da aynı anda ani soğuma geçiyor. Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.
 - **14.30:** Aras telefonda: "Gökyüzü masmavi ama paneller yarı yarıya az üretiyor. Güneş sanki kısılmış."
 - **15.00:** Çınar'ı akşama çağırıyorsun.
@@ -197,46 +197,44 @@ Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~140 sn · "sen"
 
 ---
 
-## GÜN 1 metni (seslendirmeye hazır, ~140 sn)
+## GÜN 1 metni (seslendirildi, 2:30)
 
 Ekrandaki saatler: 07.40 → 07.50 → 09.00 → 12.00 → 13.00 → 14.30 → 15.00 → 19.00 → 21.00
 
-1. **ANLATICI:** On sekiz Aralık sabahı alarmın çaldığında, yerler buz gibiydi.
-2. **ANLATICI:** Pencerenin kenarları buz tutmuştu. Telefon sıfır dereceyi gösteriyordu. Dün artı ondu.
-3. **ANLATICI:** On derece düşmüş. Kahveni koyup televizyonu açtın.
-4. **SPİKER:** Sibirya kaynaklı soğuk hava dalgası etkisini artırıyor. Sıcaklıkların mevsim normallerinin altında seyretmesi bekleniyor.
-5. **ANLATICI:** Kış işte, dedin. Ankara'nın ayazı.
-6. **ANLATICI:** Sabah koşusuna çıktın. Parktaki havuz buz tutmuştu. Ağaçlarda tek bir kuş yoktu.
-7. **ANLATICI:** Güneş tepedeydi ama yüzünü ısıtmıyordu. Soluk, eski bir ampul gibiydi.
-8. **ANLATICI:** Öğlen bir kafede bilgisayarını açtın. Herkes soğuktan bahsediyordu.
-9. **ANLATICI:** Hava durumu uygulaması önümüzdeki günler için tuhaf rakamlar gösteriyordu. Eksi on. Eksi yirmi. Eksi otuz.
-10. **ANLATICI:** Masadakiler güldü. Uygulama bozulmuş.
-11. **ANLATICI:** Saat birde termometre hâlâ sıfırdı. Öğlen olmasına rağmen bir derece bile yükselmemişti.
-12. **ANLATICI:** Haber bandında bir satır geçti: Avrupa'da, Asya'da, Amerika'da aynı anda ani soğuma.
-13. **ANLATICI:** Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.
-14. **ANLATICI:** Aras'ı aradın. Kızılcahamam'daki çiftlikteydi.
-15. **ARAS:** Kanka, burada da sıfır. Dün on ikiydi. Bir de garip bir şey var.
-16. **ARAS:** Gökyüzü masmavi ama güneş panelleri yarı yarıya az üretiyor. Güneş sanki kısılmış.
-17. **ANLATICI:** Aras ve Çınar'la birlikte bir akıllı tarım şirketi kurmuştunuz. İkisi de mühendis.
-18. **ANLATICI:** Şirketi iki yıl önce sattın. Deneme çiftliğini satmadın. Aras hâlâ orada.
-19. **ANLATICI:** Üçünüzün de kimsesi yok. Sadece birbiriniz varsınız.
+1. **ANLATICI:** On sekiz Aralık sabahı, Çankaya'daki çatı katında alarmın çaldı.
+2. **ANLATICI:** Otuz üç yaşındaydın. Kurduğun şirketi milyonlarca dolara satmıştın. Bir daha çalışmana gerek yoktu.
+3. **ANLATICI:** Ama o sabah yerler buz gibiydi. Telefon sıfır dereceyi gösteriyordu. Dün artı ondu.
+4. **ANLATICI:** Kahveni alıp televizyonu açtın.
+5. **SPİKER:** Sibirya kaynaklı soğuk hava dalgası etkisini artırıyor.
+6. **ANLATICI:** Kış işte, dedin. Ankara'nın ayazı.
+7. **ANLATICI:** Kuğulu Park'ta havuz buz tutmuştu. Ağaçlarda tek bir kuş yoktu.
+8. **ANLATICI:** Güneş tepedeydi ama ısıtmıyordu. Soluk, eski bir ampul gibiydi.
+9. **ANLATICI:** Öğlen Tunalı'da bir kafede herkes soğuktan bahsediyordu.
+10. **ANLATICI:** Hava durumu uygulaması tuhaf rakamlar gösteriyordu. Eksi on. Eksi yirmi. Eksi otuz.
+11. **ANLATICI:** Masadakiler güldü. Uygulama bozulmuş.
+12. **ANLATICI:** Saat birde termometre hâlâ sıfırdı. Öğlen bile bir derece yükselmemişti.
+13. **ANLATICI:** Haber bandında bir satır geçti: Avrupa'da, Asya'da, Amerika'da aynı anda ani soğuma.
+14. **ANLATICI:** Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.
+15. **ANLATICI:** Aras'ı aradın. Şirketi birlikte kurduğunuz mühendis. Kızılcahamam'daki çiftlikte yaşıyor.
+16. **ARAS:** Kanka, burada da sıfır. Dün on ikiydi. Bir de garip bir şey var.
+17. **ARAS:** Gökyüzü masmavi ama güneş panelleri yarı yarıya az üretiyor. Güneş sanki kısılmış.
+18. **ANLATICI:** Şirketi satarken deneme çiftliğini satmamıştın. Rüzgâr türbinleri, seralar, kocaman bir depo. Hepsi senindi.
+19. **ANLATICI:** Aras, Çınar ve sen. Üçünüzün de kimsesi yok. Sadece birbiriniz varsınız.
 20. **ANLATICI:** Çınar'ı aradın.
 21. **ÇINAR:** Kanka, ben de tam seni arayacaktım. Bu soğuk normal değil, değil mi?
-22. **ANLATICI:** Akşam bana gel, dedin.
-23. **ANLATICI:** Çınar yedide kapıdaydı. Elinde iki poşet, bir de düdüklü tencere.
-24. **ÇINAR:** Senin buzdolabında yumurtayla yoğurttan başka bir şey olmadığını biliyorum.
-25. **ANLATICI:** Mercimek çorbasının kokusu bütün evi sardı. Aras görüntülü aramadaydı, çiftlikteki sobanın başından.
-26. **ANLATICI:** Akşam haberleri hâlâ soğuk hava dalgası diyordu. Ama Aras'ın ekranındaki grafik başka bir şey söylüyordu.
-27. **ARAS:** Çiftliğin hava istasyonu bütün gün güneşi ölçtü. Gökyüzü açık ama gelen ışık normalin yarısı.
-28. **ARAS:** Ve her saat biraz daha azalıyor.
-29. **ÇINAR:** Güneş azalırsa ne olur?
-30. **ANLATICI:** Hesabı yüksek sesle yaptın. Güneş kısılırsa dünya her gün biraz daha soğur.
-31. **ANLATICI:** Bugün on derece düştü. Yarın bir on derece daha.
-32. **ARAS:** Bu bir hava olayı değil kanka.
-33. **ANLATICI:** Haberlerde kimse bundan bahsetmiyordu. Henüz.
-34. **ÇINAR:** Kimse fark etmeden hazırlanırsak, herkesten önde oluruz.
-35. **ANLATICI:** Ama bu, herkesi kendi kaderine bırakmak demekti.
-36. **ANLATICI:** Sessizce hazırlanıyor musun, yoksa herkesi uyarıyor musun?
+22. **ANLATICI:** Akşam yedide Çınar kapıdaydı. Elinde iki poşet, bir de düdüklü tencere.
+23. **ÇINAR:** Senin buzdolabında yumurtayla yoğurttan başka bir şey olmadığını biliyorum.
+24. **ANLATICI:** Mercimek çorbasının kokusu evi sardı. Aras görüntülü aramadaydı.
+25. **ANLATICI:** Haberler hâlâ soğuk hava dalgası diyordu. Ama Aras'ın grafiği başka bir şey söylüyordu.
+26. **ARAS:** Çiftliğin hava istasyonu bütün gün güneşi ölçtü. Gelen ışık normalin yarısı. Ve her saat azalıyor.
+27. **ÇINAR:** Güneş azalırsa ne olur?
+28. **ANLATICI:** Hesabı yüksek sesle yaptın. Güneş kısılırsa dünya her gün biraz daha soğur.
+29. **ANLATICI:** Bugün on derece düştü. Yarın bir on derece daha.
+30. **ARAS:** Bu bir hava olayı değil kanka.
+31. **ANLATICI:** Haberlerde kimse bundan bahsetmiyordu. Henüz.
+32. **ÇINAR:** Kimse fark etmeden hazırlanırsak, herkesten önde oluruz.
+33. **ANLATICI:** Ama bu, herkesi kendi kaderine bırakmak demekti.
+34. **ANLATICI:** Sessizce hazırlanıyor musun, yoksa herkesi uyarıyor musun?
 
 **Seçim ekranı:**
 
@@ -249,6 +247,7 @@ Ekrandaki saatler: 07.40 → 07.50 → 09.00 → 12.00 → 13.00 → 14.30 → 1
 
 ## Görüntü ve ses
 
-- **Motor:** Fener'dekiyle aynı. Karaoke altyazı en fazla 3 kelime; aşama satırı, çiftlik paneli ve seçim ekranı Reels'in güvenli alanında.
+- **Motor:** Fener'in motoru, Eksi Seksen için yeniden çizilmiş ayrıntılı mekânlarla (Ankara panoraması, Atakule, Kocatepe, Kuğulu Park, Tunalı, Kızılay, çiftlik). Karaoke altyazı en fazla 3 kelime; aşama satırı, çiftlik paneli ve seçim ekranı Reels'in güvenli alanında.
+- **Sesler:** ElevenLabs'te Türkçede en çok kullanılan sesler, kararlı çok dilli modelle (multilingual v2), yapay hızlandırma olmadan. Anlatıcı: Doga (Audiobook Master). Spiker: Mert Aksoy. Aras: Yunus (Soft and Natural). Çınar: Mert (Energetic, Natural and Friendly). Her bölümde metin iki kez yazıya döküp kelime kelime doğrulanır.
 - **Teknik ekranlar:** Beyaz tahta hesapları, enerji ve kalori tabloları ekranda kısa kartlar halinde.
 - **Renkler:** Dışarısı buz mavisi ve soluk güneş; içerisi soba turuncusu; ekim deposu mor-pembe LED ışığı.
