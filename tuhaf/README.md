@@ -21,7 +21,7 @@ Seçimini yorumlara yaz. Çoğunluk kazanır.
 ## Fener · Gece 1/7
 
 - **Video:** `cikti/gece1.mp4` (1080×1920, 30 fps, 1:19)
-- **Kapak:** `cikti/kapak.png` ("GECE 1 · SAAT 3 ÇAĞRISI")
+- **Kapak:** `cikti/kapak.png` ("DENİZ FENERİ YÖNTEMİ", sabitlenmiş kapağının Türkçesi)
 - **Sesler:** anlatıcı (Orhan), kayıkçı Moss (Aykut), telsizdeki kaptan (Emre, telsiz filtresiyle)
 - **Altyazı:** en fazla 3 kelime; o an söylenen kelime sarı (karaoke)
 - **Güvenli alan:** üst 250 px, alt 420 px ve sağ ~140 px (beğen/yorum/paylaş sütunu) boş bırakıldı; her şey x 60–940, y 250–1500 arasında
