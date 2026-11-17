@@ -24,9 +24,9 @@ SC.yatak = {
     ctx.restore();
     const ak = clamp(1 - (t - (L01.e - 0.4)) / 0.4);
     if (ak > 0) drawPhone(ctx, 540, lerp(2300, 1030, smooth(clamp(lt / 0.35))), 1.2, { mode: 'alarm', t, rot: -0.03 });
-    const tp = wordT(E, 'L03', /Telefon/) ?? L03.s + 1.5;
+    const tp = wordT(E, 'L03', /^telefon/i) ?? L03.s + 1.5;
     const pk = smooth(clamp((t - tp + 0.35) / 0.45)) * (1 - smooth(clamp((t - L03.e + 0.1) / 0.3)));
-    if (pk > 0 && ak <= 0) drawPhone(ctx, 540, lerp(2400, 1030, pk), 1.25, { mode: 'hava', temp: '0°', sub: 'Dün: +10°  ·  Güneşli', rot: 0.02 });
+    if (pk > 0 && ak <= 0) drawPhone(ctx, 540, lerp(2400, 1030, pk), 1.25, { mode: 'hava', temp: '−1°', sub: 'Dün: +10°  ·  Güneşli', rot: 0.02 });
     drawVignette(ctx, 0.35);
   },
 };
@@ -68,8 +68,9 @@ SC.mutfak2 = {
 SC.park = {
   cap: 1450,
   draw(ctx, t, lt, d, E) {
-    const L08 = E.ln('L08');
-    const zk = smooth(clamp((t - L08.s) / 2.4));
+    const L07 = E.ln('L07');
+    const gs = wordT(E, 'L07', /^güneş/i) ?? L07.s + 2;
+    const zk = smooth(clamp((t - gs + 0.2) / 2.2));
     ctx.save();
     cam(ctx, lerp(1.0, 1.9, zk), lerp(540, 777, zk), lerp(960, 300, zk));
     drawKugulu(ctx, t, {});
@@ -94,12 +95,12 @@ SC.telefon_app = {
     const [c, x] = off('kafebg');
     drawCafeLux(x, t, {});
     ctx.filter = 'blur(12px) brightness(0.55)'; ctx.drawImage(c, 0, 0); ctx.filter = 'none';
-    const ws = lineWords(E, 'L10');
-    const marks = ws.filter(w => /^(on|yirmi|otuz)\.?$/i.test(w.w)).map(w => w.s);
+    const ws = lineWords(E, 'L08');
+    const marks = ws.filter(w => /^eksi$/i.test(w.w)).map(w => w.s);
     let k = 0.25;
     marks.forEach((m, i) => { if (t >= m - 0.1) k = (i + 2) / 4; });
     const pk = smooth(clamp(lt / 0.45));
-    drawPhone(ctx, 540, lerp(2300, 980, pk), 1.45, { mode: 'tahmin', temp: '0°', sub: 'Ankara · Güneşli', k, rot: -0.02 });
+    drawPhone(ctx, 540, lerp(2300, 980, pk), 1.45, { mode: 'tahmin', temp: '−1°', sub: 'Ankara · Güneşli', k, rot: -0.02, rows: [['Bugün', '−1°', 0], ['Yarın', '−10°', 1], ['Cuma', '−24°', 2], ['Cumartesi', '−32°', 3]] });
     drawVignette(ctx, 0.35);
   },
 };
@@ -107,7 +108,7 @@ SC.kafe2 = {
   cap: 1500,
   draw(ctx, t, lt, d, E) {
     ctx.save(); cam(ctx, 1.2 + lt * 0.012, 620, 1250);
-    drawCafeLux(ctx, t, { laugh: true, brow: 'endise' });
+    drawCafeLux(ctx, t, { laugh: true, brow: 'endise', menu: false });
     ctx.restore();
     drawVignette(ctx, 0.4);
   },
@@ -128,9 +129,9 @@ SC.eczane = {
 SC.haber_bandi = {
   cap: 1500,
   draw(ctx, t, lt, d, E) {
-    const L13 = E.ln('L13');
+    const L13 = E.ln('L10');
     ctx.fillStyle = '#14161c'; ctx.fillRect(0, 0, W, H);
-    const zk = smooth(clamp((t - E.ln('L14').s) / 2.5));
+    const zk = smooth(clamp((t - L13.s - 2.2) / 2.5));
     ctx.save(); cam(ctx, lerp(1.0, 1.15, zk) + lt * 0.008, W / 2, 800);
     ctx.fillStyle = '#050608'; rr(ctx, 20, 440, 1040, 680, 18); ctx.fill();
     const k = clamp((t - L13.s - 0.8) / 3.5);
@@ -144,8 +145,8 @@ SC.haber_bandi = {
 SC.tel_aras = {
   cap: 1450,
   draw(ctx, t, lt, d, E) {
-    const L16 = E.ln('L16');
-    drawSplitCallLux(ctx, t, { who: 'aras', talk: speaking(E, ['L16', 'L17'], t), callT: t - L16.s + 1, myBrow: 'endise' });
+    const L16 = E.ln('L13');
+    drawSplitCallLux(ctx, t, { who: 'aras', talk: speaking(E, ['L13'], t), callT: t - L16.s + 1, myBrow: 'endise' });
     if (t < L16.s - 0.1) {
       ctx.fillStyle = 'rgba(0,0,0,0.35)'; ctx.fillRect(0, 960, W, 960);
       drawPhone(ctx, 540, 1430, 0.95, { mode: 'arama', name: 'Aras', status: 'aranıyor...', col: '#4fd1c5' });
@@ -193,7 +194,7 @@ SC.kapi = {
   cap: 1500,
   draw(ctx, t, lt, d, E) {
     ctx.save(); cam(ctx, 1.0 + lt * 0.012, W / 2, 1050);
-    drawEntranceLux(ctx, t, { talk: speaking(E, ['L23'], t) });
+    drawEntranceLux(ctx, t, { talk: 0 });
     ctx.restore();
     drawVignette(ctx, 0.45);
   },
@@ -245,7 +246,7 @@ SC.grafik = {
   cap: 1500,
   draw(ctx, t, lt, d, E) {
     bokehRoom(ctx, t);
-    const L26 = E.ln('L26');
+    const L26 = E.ln('L18');
     const k = 0.35 + 0.65 * clamp((t - L26.s) / Math.max(0.5, L26.e - L26.s));
     ctx.save(); cam(ctx, 1.0 + lt * 0.012, W / 2, 860);
     ctx.fillStyle = '#111317'; rr(ctx, 40, 420, 1000, 720, 34); ctx.fill();
@@ -253,7 +254,7 @@ SC.grafik = {
     drawGraph(ctx, 64, 444, 952, 672, t, { k });
     ctx.restore();
     ctx.save(); rr(ctx, 760, 900, 230, 170, 16); ctx.clip();
-    arasVideoLux(ctx, 760, 900, 230, 170, t, { talk: speaking(E, ['L26'], t), brow: 'endise' });
+    arasVideoLux(ctx, 760, 900, 230, 170, t, { talk: speaking(E, ['L18'], t), brow: 'endise' });
     ctx.restore();
     ctx.strokeStyle = 'rgba(255,255,255,0.6)'; ctx.lineWidth = 3; rr(ctx, 760, 900, 230, 170, 16); ctx.stroke();
     ctx.restore();
@@ -274,12 +275,17 @@ SC.masa = {
 SC.hesap = {
   cap: 1500,
   draw(ctx, t, lt, d, E) {
-    const L28 = E.ln('L28'), L29 = E.ln('L29');
-    const lines = ['Güneş: %52 ↓', 'Dün: +10°   Bugün: 0°', '!Yarın: −10°', '!Sonraki gün: −20° ?'];
+    const L19 = E.ln('L19');
+    const lines = ['Güneş: %52 ↓', 'Dün +10°  →  Bugün −1°', '!Düşüş: 11°', '!Yarın: 9°? 14°?', '!HEP AŞAĞI ↓'];
     const lens = lines.map(l => l.replace('!', '').length), tot = lens.reduce((a, b) => a + b, 0);
-    const c2 = lens[0] + lens[1];
+    const acc = i => lens.slice(0, i).reduce((a, b) => a + b, 0);
+    const at = (re, f) => wordT(E, 'L19', re) ?? (L19.s + f * (L19.e - L19.s));
+    const keys = [[L19.s - 0.2, 0], [at(/^bugün/i, 0.15), acc(2)], [at(/^düştü/i, 0.4), acc(3)], [at(/^dört/i, 0.75), acc(4)], [at(/^aşağı/i, 0.95), tot]];
     let ch = 0;
-    [[L28.s, L28.e, 0, c2], [L29.s, L29.e, c2, tot]].forEach(([a, b, x0, x1]) => { if (t >= a) ch = lerp(x0, x1, clamp((t - a) / Math.max(0.3, b - a))); });
+    for (let i = 0; i + 1 < keys.length; i++) {
+      const [a, x0] = keys[i], [b, x1] = keys[i + 1];
+      if (t >= a) ch = lerp(x0, x1, clamp((t - a) / Math.max(0.25, b - a)));
+    }
     ctx.save(); cam(ctx, 1.0 + lt * 0.015, W / 2, 900);
     drawCalcNote(ctx, t, lines, ch / tot);
     teaGlass(ctx, 930, 1500, 1.4);
@@ -294,7 +300,7 @@ SC.aras_video = {
     ctx.save(); cam(ctx, 1.0 + lt * 0.03, W / 2, 900);
     ctx.fillStyle = '#111317'; rr(ctx, 40, 400, 1000, 760, 34); ctx.fill();
     ctx.save(); rr(ctx, 64, 424, 952, 712, 20); ctx.clip();
-    arasVideoLux(ctx, 64, 424, 952, 712, t, { talk: speaking(E, ['L30'], t), brow: 'kizgin' });
+    arasVideoLux(ctx, 64, 424, 952, 712, t, { talk: speaking(E, ['L20'], t), brow: 'kizgin' });
     ctx.restore();
     ctx.restore();
     drawVignette(ctx, 0.5);
@@ -310,8 +316,8 @@ function faceClose(ctx, t, lt, who, o) {
 SC.masa2 = {
   cap: 1500,
   draw(ctx, t, lt, d, E) {
-    const L33 = E.ln('L33');
-    if (t < L33.s - 0.1) faceClose(ctx, t, lt, 'cinar', { outfit: 'knit', coat: '#7a4a2e', face: -0.25, brow: 'endise', mouth: 'konus', talk: speaking(E, ['L32'], t), seed: 4 });
+    const L33 = E.ln('L22');
+    if (t < L33.s - 0.1) faceClose(ctx, t, lt, 'cinar', { outfit: 'knit', coat: '#7a4a2e', face: -0.25, brow: 'endise', mouth: 'konus', talk: speaking(E, ['L21'], t), seed: 4 });
     else faceClose(ctx, t, t - L33.s, 'kahraman', { outfit: 'knit', face: 0.2, brow: 'endise', eyes: 'nokta', mouth: 'cizgi', seed: 3 });
   },
 };
@@ -323,7 +329,7 @@ SC.secim = {
     const [c, x] = off('sec');
     drawDinnerLux(x, t, { cBrow: 'endise', myBrow: 'endise', tablet: { mode: 'video', brow: 'endise' } });
     ctx.filter = 'blur(10px) brightness(0.4)'; ctx.drawImage(c, 0, 0); ctx.filter = 'none';
-    drawChoiceE1(ctx, t, lt);
+    drawChoiceE1(ctx, t, lt, E);
     drawVignette(ctx, 0.45);
   },
 };

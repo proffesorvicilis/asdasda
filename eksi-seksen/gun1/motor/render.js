@@ -86,7 +86,7 @@ async function marka(outDir) {
   fs.mkdirSync(outDir, { recursive: true });
   const browser = await chromium.launch({ args: ['--allow-file-access-from-files'] });
   const { page } = await openPage(browser);
-  const shots = [['kapak', 1080, 1920, 'drawCover']];
+  const shots = [['kapak', 1080, 1920, 'drawCover'], ['pp', 1080, 1080, 'drawPPBuz']];
   for (const [name, w, h, fn] of shots) {
     const url = await page.evaluate(([w, h, fn]) => {
       const c = document.getElementById('c'); c.width = w; c.height = h;

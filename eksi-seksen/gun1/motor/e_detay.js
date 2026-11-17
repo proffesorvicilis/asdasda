@@ -353,7 +353,7 @@ function drawNewsLux(ctx, x, y, w, h, t, o = {}) {
   for (let i = 0; i < 6; i++) ctx.fillRect(x + w * (0.48 + i * 0.09), y + h * 0.08, w * 0.085, h * 0.5);
   const mx = x + w * 0.47, my = y + h * 0.1, mw = w * 0.5, mh = h * 0.48;
   ctx.fillStyle = '#0a1d3a'; ctx.fillRect(mx, my, mw, mh);
-  if (o.map !== false) trMap(ctx, mx + mw * 0.04, my + mh * 0.14, mw * 0.92, mh * 0.8, { cities: o.cities ?? [['ANKARA', 32.85, 39.93, '0°'], ['İSTANBUL', 28.97, 41.0, '4°'], ['İZMİR', 27.14, 38.42, '7°'], ['ERZURUM', 41.27, 39.9, '−16°']] });
+  if (o.map !== false) trMap(ctx, mx + mw * 0.04, my + mh * 0.14, mw * 0.92, mh * 0.8, { cities: o.cities ?? [['ANKARA', 32.85, 39.93, '−1°'], ['İSTANBUL', 28.97, 41.0, '3°'], ['İZMİR', 27.14, 38.42, '6°'], ['ERZURUM', 41.27, 39.9, '−17°']] });
   // ışık şeritleri
   ctx.fillStyle = 'rgba(120,180,255,0.18)'; ctx.fillRect(x, y + h * 0.6, w, 3);
   // spiker masası
@@ -553,10 +553,12 @@ function drawCafeLux(ctx, t, o = {}) {
   ctx.strokeStyle = '#2a2622'; ctx.lineWidth = 18; ctx.strokeRect(wx, wy, ww, wh);
   ctx.fillStyle = 'rgba(255,255,255,0.85)'; ctx.font = '600 44px Caveat'; ctx.textAlign = 'center'; ctx.fillText('Tunalı Kahve', wx + ww / 2, wy + 60);
   // kara tahta menü
-  ctx.fillStyle = '#2b2f2c'; rr(ctx, 50, 540, 360, 400, 10); ctx.fill();
-  ctx.strokeStyle = '#6b4a33'; ctx.lineWidth = 12; ctx.stroke();
-  ctx.fillStyle = '#f2f0e8'; ctx.font = '600 46px Caveat'; ctx.textAlign = 'left';
-  ['MENÜ', 'Filtre kahve  60', 'Latte  85', 'Salep  90', 'Simit  25'].forEach((l, i) => ctx.fillText(l, 80, 610 + i * 68));
+  if (o.menu !== false) {
+    ctx.fillStyle = '#2b2f2c'; rr(ctx, 50, 540, 360, 400, 10); ctx.fill();
+    ctx.strokeStyle = '#6b4a33'; ctx.lineWidth = 12; ctx.stroke();
+    ctx.fillStyle = '#f2f0e8'; ctx.font = '600 46px Caveat'; ctx.textAlign = 'left';
+    ['MENÜ', 'Filtre kahve  60', 'Latte  85', 'Salep  90', 'Simit  25'].forEach((l, i) => ctx.fillText(l, 80, 610 + i * 68));
+  }
   // Edison ampuller
   [130, 300, 650, 860].forEach((bx, i) => { ctx.strokeStyle = '#111'; ctx.lineWidth = 2; ctx.beginPath(); ctx.moveTo(bx, 0); ctx.lineTo(bx, 160 + i * 20); ctx.stroke(); ctx.fillStyle = '#ffd98a'; ctx.beginPath(); ctx.ellipse(bx, 180 + i * 20, 12, 18, 0, 0, Math.PI * 2); ctx.fill(); warmGlow(ctx, bx, 180 + i * 20, 120, 0.25, '255,200,120'); });
   if (o.tv) { const tx = 70, ty = 720, tw = 340, th = 200; ctx.fillStyle = '#060708'; rr(ctx, tx - 8, ty - 8, tw + 16, th + 16, 8); ctx.fill(); drawNewsLux(ctx, tx, ty, tw, th, t, o.tv); }
@@ -616,7 +618,7 @@ function drawStreetKizilay(ctx, t, o = {}) {
   // LED ekran
   ctx.fillStyle = '#111'; rr(ctx, 120, 860, 380, 170, 12); ctx.fill();
   ctx.strokeStyle = '#555'; ctx.lineWidth = 6; ctx.stroke();
-  const show = Math.floor((o.lt ?? t) / 1.4) % 2 === 0 ? '13:00' : '0°C';
+  const show = Math.floor((o.lt ?? t) / 1.4) % 2 === 0 ? '13:10' : '−1°C';
   ctx.fillStyle = '#ff3b2f'; ctx.shadowColor = '#ff3b2f'; ctx.shadowBlur = 22; ctx.font = '700 130px Oswald'; ctx.fillText(show, 310, 948); ctx.shadowColor = 'transparent';
   // kaldırım, yol
   ctx.fillStyle = '#c9ced6'; ctx.fillRect(0, 1310, W, 180);

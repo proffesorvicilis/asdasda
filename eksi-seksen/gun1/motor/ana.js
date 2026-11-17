@@ -40,24 +40,25 @@ function hudState(t) {
   const S = SCENES[sceneAt(t)].name;
   const DUN = { text: 'DÜN +10°C', col: '#e8edf5' };
   const GUN = { text: 'GÜNEŞ %52 ↓', col: '#ff6a5e' };
-  const M = {
-    yatak: ['07:40', 'ÇANKAYA  ·  ANKARA', [DUN]],
-    mutfak: ['07:50', 'ÇANKAYA  ·  ANKARA', [DUN]],
-    mutfak2: ['07:53', 'ÇANKAYA  ·  ANKARA', [DUN]],
-    park: ['09:00', 'PARK  ·  ANKARA', [DUN]],
-    kafe: ['12:00', 'KIZILAY  ·  ANKARA', [DUN]],
-    kafe2: ['12:05', 'KIZILAY  ·  ANKARA', [DUN]],
-    eczane: ['13:00', 'KIZILAY  ·  ANKARA', [{ text: 'ÖĞLEN, HÂLÂ 0°C', col: '#ff6a5e' }]],
-    tel_aras: ['14:30', 'ANKARA  ·  KIZILCAHAMAM', [{ text: 'GÜNEŞ PANELLERİ %50', col: '#ff6a5e' }]],
-    ciftlik: ['14:31', 'KIZILCAHAMAM  ·  ÇİFTLİK', [{ text: 'GÜNEŞ PANELLERİ %50', col: '#ff6a5e' }]],
-    tel_cinar: ['15:00', 'ÇANKAYA  ·  ANKARA', [DUN]],
-    kapi: ['19:00', 'ÇANKAYA  ·  ANKARA', [DUN]],
-    mutfak_aksam: ['19:40', 'ÇANKAYA  ·  ANKARA', [DUN]],
-    masa: ['21:10', 'ÇANKAYA  ·  ANKARA', [GUN]],
+  const PAN = { text: 'GÜNEŞ PANELLERİ %50', col: '#ff6a5e' };
+  const M = {   // saat, sıcaklık (gün içinde de düzensiz), yer, etiketler
+    yatak: ['07:40', '−1°C', 'ÇANKAYA  ·  ANKARA', [DUN]],
+    mutfak: ['07:50', '−1°C', 'ÇANKAYA  ·  ANKARA', [DUN]],
+    mutfak2: ['07:53', '−1°C', 'ÇANKAYA  ·  ANKARA', [DUN]],
+    park: ['09:00', '−2°C', 'KUĞULU PARK  ·  ANKARA', [DUN]],
+    kafe: ['12:00', '−1°C', 'TUNALI  ·  ANKARA', [DUN]],
+    telefon_app: ['12:00', '−1°C', 'TUNALI  ·  ANKARA', [DUN]],
+    kafe2: ['12:05', '−1°C', 'TUNALI  ·  ANKARA', [DUN]],
+    eczane: ['13:10', '−1°C', 'KIZILAY  ·  ANKARA', [{ text: 'ÖĞLEN BİLE ISINMADI', col: '#ff6a5e' }]],
+    tel_aras: ['14:30', '−1°C', 'ANKARA  ·  KIZILCAHAMAM', [PAN]],
+    ciftlik: ['14:31', '−3°C', 'KIZILCAHAMAM  ·  ÇİFTLİK', [PAN]],
+    kapi: ['19:00', '−3°C', 'ÇANKAYA  ·  ANKARA', [DUN]],
+    mutfak_aksam: ['19:40', '−4°C', 'ÇANKAYA  ·  ANKARA', [DUN]],
+    masa: ['21:10', '−4°C', 'ÇANKAYA  ·  ANKARA', [GUN]],
   };
   const m = M[S];
   if (!m) return null;
-  return { clock: m[0], temp: '0°C', place: m[1], chips: m[2], stage: 'GÜN 1 / 9', filled: 1 };
+  return { clock: m[0], temp: m[1], place: m[2], chips: m[3], stage: 'GÜN 1 / 9', filled: 1 };
 }
 
 function drawSceneInto(ctx, i, t) {

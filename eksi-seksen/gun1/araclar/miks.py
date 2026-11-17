@@ -28,41 +28,38 @@ def scenes():
 SC = scenes()
 s_ = lambda n: SC[n]['s']
 e_ = lambda n: SC[n]['e']
-w26 = word('L26', 'yarısı'); HALF = w26['s'] if w26 else ln('L26')['e'] - 1.5
+w18 = word('L18', 'azalıyor'); HALF = w18['s'] if w18 else ln('L18')['e'] - 1.2
 BEDS = [
     ('sehir', 0.0, s_('park') + 0.3, -21, 0.5, 0.4),
-    ('kosu', s_('park'), e_('park') + 0.2, -11, 0.2, 0.4),
+    ('kosu', s_('park'), e_('park') + 0.2, -13, 0.2, 0.4),
     ('ruzgar_kapi', s_('park'), e_('park') + 0.2, -22, 0.4, 0.4),
-    ('kafe', s_('kafe'), s_('eczane') + 0.2, -15, 0.3, 0.3),
-    ('sehir', s_('eczane'), s_('haber_bandi') + 0.3, -14, 0.2, 0.3),
-    ('kafe', s_('haber_bandi'), ln('L14')['s'], -21, 0.2, 0.3),
-    ('drone', ln('L14')['s'] - 0.2, s_('tel_aras') + 0.4, -20, 0.4, 0.5),
+    ('kafe', s_('telefon_app'), s_('eczane') + 0.2, -15, 0.3, 0.3),
+    ('sehir', s_('eczane'), s_('tel_aras') + 0.3, -14, 0.2, 0.3),
+    ('drone', ln('L11')['s'] - 0.2, s_('tel_aras') + 0.4, -20, 0.4, 0.5),
     ('ruzgar_kapi', s_('tel_aras'), s_('foto') + 0.3, -19, 0.4, 0.5),
-    ('drone', s_('foto'), s_('tel_cinar'), -25, 0.5, 0.4),
-    ('sehir', s_('tel_cinar'), s_('kapi'), -22, 0.3, 0.3),
-    ('oda_gece', s_('kapi'), DUR, -19, 0.6, 2.0),
-    ('tencere', s_('mutfak_aksam') - 0.2, s_('tv_aksam') + 0.6, -12, 0.4, 0.8),
-    ('drone', s_('grafik'), DUR, -18, 1.5, 2.5),
-    ('ruzgar_kapi', s_('grafik'), DUR, -24, 1.0, 2.0),
+    ('drone', s_('foto'), s_('kapi'), -25, 0.5, 0.4),
+    ('oda_gece', s_('kapi'), DUR, -19, 0.6, 1.5),
+    ('tencere', s_('mutfak_aksam') - 0.2, s_('grafik') + 0.5, -12, 0.4, 0.6),
+    ('drone', s_('grafik'), DUR, -18, 1.2, 1.8),
+    ('ruzgar_kapi', s_('grafik'), DUR, -24, 1.0, 1.5),
 ]
 ONE = [
-    ('alarm', 0.0, -8, 3.4, 0.4),
+    ('alarm', 0.0, -8, 2.7, 1.3),
     ('kahve', s_('mutfak') + 0.1, -12, None, 0.5),
-    ('gulus', ln('L11')['s'] - 0.05, -10, None, 0.4),
+    ('gulus', ln('L09')['s'] - 0.05, -10, None, 0.4),
     ('gecis', s_('haber_bandi') - 0.25, -12, None, 0.3),
     ('gecis', s_('ciftlik') - 0.2, -14, None, 0.3),
     ('kalp', HALF - 0.1, -11, 3.0, 1.0),
-    ('kalp', ln('L33')['s'], -12, 3.0, 1.0),
+    ('kalp', ln('L22')['s'], -12, 3.0, 1.0),
     ('vurus', s_('secim') + 0.05, -7, None, 2.0),
-    ('kalp', s_('secim') + 1.0, -11, None, 2.0),
+    ('kalp', s_('secim') + 1.0, -13, None, 2.0),
 ]
 for c in cues('tv_jingle'):
-    ONE.append(('tv_jingle', c, -9, None, 0.4))
+    ONE.append(('tv_jingle', c, -10, 1.3, 0.7))
 for c in cues('arama_ton'):
-    ONE.append(('arama_ton', c, -8, None, 0.3))
+    ONE.append(('arama_ton', c, -8, 0.72, 0.15))
 for c in cues('kapi_zil'):
-    ONE.append(('kapi_zil', c, -6, None, 0.4))
-ONE.append(('tv_jingle', s_('tv_aksam') - 0.05, -15, None, 0.4))
+    ONE.append(('kapi_zil', c, -8, 1.4, 0.8))
 
 
 def bekci_yanki():

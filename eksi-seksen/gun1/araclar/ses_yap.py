@@ -51,6 +51,8 @@ def digits_to_words(t):
 
 
 def words_of(t):
+    t = re.sub(r'[-−–]\s?(?=\d)', ' eksi ', t)      # STT "-24" yazabilir
+    t = re.sub(r'\+\s?(?=\d)', ' artı ', t)
     t = digits_to_words(t)
     out = []
     for w in clean(t).split():

@@ -728,6 +728,7 @@ function iconShh(ctx, x, y, s) {
 }
 function drawStageRow9(ctx, x, y, label, filled = 1, col = '#ff6a5e') {
   ctx.save();
+  ctx.shadowColor = 'rgba(0,0,0,0.6)'; ctx.shadowBlur = 10;
   ctx.font = '700 34px Oswald'; ctx.textBaseline = 'middle'; ctx.textAlign = 'left';
   ctx.fillStyle = col; ctx.beginPath(); ctx.arc(x + 9, y, 8, 0, Math.PI * 2); ctx.fill();
   ctx.fillText(label, x + 28, y + 1);
@@ -738,54 +739,107 @@ function drawStageRow9(ctx, x, y, label, filled = 1, col = '#ff6a5e') {
   }
   ctx.restore();
 }
-function drawChoiceE1(ctx, t, lt) {
+function markIcon(ctx, x, y, r, ok) {
+  ctx.save(); ctx.translate(x, y);
+  ctx.fillStyle = ok ? '#2f8f5b' : '#c8402f';
+  ctx.beginPath(); ctx.arc(0, 0, r, 0, Math.PI * 2); ctx.fill();
+  ctx.strokeStyle = '#fff'; ctx.lineWidth = r * 0.3; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+  ctx.beginPath();
+  if (ok) { ctx.moveTo(-r * 0.45, 0.02 * r); ctx.lineTo(-r * 0.1, r * 0.38); ctx.lineTo(r * 0.5, -r * 0.36); }
+  else { ctx.moveTo(-r * 0.36, -r * 0.36); ctx.lineTo(r * 0.36, r * 0.36); ctx.moveTo(r * 0.36, -r * 0.36); ctx.lineTo(-r * 0.36, r * 0.36); }
+  ctx.stroke(); ctx.restore();
+}
+// satır: [1 artı | 0 eksi | -1 önceki satırın devamı, metin]
+const SONUC_E1 = [
+  { label: 'SESSİZ KAL', col: '#2f6fb3', icon: iconShh, line: 'L24', cx: 297,
+    rows: [[1, 'Raflar dolu, panik yok'], [1, 'Kiler 4 ay yeter'], [0, 'Ama bir gün biri sana'], [-1, '"Biliyordun" diyecek']] },
+  { label: 'HERKESİ UYAR', col: '#d9673a', icon: iconMega, line: 'L25', cx: 723,
+    rows: [[1, 'Birkaç kişi kurtulur'], [0, 'Raflar boşalır'], [0, 'Kiler 3 aya düşer'], [0, 'Paniği sen başlatırsın']] },
+];
+function drawChoiceE1(ctx, t, lt, E) {
   const k = clamp(lt / 0.5);
   if (k <= 0) return;
-  const CX = 520;
+  const L24 = E.ln('L24'), L25 = E.ln('L25');
+  const CX = 510;
   ctx.save(); ctx.globalAlpha = clamp(lt / 0.4);
   drawStageRow9(ctx, 70, 300, 'GÜN 1  ·  KARAR ANI', 1);
   ctx.restore();
+  // kart: sonuçlar okununca aşağı doğru uzar
+  const grow = smooth(clamp((t - (L24.s - 0.5)) / 0.4));
+  const y0 = 350, y1 = lerp(770, 1110, grow);
   ctx.save();
   const e = easeBack(k);
   ctx.globalAlpha = clamp(k * 2);
-  ctx.translate(CX, 730);
-  ctx.scale(0.85 + 0.15 * e, 0.85 + 0.15 * e);
-  const w = 840, h = 620;
+  ctx.translate(CX, 560); ctx.scale(0.85 + 0.15 * e, 0.85 + 0.15 * e); ctx.translate(-CX, -560);
   ctx.shadowColor = 'rgba(0,0,0,0.65)'; ctx.shadowBlur = 60; ctx.shadowOffsetY = 20;
-  ctx.fillStyle = '#f3ece0'; rr(ctx, -w / 2, -h / 2, w, h, 36); ctx.fill();
-  ctx.shadowColor = 'transparent';
+  ctx.fillStyle = '#f3ece0'; rr(ctx, 80, y0, 860, y1 - y0, 36); ctx.fill();
+  ctx.shadowColor = 'transparent'; ctx.shadowOffsetY = 0;
   ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
-  ctx.fillStyle = '#c8402f'; ctx.font = '700 42px Oswald';
-  ctx.fillText('HENÜZ KİMSE BİLMİYOR.', 0, -232);
-  ctx.fillStyle = '#151515'; ctx.font = '700 78px Oswald';
-  ctx.fillText('SUSUYOR MUSUN,', 0, -150);
-  ctx.fillText('UYARIYOR MUSUN?', 0, -70);
-  const btn = (bx, label, col, icon, delay, ph) => {
-    const bk = clamp((lt - delay) / 0.3);
+  ctx.fillStyle = '#c8402f'; ctx.font = '700 40px Oswald';
+  ctx.fillText('HENÜZ KİMSE BİLMİYOR.', CX, 410);
+  ctx.fillStyle = '#151515'; ctx.font = '700 72px Oswald';
+  ctx.fillText('SUSUYOR MUSUN,', CX, 482);
+  ctx.fillText('UYARIYOR MUSUN?', CX, 558);
+  // hangi seçenek okunuyor
+  const hiL = smooth(clamp((t - (L24.s - 0.25)) / 0.25)) * (1 - smooth(clamp((t - (L25.s - 0.25)) / 0.25)));
+  const hiR = smooth(clamp((t - (L25.s - 0.25)) / 0.25)) * (1 - smooth(clamp((t - (L25.e + 0.4)) / 0.4)));
+  SONUC_E1.forEach((o, idx) => {
+    const hi = idx === 0 ? hiL : hiR, other = idx === 0 ? hiR : hiL;
+    const dim = 1 - 0.5 * other;
+    const bk = clamp((lt - (idx ? 0.55 : 0.35)) / 0.3);
     if (bk <= 0) return;
-    const pulse = 1 + 0.035 * Math.sin(t * 5 + ph);
-    ctx.save(); ctx.translate(bx, 86); ctx.scale(easeBack(bk) * pulse, easeBack(bk) * pulse);
-    ctx.shadowColor = col; ctx.shadowBlur = 24 + 16 * Math.max(0, Math.sin(t * 5 + ph));
-    ctx.fillStyle = col; rr(ctx, -190, -78, 380, 156, 26); ctx.fill();
+    const L = E.ln(o.line);
+    ctx.save();
+    ctx.globalAlpha *= dim;
+    const sc = 1 + 0.035 * hi;
+    ctx.translate(o.cx, 860); ctx.scale(sc, sc); ctx.translate(-o.cx, -860);
+    // düğme
+    const pulse = 1 + 0.03 * Math.sin(t * 5 + idx * Math.PI);
+    ctx.save(); ctx.translate(o.cx, 670); ctx.scale(easeBack(bk) * pulse, easeBack(bk) * pulse);
+    ctx.shadowColor = o.col; ctx.shadowBlur = 18 + 22 * hi;
+    ctx.fillStyle = o.col; rr(ctx, -195, -60, 390, 120, 24); ctx.fill();
     ctx.shadowColor = 'transparent';
-    icon(ctx, 0, -28, 0.72);
-    ctx.fillStyle = '#fff'; ctx.font = '700 46px Oswald'; ctx.fillText(label, 0, 44);
+    o.icon(ctx, -138, 0, 0.62);
+    ctx.fillStyle = '#fff'; ctx.font = '700 44px Oswald'; ctx.textAlign = 'center';
+    ctx.fillText(o.label, 32, 3);
     ctx.restore();
-  };
-  btn(-200, 'SESSİZ KAL', '#2f6fb3', iconShh, 0.35, 0);
-  btn(200, 'HERKESİ UYAR', '#d9673a', iconMega, 0.55, Math.PI);
-  ctx.fillStyle = '#4a4a4a'; ctx.font = '600 24px Oswald';
-  ctx.fillText('SESSİZ KAL: RAFLAR DOLU, KİMSE PANİK YAPMIYOR', 0, 214);
-  ctx.fillText('UYAR: BİRKAÇ KİŞİ KURTULUR, PANİĞİ SEN BAŞLATIRSIN', 0, 252);
+    // sonuç kutusu (seslendirmeyle birlikte açılır)
+    const ak = smooth(clamp((t - (L.s - 0.3)) / 0.3));
+    if (ak > 0) {
+      ctx.save();
+      ctx.globalAlpha *= ak;
+      const bx = o.cx - 195, by = 750, bw = 390, bh = 340;
+      ctx.fillStyle = '#ffffff'; rr(ctx, bx, by, bw, bh, 22); ctx.fill();
+      ctx.strokeStyle = o.col; ctx.lineWidth = 3 + 4 * hi; rr(ctx, bx, by, bw, bh, 22); ctx.stroke();
+      ctx.fillStyle = o.col; ctx.font = '700 26px Oswald'; ctx.textAlign = 'left';
+      ctx.fillText('OLASI SONUÇ', bx + 24, by + 36);
+      o.rows.forEach(([ok, txt], i) => {
+        const rk = smooth(clamp((t - (L.s - 0.15) - i * 0.22) / 0.25));
+        if (rk <= 0) return;
+        const ry = by + 92 + i * 66;
+        ctx.save(); ctx.globalAlpha *= rk; ctx.translate((1 - rk) * 18, 0);
+        if (ok >= 0) markIcon(ctx, bx + 36, ry, 16, ok === 1);
+        ctx.fillStyle = ok === -1 ? '#c8402f' : '#1d1d1d';
+        ctx.font = `${ok === -1 ? 700 : 600} 31px Oswald`; ctx.textAlign = 'left';
+        let tw = ctx.measureText(txt).width;
+        const sx = tw > bw - 84 ? (bw - 84) / tw : 1;
+        ctx.save(); ctx.translate(bx + 64, ry + 1); ctx.scale(sx, 1); ctx.fillText(txt, 0, 0); ctx.restore();
+        ctx.restore();
+      });
+      ctx.restore();
+    }
+    ctx.restore();
+  });
   ctx.restore();
-  const ck = clamp((lt - 0.9) / 0.35);
+  // yorumlara yaz
+  const ck = clamp((t - (L25.s + 0.6)) / 0.35);
   if (ck > 0) {
     ctx.save(); ctx.globalAlpha = ck;
     const bob = Math.sin(t * 6) * 10;
-    ctx.translate(CX, 1140);
-    ctx.fillStyle = 'rgba(12,16,28,0.88)'; rr(ctx, -330, -52, 600, 104, 52); ctx.fill();
+    ctx.translate(CX, 1180);
+    ctx.fillStyle = 'rgba(12,16,28,0.9)'; rr(ctx, -330, -50, 600, 100, 50); ctx.fill();
     ctx.strokeStyle = '#ffc83d'; ctx.lineWidth = 4; ctx.stroke();
-    ctx.fillStyle = '#ffffff'; ctx.font = '700 48px Oswald'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    ctx.fillStyle = '#ffffff'; ctx.font = '700 46px Oswald'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
     ctx.fillText('SEÇİMİNİ YORUMLARA YAZ', -40, 3);
     ctx.save(); ctx.translate(318 + bob, 26 + bob * 0.6); ctx.rotate(0.55);
     ctx.fillStyle = '#ffc83d';
@@ -793,10 +847,10 @@ function drawChoiceE1(ctx, t, lt) {
     ctx.restore();
     ctx.restore();
   }
-  const fk = clamp((lt - 1.6) / 0.35);
+  const fk = clamp((t - (L25.e - 0.2)) / 0.35);
   if (fk > 0) {
-    ctx.save(); ctx.globalAlpha = fk; ctx.translate(CX, 1272);
-    ctx.fillStyle = '#ffc83d'; rr(ctx, -320, -40, 640, 80, 40); ctx.fill();
+    ctx.save(); ctx.globalAlpha = fk; ctx.translate(CX, 1290);
+    ctx.fillStyle = '#ffc83d'; rr(ctx, -320, -38, 640, 76, 38); ctx.fill();
     ctx.fillStyle = '#141414'; ctx.font = '700 36px Oswald'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
     ctx.fillText('2. GÜN: EKSİ ON. TAKİP ET', 0, 2);
     ctx.restore();
@@ -816,9 +870,10 @@ function drawHUDE(ctx, t, st) {
   // sıcaklık
   ctx.font = '700 78px Oswald'; ctx.fillStyle = '#a8dcff';
   ctx.fillText(st.temp ?? '0°C', x + cw + 34, y + 100);
-  ctx.shadowColor = 'transparent';
-  ctx.font = '800 21px Inter'; ctx.fillStyle = 'rgba(225,232,244,0.9)';
+  ctx.shadowColor = 'rgba(0,0,0,0.75)'; ctx.shadowBlur = 8;
+  ctx.font = '800 21px Inter'; ctx.fillStyle = 'rgba(235,240,250,0.96)';
   ctx.fillText(st.place ?? 'ÇANKAYA  ·  ANKARA', x, y + 160);
+  ctx.shadowColor = 'transparent';
   let cx = x;
   (st.chips ?? []).forEach(c => { cx += chip(ctx, cx, y + 186, c.text, c.col, { icon: c.icon }) + 12; });
   ctx.restore();

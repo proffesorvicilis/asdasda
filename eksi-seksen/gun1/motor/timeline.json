@@ -1,13 +1,13 @@
 {
- "duration": 150.542,
+ "duration": 97.721,
  "fps": 30,
  "lines": [
   {
    "id": "L01",
    "sc": "yatak",
    "v": "N",
-   "s": 0.2,
-   "e": 3.578,
+   "s": 1.0,
+   "e": 4.914,
    "text": "On sekiz Aralık sabahı, Çankaya'daki çatı katında alarmın çaldı.",
    "hl": {},
    "col": null,
@@ -18,13 +18,10 @@
    "id": "L02",
    "sc": "yatak",
    "v": "N",
-   "s": 3.818,
-   "e": 9.725,
-   "text": "Otuz üç yaşındaydın. Kurduğun şirketi milyonlarca dolara satmıştın. Bir daha çalışmana gerek yoktu.",
-   "hl": {
-    "milyonlarca": "y",
-    "dolara": "y"
-   },
+   "s": 5.114,
+   "e": 8.634,
+   "text": "Otuz üç yaşındaydın. Şirketini milyonlarca dolara satmıştın.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
@@ -33,14 +30,10 @@
    "id": "L03",
    "sc": "yatak",
    "v": "N",
-   "s": 10.005,
-   "e": 15.375,
-   "text": "Ama o sabah yerler buz gibiydi. Telefon sıfır dereceyi gösteriyordu. Dün artı ondu.",
-   "hl": {
-    "sıfır": "y",
-    "artı": "y",
-    "ondu.": "y"
-   },
+   "s": 8.834,
+   "e": 12.964,
+   "text": "Ama o sabah telefon eksi bir dereceyi gösteriyordu. Dün artı ondu.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
@@ -49,9 +42,9 @@
    "id": "L04",
    "sc": "mutfak",
    "v": "N",
-   "s": 15.615,
-   "e": 17.267,
-   "text": "Kahveni alıp televizyonu açtın.",
+   "s": 13.224,
+   "e": 14.203,
+   "text": "Televizyonu açtın.",
    "hl": {},
    "col": null,
    "etiket": null,
@@ -61,8 +54,8 @@
    "id": "L05",
    "sc": "tv_haber",
    "v": "SPIKER",
-   "s": 18.207,
-   "e": 21.625,
+   "s": 14.753,
+   "e": 18.171,
    "text": "Sibirya kaynaklı soğuk hava dalgası etkisini artırıyor.",
    "hl": {},
    "col": null,
@@ -73,8 +66,8 @@
    "id": "L06",
    "sc": "mutfak2",
    "v": "N",
-   "s": 21.865,
-   "e": 24.428,
+   "s": 18.371,
+   "e": 20.711,
    "text": "Kış işte, dedin. Ankara'nın ayazı.",
    "hl": {},
    "col": null,
@@ -85,38 +78,33 @@
    "id": "L07",
    "sc": "park",
    "v": "N",
-   "s": 24.748,
-   "e": 28.551,
-   "text": "Kuğulu Park'ta havuz buz tutmuştu. Ağaçlarda tek bir kuş yoktu.",
-   "hl": {
-    "kuş": "r",
-    "yoktu.": "r"
-   },
+   "s": 20.991,
+   "e": 25.484,
+   "text": "Kuğulu Park'ta havuz buz tutmuştu. Güneş tepedeydi ama ısıtmıyordu.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
   },
   {
    "id": "L08",
-   "sc": "park",
+   "sc": "telefon_app",
    "v": "N",
-   "s": 28.791,
-   "e": 33.089,
-   "text": "Güneş tepedeydi ama ısıtmıyordu. Soluk, eski bir ampul gibiydi.",
-   "hl": {
-    "ısıtmıyordu.": "y"
-   },
+   "s": 25.744,
+   "e": 32.303,
+   "text": "Öğlen hava durumu uygulaması tuhaf rakamlar gösterdi. Eksi on. Eksi yirmi dört. Eksi otuz iki.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
   },
   {
    "id": "L09",
-   "sc": "kafe",
+   "sc": "kafe2",
    "v": "N",
-   "s": 33.409,
-   "e": 36.415,
-   "text": "Öğlen Tunalı'da bir kafede herkes soğuktan bahsediyordu.",
+   "s": 32.503,
+   "e": 34.76,
+   "text": "Kafedekiler güldü. Uygulama bozulmuş.",
    "hl": {},
    "col": null,
    "etiket": null,
@@ -124,28 +112,23 @@
   },
   {
    "id": "L10",
-   "sc": "telefon_app",
+   "sc": "haber_bandi",
    "v": "N",
-   "s": 36.615,
-   "e": 42.822,
-   "text": "Hava durumu uygulaması tuhaf rakamlar gösteriyordu. Eksi on. Eksi yirmi. Eksi otuz.",
-   "hl": {
-    "eksi": "r",
-    "on.": "r",
-    "yirmi.": "r",
-    "otuz.": "r"
-   },
+   "s": 35.02,
+   "e": 40.133,
+   "text": "Haber bandında: Avrupa'da, Asya'da, Amerika'da aynı anda ani soğuma.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
   },
   {
    "id": "L11",
-   "sc": "kafe2",
+   "sc": "eczane",
    "v": "N",
-   "s": 43.102,
-   "e": 45.744,
-   "text": "Masadakiler güldü. Uygulama bozulmuş.",
+   "s": 40.333,
+   "e": 42.779,
+   "text": "Soğuk hava dalgası her yere aynı anda gelmez.",
    "hl": {},
    "col": null,
    "etiket": null,
@@ -153,40 +136,35 @@
   },
   {
    "id": "L12",
-   "sc": "eczane",
+   "sc": "tel_aras",
    "v": "N",
-   "s": 46.064,
-   "e": 50.642,
-   "text": "Saat birde termometre hâlâ sıfırdı. Öğlen bile bir derece yükselmemişti.",
-   "hl": {
-    "sıfırdı.": "y"
-   },
+   "s": 43.039,
+   "e": 44.201,
+   "text": "Ortağın Aras'ı aradın.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
   },
   {
    "id": "L13",
-   "sc": "haber_bandi",
-   "v": "N",
-   "s": 50.882,
-   "e": 56.825,
-   "text": "Haber bandında bir satır geçti: Avrupa'da, Asya'da, Amerika'da aynı anda ani soğuma.",
-   "hl": {
-    "aynı": "r",
-    "anda": "r"
-   },
+   "sc": "tel_aras",
+   "v": "ARAS",
+   "s": 44.801,
+   "e": 50.035,
+   "text": "Kanka, gökyüzü masmavi ama paneller yarı yarıya üretiyor. Güneş sanki kısılmış.",
+   "hl": {},
    "col": null,
-   "etiket": null,
+   "etiket": "ARAS · TELEFON",
    "pre": 0.12
   },
   {
    "id": "L14",
-   "sc": "haber_bandi",
+   "sc": "ciftlik",
    "v": "N",
-   "s": 57.065,
-   "e": 60.625,
-   "text": "Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.",
+   "s": 50.295,
+   "e": 55.147,
+   "text": "Kızılcahamam'daki çiftliği satmamıştın. Türbinler, seralar, kocaman bir depo.",
    "hl": {},
    "col": null,
    "etiket": null,
@@ -194,11 +172,11 @@
   },
   {
    "id": "L15",
-   "sc": "tel_aras",
+   "sc": "foto",
    "v": "N",
-   "s": 60.945,
-   "e": 65.884,
-   "text": "Aras'ı aradın. Şirketi birlikte kurduğunuz mühendis. Kızılcahamam'daki çiftlikte yaşıyor.",
+   "s": 55.347,
+   "e": 58.605,
+   "text": "Aras, Çınar ve sen. Üçünüzün de kimsesi yok.",
    "hl": {},
    "col": null,
    "etiket": null,
@@ -206,191 +184,58 @@
   },
   {
    "id": "L16",
-   "sc": "tel_aras",
-   "v": "ARAS",
-   "s": 66.924,
-   "e": 71.309,
-   "text": "Kanka, burada da sıfır. Dün on ikiydi. Bir de garip bir şey var.",
-   "hl": {},
-   "col": null,
-   "etiket": "ARAS · TELEFON",
-   "pre": 0.12
-  },
-  {
-   "id": "L17",
-   "sc": "tel_aras",
-   "v": "ARAS",
-   "s": 71.509,
-   "e": 76.882,
-   "text": "Gökyüzü masmavi ama güneş panelleri yarı yarıya az üretiyor. Güneş sanki kısılmış.",
-   "hl": {
-    "kısılmış.": "r"
-   },
-   "col": null,
-   "etiket": "ARAS · TELEFON",
-   "pre": 0.12
-  },
-  {
-   "id": "L18",
-   "sc": "ciftlik",
+   "sc": "kapi",
    "v": "N",
-   "s": 77.202,
-   "e": 83.574,
-   "text": "Şirketi satarken deneme çiftliğini satmamıştın. Rüzgâr türbinleri, seralar, kocaman bir depo. Hepsi senindi.",
-   "hl": {
-    "senindi.": "y"
-   },
+   "s": 59.155,
+   "e": 62.469,
+   "text": "Akşam Çınar elinde poşetler ve düdüklü tencereyle geldi.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
   },
   {
-   "id": "L19",
-   "sc": "foto",
+   "id": "L17",
+   "sc": "mutfak_aksam",
    "v": "N",
-   "s": 83.814,
-   "e": 88.862,
-   "text": "Aras, Çınar ve sen. Üçünüzün de kimsesi yok. Sadece birbiriniz varsınız.",
-   "hl": {
-    "birbiriniz": "y"
-   },
+   "s": 62.669,
+   "e": 65.351,
+   "text": "Mercimek çorbası kaynarken Aras görüntülü aradı.",
+   "hl": {},
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L18",
+   "sc": "grafik",
+   "v": "ARAS",
+   "s": 65.551,
+   "e": 69.092,
+   "text": "Bütün gün ölçtüm. Gelen ışık her saat biraz daha azalıyor.",
+   "hl": {},
+   "col": null,
+   "etiket": "ARAS · GÖRÜNTÜLÜ",
+   "pre": 0.12
+  },
+  {
+   "id": "L19",
+   "sc": "hesap",
+   "v": "N",
+   "s": 69.352,
+   "e": 73.931,
+   "text": "Bugün on bir derece düştü. Yarın belki dokuz, belki on dört. Ama hep aşağı.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
   },
   {
    "id": "L20",
-   "sc": "tel_cinar",
-   "v": "N",
-   "s": 89.182,
-   "e": 90.062,
-   "text": "Çınar'ı aradın.",
-   "hl": {},
-   "col": null,
-   "etiket": null,
-   "pre": 0.12
-  },
-  {
-   "id": "L21",
-   "sc": "tel_cinar",
-   "v": "CINAR",
-   "s": 91.002,
-   "e": 94.619,
-   "text": "Kanka, ben de tam seni arayacaktım. Bu soğuk normal değil, değil mi?",
-   "hl": {},
-   "col": null,
-   "etiket": "ÇINAR · TELEFON",
-   "pre": 0.12
-  },
-  {
-   "id": "L22",
-   "sc": "kapi",
-   "v": "N",
-   "s": 95.659,
-   "e": 100.287,
-   "text": "Akşam yedide Çınar kapıdaydı. Elinde iki poşet, bir de düdüklü tencere.",
-   "hl": {},
-   "col": null,
-   "etiket": null,
-   "pre": 0.12
-  },
-  {
-   "id": "L23",
-   "sc": "kapi",
-   "v": "CINAR",
-   "s": 100.487,
-   "e": 104.362,
-   "text": "Senin buzdolabında yumurtayla yoğurttan başka bir şey olmadığını biliyorum.",
-   "hl": {},
-   "col": null,
-   "etiket": "ÇINAR",
-   "pre": 0.12
-  },
-  {
-   "id": "L24",
-   "sc": "mutfak_aksam",
-   "v": "N",
-   "s": 104.682,
-   "e": 108.596,
-   "text": "Mercimek çorbasının kokusu evi sardı. Aras görüntülü aramadaydı.",
-   "hl": {},
-   "col": null,
-   "etiket": null,
-   "pre": 0.12
-  },
-  {
-   "id": "L25",
-   "sc": "tv_aksam",
-   "v": "N",
-   "s": 108.836,
-   "e": 114.152,
-   "text": "Haberler hâlâ soğuk hava dalgası diyordu. Ama Aras'ın grafiği başka bir şey söylüyordu.",
-   "hl": {
-    "grafiği": "y"
-   },
-   "col": null,
-   "etiket": null,
-   "pre": 0.12
-  },
-  {
-   "id": "L26",
-   "sc": "grafik",
-   "v": "ARAS",
-   "s": 114.392,
-   "e": 121.062,
-   "text": "Çiftliğin hava istasyonu bütün gün güneşi ölçtü. Gelen ışık normalin yarısı. Ve her saat azalıyor.",
-   "hl": {
-    "yarısı.": "r",
-    "azalıyor.": "r"
-   },
-   "col": null,
-   "etiket": "ARAS · GÖRÜNTÜLÜ",
-   "pre": 0.12
-  },
-  {
-   "id": "L27",
-   "sc": "masa",
-   "v": "CINAR",
-   "s": 121.382,
-   "e": 122.671,
-   "text": "Güneş azalırsa ne olur?",
-   "hl": {},
-   "col": null,
-   "etiket": "ÇINAR",
-   "pre": 0.12
-  },
-  {
-   "id": "L28",
-   "sc": "hesap",
-   "v": "N",
-   "s": 122.991,
-   "e": 127.02,
-   "text": "Hesabı yüksek sesle yaptın. Güneş kısılırsa dünya her gün biraz daha soğur.",
-   "hl": {},
-   "col": null,
-   "etiket": null,
-   "pre": 0.12
-  },
-  {
-   "id": "L29",
-   "sc": "hesap",
-   "v": "N",
-   "s": 127.22,
-   "e": 130.243,
-   "text": "Bugün on derece düştü. Yarın bir on derece daha.",
-   "hl": {
-    "yarın": "r"
-   },
-   "col": null,
-   "etiket": null,
-   "pre": 0.12
-  },
-  {
-   "id": "L30",
    "sc": "aras_video",
    "v": "ARAS",
-   "s": 130.563,
-   "e": 132.114,
+   "s": 74.191,
+   "e": 75.788,
    "text": "Bu bir hava olayı değil kanka.",
    "hl": {},
    "col": null,
@@ -398,37 +243,23 @@
    "pre": 0.12
   },
   {
-   "id": "L31",
-   "sc": "tv_aksam2",
-   "v": "N",
-   "s": 132.434,
-   "e": 135.038,
-   "text": "Haberlerde kimse bundan bahsetmiyordu. Henüz.",
-   "hl": {
-    "henüz.": "r"
-   },
-   "col": null,
-   "etiket": null,
-   "pre": 0.12
-  },
-  {
-   "id": "L32",
+   "id": "L21",
    "sc": "masa2",
    "v": "CINAR",
-   "s": 135.358,
-   "e": 138.537,
-   "text": "Kimse fark etmeden hazırlanırsak, herkesten önde oluruz.",
+   "s": 76.068,
+   "e": 79.146,
+   "text": "Kimse fark etmeden hazırlanırsak herkesten önde oluruz.",
    "hl": {},
    "col": null,
    "etiket": "ÇINAR",
    "pre": 0.12
   },
   {
-   "id": "L33",
+   "id": "L22",
    "sc": "masa2",
    "v": "N",
-   "s": 138.777,
-   "e": 141.806,
+   "s": 79.346,
+   "e": 82.557,
    "text": "Ama bu, herkesi kendi kaderine bırakmak demekti.",
    "hl": {},
    "col": null,
@@ -436,16 +267,37 @@
    "pre": 0.12
   },
   {
-   "id": "L34",
+   "id": "L23",
    "sc": "secim",
    "v": "N",
-   "s": 142.166,
-   "e": 145.542,
+   "s": 82.857,
+   "e": 86.811,
    "text": "Sessizce hazırlanıyor musun, yoksa herkesi uyarıyor musun?",
-   "hl": {
-    "sessizce": "y",
-    "uyarıyor": "y"
-   },
+   "hl": {},
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L24",
+   "sc": "secim",
+   "v": "N",
+   "s": 87.111,
+   "e": 91.683,
+   "text": "Susarsan kilerin dört ay yeter. Ama bir gün biri sana, biliyordun, diyecek.",
+   "hl": {},
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L25",
+   "sc": "secim",
+   "v": "N",
+   "s": 91.943,
+   "e": 95.621,
+   "text": "Uyarırsan birkaç kişi kurtulur. Ama paniği sen başlatırsın.",
+   "hl": {},
    "col": null,
    "etiket": null,
    "pre": 0.12
@@ -454,1899 +306,1241 @@
  "words": [
   {
    "w": "On",
-   "s": 0.28,
-   "e": 0.454,
+   "s": 1.08,
+   "e": 1.283,
    "line": "L01"
   },
   {
    "w": "sekiz",
-   "s": 0.454,
-   "e": 0.759,
+   "s": 1.283,
+   "e": 1.639,
    "line": "L01"
   },
   {
    "w": "Aralık",
-   "s": 0.759,
-   "e": 1.107,
+   "s": 1.639,
+   "e": 2.045,
    "line": "L01"
   },
   {
    "w": "sabahı,",
-   "s": 1.107,
-   "e": 1.498,
+   "s": 2.045,
+   "e": 2.503,
    "line": "L01"
   },
   {
    "w": "Çankaya'daki",
-   "s": 1.498,
-   "e": 2.108,
+   "s": 2.503,
+   "e": 3.214,
    "line": "L01"
   },
   {
    "w": "çatı",
-   "s": 2.108,
-   "e": 2.369,
+   "s": 3.214,
+   "e": 3.519,
    "line": "L01"
   },
   {
    "w": "katında",
-   "s": 2.369,
-   "e": 2.76,
+   "s": 3.519,
+   "e": 3.976,
    "line": "L01"
   },
   {
    "w": "alarmın",
-   "s": 2.76,
-   "e": 3.152,
+   "s": 3.976,
+   "e": 4.434,
    "line": "L01"
   },
   {
    "w": "çaldı.",
-   "s": 3.152,
-   "e": 3.5,
+   "s": 4.434,
+   "e": 4.84,
    "line": "L01"
   },
   {
    "w": "Otuz",
-   "s": 3.958,
-   "e": 4.26,
+   "s": 5.174,
+   "e": 5.474,
    "line": "L02"
   },
   {
    "w": "üç",
-   "s": 4.26,
-   "e": 4.462,
+   "s": 5.514,
+   "e": 5.634,
    "line": "L02"
   },
   {
    "w": "yaşındaydın.",
-   "s": 4.462,
-   "e": 5.168,
+   "s": 5.674,
+   "e": 6.254,
    "line": "L02"
   },
   {
-   "w": "Kurduğun",
-   "s": 5.168,
-   "e": 5.673,
-   "line": "L02"
-  },
-  {
-   "w": "şirketi",
-   "s": 5.673,
-   "e": 6.127,
+   "w": "Şirketini",
+   "s": 6.694,
+   "e": 7.134,
    "line": "L02"
   },
   {
    "w": "milyonlarca",
-   "s": 6.127,
-   "e": 6.782,
+   "s": 7.174,
+   "e": 7.734,
    "line": "L02"
   },
   {
    "w": "dolara",
-   "s": 6.782,
-   "e": 7.186,
+   "s": 7.774,
+   "e": 8.014,
    "line": "L02"
   },
   {
    "w": "satmıştın.",
-   "s": 7.186,
-   "e": 7.791,
-   "line": "L02"
-  },
-  {
-   "w": "Bir",
-   "s": 7.791,
-   "e": 8.043,
-   "line": "L02"
-  },
-  {
-   "w": "daha",
-   "s": 8.043,
-   "e": 8.346,
-   "line": "L02"
-  },
-  {
-   "w": "çalışmana",
-   "s": 8.346,
-   "e": 8.901,
-   "line": "L02"
-  },
-  {
-   "w": "gerek",
-   "s": 8.901,
-   "e": 9.254,
-   "line": "L02"
-  },
-  {
-   "w": "yoktu.",
-   "s": 9.254,
-   "e": 9.658,
+   "s": 8.094,
+   "e": 8.574,
    "line": "L02"
   },
   {
    "w": "Ama",
-   "s": 10.085,
-   "e": 10.265,
+   "s": 8.894,
+   "e": 9.034,
    "line": "L03"
   },
   {
    "w": "o",
-   "s": 10.305,
-   "e": 10.345,
+   "s": 9.074,
+   "e": 9.114,
    "line": "L03"
   },
   {
    "w": "sabah",
-   "s": 10.445,
-   "e": 10.725,
+   "s": 9.194,
+   "e": 9.454,
    "line": "L03"
   },
   {
-   "w": "yerler",
-   "s": 10.765,
-   "e": 11.065,
+   "w": "telefon",
+   "s": 9.534,
+   "e": 9.914,
    "line": "L03"
   },
   {
-   "w": "buz",
-   "s": 11.185,
-   "e": 11.345,
+   "w": "eksi",
+   "s": 10.134,
+   "e": 10.394,
    "line": "L03"
   },
   {
-   "w": "gibiydi.",
-   "s": 11.405,
-   "e": 11.725,
-   "line": "L03"
-  },
-  {
-   "w": "Telefon",
-   "s": 12.325,
-   "e": 12.645,
-   "line": "L03"
-  },
-  {
-   "w": "sıfır",
-   "s": 12.745,
-   "e": 12.985,
+   "w": "bir",
+   "s": 10.414,
+   "e": 10.494,
    "line": "L03"
   },
   {
    "w": "dereceyi",
-   "s": 13.045,
-   "e": 13.365,
+   "s": 10.554,
+   "e": 10.914,
    "line": "L03"
   },
   {
    "w": "gösteriyordu.",
-   "s": 13.425,
-   "e": 14.024,
+   "s": 10.994,
+   "e": 11.634,
    "line": "L03"
   },
   {
    "w": "Dün",
-   "s": 14.465,
-   "e": 14.665,
+   "s": 12.074,
+   "e": 12.254,
    "line": "L03"
   },
   {
    "w": "artı",
-   "s": 14.745,
-   "e": 15.005,
+   "s": 12.334,
+   "e": 12.594,
    "line": "L03"
   },
   {
    "w": "ondu.",
-   "s": 15.065,
-   "e": 15.285,
+   "s": 12.654,
+   "e": 12.874,
    "line": "L03"
   },
   {
-   "w": "Kahveni",
-   "s": 15.675,
-   "e": 16.035,
-   "line": "L04"
-  },
-  {
-   "w": "alıp",
-   "s": 16.075,
-   "e": 16.275,
-   "line": "L04"
-  },
-  {
-   "w": "televizyonu",
-   "s": 16.335,
-   "e": 16.835,
+   "w": "Televizyonu",
+   "s": 13.284,
+   "e": 13.784,
    "line": "L04"
   },
   {
    "w": "açtın.",
-   "s": 16.895,
-   "e": 17.195,
+   "s": 13.844,
+   "e": 14.124,
    "line": "L04"
   },
   {
    "w": "Sibirya",
-   "s": 18.307,
-   "e": 18.667,
+   "s": 14.853,
+   "e": 15.213,
    "line": "L05"
   },
   {
    "w": "kaynaklı",
-   "s": 18.747,
-   "e": 19.247,
+   "s": 15.293,
+   "e": 15.793,
    "line": "L05"
   },
   {
    "w": "soğuk",
-   "s": 19.367,
-   "e": 19.607,
+   "s": 15.913,
+   "e": 16.153,
    "line": "L05"
   },
   {
    "w": "hava",
-   "s": 19.627,
-   "e": 19.827,
+   "s": 16.173,
+   "e": 16.373,
    "line": "L05"
   },
   {
    "w": "dalgası",
-   "s": 19.867,
-   "e": 20.267,
+   "s": 16.413,
+   "e": 16.813,
    "line": "L05"
   },
   {
    "w": "etkisini",
-   "s": 20.327,
-   "e": 20.767,
+   "s": 16.873,
+   "e": 17.313,
    "line": "L05"
   },
   {
    "w": "artırıyor.",
-   "s": 20.787,
-   "e": 21.327,
+   "s": 17.333,
+   "e": 17.873,
    "line": "L05"
   },
   {
    "w": "Kış",
-   "s": 21.885,
-   "e": 22.065,
+   "s": 18.391,
+   "e": 18.551,
    "line": "L06"
   },
   {
    "w": "işte,",
-   "s": 22.125,
-   "e": 22.365,
+   "s": 18.611,
+   "e": 18.851,
    "line": "L06"
   },
   {
    "w": "dedin.",
-   "s": 22.825,
-   "e": 23.065,
+   "s": 19.231,
+   "e": 19.431,
    "line": "L06"
   },
   {
    "w": "Ankara'nın",
-   "s": 23.505,
-   "e": 23.965,
+   "s": 19.831,
+   "e": 20.311,
    "line": "L06"
   },
   {
    "w": "ayazı.",
-   "s": 24.025,
-   "e": 24.345,
+   "s": 20.371,
+   "e": 20.631,
    "line": "L06"
   },
   {
    "w": "Kuğulu",
-   "s": 24.808,
-   "e": 25.088,
+   "s": 21.051,
+   "e": 21.311,
    "line": "L07"
   },
   {
    "w": "Park'ta",
-   "s": 25.188,
-   "e": 25.548,
+   "s": 21.411,
+   "e": 21.931,
    "line": "L07"
   },
   {
    "w": "havuz",
-   "s": 25.588,
-   "e": 25.868,
+   "s": 21.971,
+   "e": 22.251,
    "line": "L07"
   },
   {
    "w": "buz",
-   "s": 25.948,
-   "e": 26.128,
+   "s": 22.351,
+   "e": 22.511,
    "line": "L07"
   },
   {
    "w": "tutmuştu.",
-   "s": 26.148,
-   "e": 26.628,
-   "line": "L07"
-  },
-  {
-   "w": "Ağaçlarda",
-   "s": 27.068,
-   "e": 27.608,
-   "line": "L07"
-  },
-  {
-   "w": "tek",
-   "s": 27.668,
-   "e": 27.788,
-   "line": "L07"
-  },
-  {
-   "w": "bir",
-   "s": 27.848,
-   "e": 27.928,
-   "line": "L07"
-  },
-  {
-   "w": "kuş",
-   "s": 27.988,
-   "e": 28.128,
-   "line": "L07"
-  },
-  {
-   "w": "yoktu.",
-   "s": 28.208,
-   "e": 28.468,
+   "s": 22.571,
+   "e": 23.051,
    "line": "L07"
   },
   {
    "w": "Güneş",
-   "s": 28.871,
-   "e": 29.091,
-   "line": "L08"
+   "s": 23.491,
+   "e": 23.731,
+   "line": "L07"
   },
   {
    "w": "tepedeydi",
-   "s": 29.151,
-   "e": 29.771,
-   "line": "L08"
+   "s": 23.811,
+   "e": 24.431,
+   "line": "L07"
   },
   {
    "w": "ama",
-   "s": 29.831,
-   "e": 30.011,
-   "line": "L08"
+   "s": 24.491,
+   "e": 24.691,
+   "line": "L07"
   },
   {
    "w": "ısıtmıyordu.",
-   "s": 30.071,
-   "e": 30.671,
-   "line": "L08"
-  },
-  {
-   "w": "Soluk,",
-   "s": 31.191,
-   "e": 31.471,
-   "line": "L08"
-  },
-  {
-   "w": "eski",
-   "s": 31.891,
-   "e": 32.171,
-   "line": "L08"
-  },
-  {
-   "w": "bir",
-   "s": 32.191,
-   "e": 32.291,
-   "line": "L08"
-  },
-  {
-   "w": "ampul",
-   "s": 32.351,
-   "e": 32.611,
-   "line": "L08"
-  },
-  {
-   "w": "gibiydi.",
-   "s": 32.671,
-   "e": 32.991,
-   "line": "L08"
+   "s": 24.751,
+   "e": 25.391,
+   "line": "L07"
   },
   {
    "w": "Öğlen",
-   "s": 33.489,
-   "e": 33.709,
-   "line": "L09"
+   "s": 25.824,
+   "e": 26.23,
+   "line": "L08"
   },
   {
-   "w": "Tunalı'da",
-   "s": 33.769,
-   "e": 34.149,
-   "line": "L09"
-  },
-  {
-   "w": "bir",
-   "s": 34.189,
-   "e": 34.309,
-   "line": "L09"
-  },
-  {
-   "w": "kafede",
-   "s": 34.329,
-   "e": 34.749,
-   "line": "L09"
-  },
-  {
-   "w": "herkes",
-   "s": 34.789,
-   "e": 35.209,
-   "line": "L09"
-  },
-  {
-   "w": "soğuktan",
-   "s": 35.269,
-   "e": 35.669,
-   "line": "L09"
-  },
-  {
-   "w": "bahsediyordu.",
-   "s": 35.729,
-   "e": 36.349,
-   "line": "L09"
-  },
-  {
-   "w": "Hava",
-   "s": 36.695,
-   "e": 36.875,
-   "line": "L10"
+   "w": "hava",
+   "s": 26.23,
+   "e": 26.578,
+   "line": "L08"
   },
   {
    "w": "durumu",
-   "s": 36.935,
-   "e": 37.195,
-   "line": "L10"
+   "s": 26.578,
+   "e": 27.042,
+   "line": "L08"
   },
   {
    "w": "uygulaması",
-   "s": 37.235,
-   "e": 37.835,
-   "line": "L10"
+   "s": 27.042,
+   "e": 27.738,
+   "line": "L08"
   },
   {
    "w": "tuhaf",
-   "s": 37.875,
-   "e": 38.135,
-   "line": "L10"
+   "s": 27.738,
+   "e": 28.144,
+   "line": "L08"
   },
   {
    "w": "rakamlar",
-   "s": 38.175,
-   "e": 38.615,
-   "line": "L10"
+   "s": 28.144,
+   "e": 28.724,
+   "line": "L08"
   },
   {
-   "w": "gösteriyordu.",
-   "s": 38.675,
-   "e": 39.315,
-   "line": "L10"
+   "w": "gösterdi.",
+   "s": 28.724,
+   "e": 29.362,
+   "line": "L08"
   },
   {
    "w": "Eksi",
-   "s": 39.755,
-   "e": 40.075,
-   "line": "L10"
+   "s": 29.362,
+   "e": 29.71,
+   "line": "L08"
   },
   {
    "w": "on.",
-   "s": 40.275,
-   "e": 40.435,
-   "line": "L10"
+   "s": 29.71,
+   "e": 30.0,
+   "line": "L08"
   },
   {
    "w": "Eksi",
-   "s": 40.775,
-   "e": 41.115,
-   "line": "L10"
+   "s": 30.0,
+   "e": 30.348,
+   "line": "L08"
   },
   {
-   "w": "yirmi.",
-   "s": 41.315,
-   "e": 41.595,
-   "line": "L10"
+   "w": "yirmi",
+   "s": 30.348,
+   "e": 30.754,
+   "line": "L08"
+  },
+  {
+   "w": "dört.",
+   "s": 30.754,
+   "e": 31.16,
+   "line": "L08"
   },
   {
    "w": "Eksi",
-   "s": 41.955,
-   "e": 42.255,
-   "line": "L10"
+   "s": 31.16,
+   "e": 31.508,
+   "line": "L08"
   },
   {
-   "w": "otuz.",
-   "s": 42.415,
-   "e": 42.735,
-   "line": "L10"
+   "w": "otuz",
+   "s": 31.508,
+   "e": 31.856,
+   "line": "L08"
   },
   {
-   "w": "Masadakiler",
-   "s": 43.162,
-   "e": 43.742,
-   "line": "L11"
+   "w": "iki.",
+   "s": 31.856,
+   "e": 32.204,
+   "line": "L08"
+  },
+  {
+   "w": "Kafedekiler",
+   "s": 32.563,
+   "e": 33.103,
+   "line": "L09"
   },
   {
    "w": "güldü.",
-   "s": 43.802,
-   "e": 44.042,
-   "line": "L11"
+   "s": 33.163,
+   "e": 33.403,
+   "line": "L09"
   },
   {
    "w": "Uygulama",
-   "s": 44.462,
-   "e": 44.862,
-   "line": "L11"
+   "s": 33.843,
+   "e": 34.183,
+   "line": "L09"
   },
   {
    "w": "bozulmuş.",
-   "s": 44.902,
-   "e": 45.342,
-   "line": "L11"
-  },
-  {
-   "w": "Saat",
-   "s": 46.164,
-   "e": 46.424,
-   "line": "L12"
-  },
-  {
-   "w": "birde",
-   "s": 46.484,
-   "e": 46.804,
-   "line": "L12"
-  },
-  {
-   "w": "termometre",
-   "s": 46.844,
-   "e": 47.464,
-   "line": "L12"
-  },
-  {
-   "w": "hâlâ",
-   "s": 47.504,
-   "e": 47.804,
-   "line": "L12"
-  },
-  {
-   "w": "sıfırdı.",
-   "s": 47.904,
-   "e": 48.244,
-   "line": "L12"
-  },
-  {
-   "w": "Öğlen",
-   "s": 48.704,
-   "e": 49.024,
-   "line": "L12"
-  },
-  {
-   "w": "bile",
-   "s": 49.104,
-   "e": 49.304,
-   "line": "L12"
-  },
-  {
-   "w": "bir",
-   "s": 49.324,
-   "e": 49.384,
-   "line": "L12"
-  },
-  {
-   "w": "derece",
-   "s": 49.444,
-   "e": 49.764,
-   "line": "L12"
-  },
-  {
-   "w": "yükselmemişti.",
-   "s": 49.784,
-   "e": 50.544,
-   "line": "L12"
+   "s": 34.243,
+   "e": 34.663,
+   "line": "L09"
   },
   {
    "w": "Haber",
-   "s": 50.922,
-   "e": 51.182,
-   "line": "L13"
+   "s": 35.06,
+   "e": 35.32,
+   "line": "L10"
   },
   {
-   "w": "bandında",
-   "s": 51.242,
-   "e": 51.802,
-   "line": "L13"
-  },
-  {
-   "w": "bir",
-   "s": 51.822,
-   "e": 51.902,
-   "line": "L13"
-  },
-  {
-   "w": "satır",
-   "s": 51.982,
-   "e": 52.222,
-   "line": "L13"
-  },
-  {
-   "w": "geçti:",
-   "s": 52.282,
-   "e": 52.582,
-   "line": "L13"
+   "w": "bandında:",
+   "s": 35.38,
+   "e": 35.8,
+   "line": "L10"
   },
   {
    "w": "Avrupa'da,",
-   "s": 53.062,
-   "e": 53.542,
-   "line": "L13"
+   "s": 36.26,
+   "e": 36.76,
+   "line": "L10"
   },
   {
    "w": "Asya'da,",
-   "s": 53.802,
-   "e": 54.262,
-   "line": "L13"
+   "s": 36.94,
+   "e": 37.36,
+   "line": "L10"
   },
   {
    "w": "Amerika'da",
-   "s": 54.622,
-   "e": 55.142,
-   "line": "L13"
+   "s": 37.5,
+   "e": 38.02,
+   "line": "L10"
   },
   {
    "w": "aynı",
-   "s": 55.422,
-   "e": 55.662,
-   "line": "L13"
+   "s": 38.4,
+   "e": 38.6,
+   "line": "L10"
   },
   {
    "w": "anda",
-   "s": 55.722,
-   "e": 56.042,
-   "line": "L13"
+   "s": 38.7,
+   "e": 39.039,
+   "line": "L10"
   },
   {
    "w": "ani",
-   "s": 56.142,
-   "e": 56.342,
-   "line": "L13"
+   "s": 39.12,
+   "e": 39.34,
+   "line": "L10"
   },
   {
    "w": "soğuma.",
-   "s": 56.442,
-   "e": 56.742,
-   "line": "L13"
+   "s": 39.44,
+   "e": 39.74,
+   "line": "L10"
   },
   {
    "w": "Soğuk",
-   "s": 57.205,
-   "e": 57.445,
-   "line": "L14"
+   "s": 40.433,
+   "e": 40.633,
+   "line": "L11"
   },
   {
    "w": "hava",
-   "s": 57.465,
-   "e": 57.645,
-   "line": "L14"
+   "s": 40.633,
+   "e": 40.793,
+   "line": "L11"
   },
   {
    "w": "dalgası",
-   "s": 57.685,
-   "e": 58.085,
-   "line": "L14"
-  },
-  {
-   "w": "dünyanın",
-   "s": 58.185,
-   "e": 58.605,
-   "line": "L14"
+   "s": 40.853,
+   "e": 41.293,
+   "line": "L11"
   },
   {
    "w": "her",
-   "s": 58.645,
-   "e": 58.805,
-   "line": "L14"
+   "s": 41.373,
+   "e": 41.513,
+   "line": "L11"
   },
   {
-   "w": "yerine",
-   "s": 58.865,
-   "e": 59.165,
-   "line": "L14"
+   "w": "yere",
+   "s": 41.573,
+   "e": 41.773,
+   "line": "L11"
   },
   {
    "w": "aynı",
-   "s": 59.605,
-   "e": 59.785,
-   "line": "L14"
+   "s": 41.853,
+   "e": 42.073,
+   "line": "L11"
   },
   {
    "w": "anda",
-   "s": 59.865,
-   "e": 60.045,
-   "line": "L14"
+   "s": 42.113,
+   "e": 42.293,
+   "line": "L11"
   },
   {
    "w": "gelmez.",
-   "s": 60.145,
-   "e": 60.545,
-   "line": "L14"
+   "s": 42.353,
+   "e": 42.693,
+   "line": "L11"
+  },
+  {
+   "w": "Ortağın",
+   "s": 43.119,
+   "e": 43.459,
+   "line": "L12"
   },
   {
    "w": "Aras'ı",
-   "s": 61.025,
-   "e": 61.365,
-   "line": "L15"
+   "s": 43.499,
+   "e": 43.799,
+   "line": "L12"
   },
   {
    "w": "aradın.",
-   "s": 61.405,
-   "e": 61.725,
-   "line": "L15"
-  },
-  {
-   "w": "Şirketi",
-   "s": 62.065,
-   "e": 62.425,
-   "line": "L15"
-  },
-  {
-   "w": "birlikte",
-   "s": 62.445,
-   "e": 62.805,
-   "line": "L15"
-  },
-  {
-   "w": "kurduğunuz",
-   "s": 62.845,
-   "e": 63.245,
-   "line": "L15"
-  },
-  {
-   "w": "mühendis.",
-   "s": 63.285,
-   "e": 63.665,
-   "line": "L15"
-  },
-  {
-   "w": "Kızılcahamam'daki",
-   "s": 64.085,
-   "e": 64.925,
-   "line": "L15"
-  },
-  {
-   "w": "çiftlikte",
-   "s": 64.964,
-   "e": 65.425,
-   "line": "L15"
-  },
-  {
-   "w": "yaşıyor.",
-   "s": 65.465,
-   "e": 65.785,
-   "line": "L15"
+   "s": 43.839,
+   "e": 44.119,
+   "line": "L12"
   },
   {
    "w": "Kanka,",
-   "s": 66.984,
-   "e": 67.264,
-   "line": "L16"
+   "s": 44.861,
+   "e": 45.161,
+   "line": "L13"
   },
   {
-   "w": "burada",
-   "s": 67.604,
-   "e": 67.904,
-   "line": "L16"
-  },
-  {
-   "w": "da",
-   "s": 67.964,
-   "e": 68.024,
-   "line": "L16"
-  },
-  {
-   "w": "sıfır.",
-   "s": 68.104,
-   "e": 68.464,
-   "line": "L16"
-  },
-  {
-   "w": "Dün",
-   "s": 68.844,
-   "e": 69.004,
-   "line": "L16"
-  },
-  {
-   "w": "on",
-   "s": 69.164,
-   "e": 69.244,
-   "line": "L16"
-  },
-  {
-   "w": "ikiydi.",
-   "s": 69.304,
-   "e": 69.664,
-   "line": "L16"
-  },
-  {
-   "w": "Bir",
-   "s": 69.964,
-   "e": 70.084,
-   "line": "L16"
-  },
-  {
-   "w": "de",
-   "s": 70.124,
-   "e": 70.184,
-   "line": "L16"
-  },
-  {
-   "w": "garip",
-   "s": 70.264,
-   "e": 70.504,
-   "line": "L16"
-  },
-  {
-   "w": "bir",
-   "s": 70.544,
-   "e": 70.624,
-   "line": "L16"
-  },
-  {
-   "w": "şey",
-   "s": 70.704,
-   "e": 70.844,
-   "line": "L16"
-  },
-  {
-   "w": "var.",
-   "s": 70.924,
-   "e": 71.064,
-   "line": "L16"
-  },
-  {
-   "w": "Gökyüzü",
-   "s": 71.569,
-   "e": 71.969,
-   "line": "L17"
+   "w": "gökyüzü",
+   "s": 45.621,
+   "e": 45.981,
+   "line": "L13"
   },
   {
    "w": "masmavi",
-   "s": 72.029,
-   "e": 72.549,
-   "line": "L17"
+   "s": 46.021,
+   "e": 46.561,
+   "line": "L13"
   },
   {
    "w": "ama",
-   "s": 72.909,
-   "e": 73.029,
-   "line": "L17"
+   "s": 46.601,
+   "e": 46.801,
+   "line": "L13"
   },
   {
-   "w": "güneş",
-   "s": 73.089,
-   "e": 73.329,
-   "line": "L17"
-  },
-  {
-   "w": "panelleri",
-   "s": 73.409,
-   "e": 73.829,
-   "line": "L17"
+   "w": "paneller",
+   "s": 46.821,
+   "e": 47.301,
+   "line": "L13"
   },
   {
    "w": "yarı",
-   "s": 73.869,
-   "e": 74.049,
-   "line": "L17"
+   "s": 47.381,
+   "e": 47.561,
+   "line": "L13"
   },
   {
    "w": "yarıya",
-   "s": 74.089,
-   "e": 74.429,
-   "line": "L17"
-  },
-  {
-   "w": "az",
-   "s": 74.489,
-   "e": 74.589,
-   "line": "L17"
+   "s": 47.601,
+   "e": 47.881,
+   "line": "L13"
   },
   {
    "w": "üretiyor.",
-   "s": 74.629,
-   "e": 75.129,
-   "line": "L17"
+   "s": 47.921,
+   "e": 48.381,
+   "line": "L13"
   },
   {
    "w": "Güneş",
-   "s": 75.429,
-   "e": 75.689,
-   "line": "L17"
+   "s": 48.741,
+   "e": 49.001,
+   "line": "L13"
   },
   {
    "w": "sanki",
-   "s": 75.749,
-   "e": 76.009,
-   "line": "L17"
+   "s": 49.061,
+   "e": 49.301,
+   "line": "L13"
   },
   {
    "w": "kısılmış.",
-   "s": 76.089,
-   "e": 76.589,
-   "line": "L17"
+   "s": 49.361,
+   "e": 49.761,
+   "line": "L13"
   },
   {
-   "w": "Şirketi",
-   "s": 77.282,
-   "e": 77.582,
-   "line": "L18"
+   "w": "Kızılcahamam'daki",
+   "s": 50.335,
+   "e": 51.135,
+   "line": "L14"
   },
   {
-   "w": "satarken",
-   "s": 77.622,
-   "e": 78.162,
-   "line": "L18"
-  },
-  {
-   "w": "deneme",
-   "s": 78.202,
-   "e": 78.482,
-   "line": "L18"
-  },
-  {
-   "w": "çiftliğini",
-   "s": 78.522,
-   "e": 78.902,
-   "line": "L18"
+   "w": "çiftliği",
+   "s": 51.175,
+   "e": 51.475,
+   "line": "L14"
   },
   {
    "w": "satmamıştın.",
-   "s": 78.942,
-   "e": 79.542,
-   "line": "L18"
+   "s": 51.555,
+   "e": 52.175,
+   "line": "L14"
   },
   {
-   "w": "Rüzgâr",
-   "s": 79.882,
-   "e": 80.182,
-   "line": "L18"
-  },
-  {
-   "w": "türbinleri,",
-   "s": 80.262,
-   "e": 80.702,
-   "line": "L18"
+   "w": "Türbinler,",
+   "s": 52.595,
+   "e": 53.115,
+   "line": "L14"
   },
   {
    "w": "seralar,",
-   "s": 81.022,
-   "e": 81.422,
-   "line": "L18"
+   "s": 53.455,
+   "e": 53.915,
+   "line": "L14"
   },
   {
    "w": "kocaman",
-   "s": 81.722,
-   "e": 82.102,
-   "line": "L18"
+   "s": 54.295,
+   "e": 54.715,
+   "line": "L14"
   },
   {
    "w": "bir",
-   "s": 82.122,
-   "e": 82.182,
-   "line": "L18"
+   "s": 54.735,
+   "e": 54.795,
+   "line": "L14"
   },
   {
    "w": "depo.",
-   "s": 82.242,
-   "e": 82.462,
-   "line": "L18"
-  },
-  {
-   "w": "Hepsi",
-   "s": 82.842,
-   "e": 83.082,
-   "line": "L18"
-  },
-  {
-   "w": "senindi.",
-   "s": 83.162,
-   "e": 83.502,
-   "line": "L18"
+   "s": 54.855,
+   "e": 55.075,
+   "line": "L14"
   },
   {
    "w": "Aras,",
-   "s": 83.914,
-   "e": 84.194,
-   "line": "L19"
+   "s": 55.427,
+   "e": 55.707,
+   "line": "L15"
   },
   {
    "w": "Çınar",
-   "s": 84.474,
-   "e": 84.794,
-   "line": "L19"
+   "s": 55.967,
+   "e": 56.227,
+   "line": "L15"
   },
   {
    "w": "ve",
-   "s": 84.854,
-   "e": 84.934,
-   "line": "L19"
+   "s": 56.307,
+   "e": 56.367,
+   "line": "L15"
   },
   {
    "w": "sen.",
-   "s": 85.054,
-   "e": 85.254,
-   "line": "L19"
+   "s": 56.467,
+   "e": 56.687,
+   "line": "L15"
   },
   {
    "w": "Üçünüzün",
-   "s": 85.634,
-   "e": 86.094,
-   "line": "L19"
+   "s": 57.047,
+   "e": 57.447,
+   "line": "L15"
   },
   {
    "w": "de",
-   "s": 86.134,
-   "e": 86.194,
-   "line": "L19"
+   "s": 57.487,
+   "e": 57.587,
+   "line": "L15"
   },
   {
    "w": "kimsesi",
-   "s": 86.254,
-   "e": 86.654,
-   "line": "L19"
+   "s": 57.627,
+   "e": 57.987,
+   "line": "L15"
   },
   {
    "w": "yok.",
-   "s": 86.674,
-   "e": 86.834,
-   "line": "L19"
-  },
-  {
-   "w": "Sadece",
-   "s": 87.294,
-   "e": 87.694,
-   "line": "L19"
-  },
-  {
-   "w": "birbiriniz",
-   "s": 87.734,
-   "e": 88.274,
-   "line": "L19"
-  },
-  {
-   "w": "varsınız.",
-   "s": 88.294,
-   "e": 88.754,
-   "line": "L19"
-  },
-  {
-   "w": "Çınar'ı",
-   "s": 89.282,
-   "e": 89.642,
-   "line": "L20"
-  },
-  {
-   "w": "aradın.",
-   "s": 89.642,
-   "e": 89.982,
-   "line": "L20"
-  },
-  {
-   "w": "Kanka,",
-   "s": 91.062,
-   "e": 91.282,
-   "line": "L21"
-  },
-  {
-   "w": "ben",
-   "s": 91.382,
-   "e": 91.542,
-   "line": "L21"
-  },
-  {
-   "w": "de",
-   "s": 91.582,
-   "e": 91.642,
-   "line": "L21"
-  },
-  {
-   "w": "tam",
-   "s": 91.722,
-   "e": 91.882,
-   "line": "L21"
-  },
-  {
-   "w": "seni",
-   "s": 91.962,
-   "e": 92.142,
-   "line": "L21"
-  },
-  {
-   "w": "arayacaktım.",
-   "s": 92.182,
-   "e": 92.702,
-   "line": "L21"
-  },
-  {
-   "w": "Bu",
-   "s": 92.862,
-   "e": 92.922,
-   "line": "L21"
-  },
-  {
-   "w": "soğuk",
-   "s": 93.022,
-   "e": 93.282,
-   "line": "L21"
-  },
-  {
-   "w": "normal",
-   "s": 93.322,
-   "e": 93.662,
-   "line": "L21"
-  },
-  {
-   "w": "değil,",
-   "s": 93.722,
-   "e": 93.902,
-   "line": "L21"
-  },
-  {
-   "w": "değil",
-   "s": 93.962,
-   "e": 94.182,
-   "line": "L21"
-  },
-  {
-   "w": "mi?",
-   "s": 94.222,
-   "e": 94.322,
-   "line": "L21"
+   "s": 58.027,
+   "e": 58.167,
+   "line": "L15"
   },
   {
    "w": "Akşam",
-   "s": 95.739,
-   "e": 96.039,
-   "line": "L22"
-  },
-  {
-   "w": "yedide",
-   "s": 96.119,
-   "e": 96.539,
-   "line": "L22"
+   "s": 59.255,
+   "e": 59.515,
+   "line": "L16"
   },
   {
    "w": "Çınar",
-   "s": 96.599,
-   "e": 96.839,
-   "line": "L22"
+   "s": 59.595,
+   "e": 59.855,
+   "line": "L16"
   },
   {
-   "w": "kapıdaydı.",
-   "s": 96.899,
-   "e": 97.359,
-   "line": "L22"
+   "w": "elinde",
+   "s": 59.895,
+   "e": 60.195,
+   "line": "L16"
   },
   {
-   "w": "Elinde",
-   "s": 97.779,
-   "e": 98.099,
-   "line": "L22"
+   "w": "poşetler",
+   "s": 60.235,
+   "e": 60.695,
+   "line": "L16"
   },
   {
-   "w": "iki",
-   "s": 98.139,
-   "e": 98.259,
-   "line": "L22"
-  },
-  {
-   "w": "poşet,",
-   "s": 98.339,
-   "e": 98.679,
-   "line": "L22"
-  },
-  {
-   "w": "bir",
-   "s": 99.099,
-   "e": 99.159,
-   "line": "L22"
-  },
-  {
-   "w": "de",
-   "s": 99.219,
-   "e": 99.399,
-   "line": "L22"
+   "w": "ve",
+   "s": 60.975,
+   "e": 61.075,
+   "line": "L16"
   },
   {
    "w": "düdüklü",
-   "s": 99.419,
-   "e": 99.779,
-   "line": "L22"
+   "s": 61.195,
+   "e": 61.575,
+   "line": "L16"
   },
   {
-   "w": "tencere.",
-   "s": 99.819,
-   "e": 100.199,
-   "line": "L22"
+   "w": "tencereyle",
+   "s": 61.615,
+   "e": 62.095,
+   "line": "L16"
   },
   {
-   "w": "Senin",
-   "s": 100.587,
-   "e": 100.807,
-   "line": "L23"
-  },
-  {
-   "w": "buzdolabında",
-   "s": 100.847,
-   "e": 101.567,
-   "line": "L23"
-  },
-  {
-   "w": "yumurtayla",
-   "s": 101.607,
-   "e": 102.167,
-   "line": "L23"
-  },
-  {
-   "w": "yoğurttan",
-   "s": 102.207,
-   "e": 102.627,
-   "line": "L23"
-  },
-  {
-   "w": "başka",
-   "s": 102.667,
-   "e": 102.947,
-   "line": "L23"
-  },
-  {
-   "w": "bir",
-   "s": 102.987,
-   "e": 103.047,
-   "line": "L23"
-  },
-  {
-   "w": "şey",
-   "s": 103.107,
-   "e": 103.247,
-   "line": "L23"
-  },
-  {
-   "w": "olmadığını",
-   "s": 103.307,
-   "e": 103.747,
-   "line": "L23"
-  },
-  {
-   "w": "biliyorum.",
-   "s": 103.767,
-   "e": 104.247,
-   "line": "L23"
+   "w": "geldi.",
+   "s": 62.155,
+   "e": 62.395,
+   "line": "L16"
   },
   {
    "w": "Mercimek",
-   "s": 104.742,
-   "e": 105.142,
-   "line": "L24"
+   "s": 62.749,
+   "e": 63.149,
+   "line": "L17"
   },
   {
-   "w": "çorbasının",
-   "s": 105.222,
-   "e": 105.682,
-   "line": "L24"
+   "w": "çorbası",
+   "s": 63.189,
+   "e": 63.569,
+   "line": "L17"
   },
   {
-   "w": "kokusu",
-   "s": 105.722,
-   "e": 106.022,
-   "line": "L24"
-  },
-  {
-   "w": "evi",
-   "s": 106.082,
-   "e": 106.182,
-   "line": "L24"
-  },
-  {
-   "w": "sardı.",
-   "s": 106.262,
-   "e": 106.542,
-   "line": "L24"
+   "w": "kaynarken",
+   "s": 63.589,
+   "e": 64.109,
+   "line": "L17"
   },
   {
    "w": "Aras",
-   "s": 107.022,
-   "e": 107.222,
-   "line": "L24"
+   "s": 64.289,
+   "e": 64.509,
+   "line": "L17"
   },
   {
    "w": "görüntülü",
-   "s": 107.302,
-   "e": 107.682,
-   "line": "L24"
+   "s": 64.569,
+   "e": 64.989,
+   "line": "L17"
   },
   {
-   "w": "aramadaydı.",
-   "s": 107.742,
-   "e": 108.262,
-   "line": "L24"
+   "w": "aradı.",
+   "s": 65.049,
+   "e": 65.269,
+   "line": "L17"
   },
   {
-   "w": "Haberler",
-   "s": 108.896,
-   "e": 109.336,
-   "line": "L25"
-  },
-  {
-   "w": "hâlâ",
-   "s": 109.476,
-   "e": 109.856,
-   "line": "L25"
-  },
-  {
-   "w": "soğuk",
-   "s": 109.996,
-   "e": 110.216,
-   "line": "L25"
-  },
-  {
-   "w": "hava",
-   "s": 110.236,
-   "e": 110.416,
-   "line": "L25"
-  },
-  {
-   "w": "dalgası",
-   "s": 110.456,
-   "e": 110.836,
-   "line": "L25"
-  },
-  {
-   "w": "diyordu.",
-   "s": 110.896,
-   "e": 111.236,
-   "line": "L25"
-  },
-  {
-   "w": "Ama",
-   "s": 111.696,
-   "e": 111.916,
-   "line": "L25"
-  },
-  {
-   "w": "Aras'ın",
-   "s": 111.996,
-   "e": 112.316,
-   "line": "L25"
-  },
-  {
-   "w": "grafiği",
-   "s": 112.396,
-   "e": 112.776,
-   "line": "L25"
-  },
-  {
-   "w": "başka",
-   "s": 112.895,
-   "e": 113.196,
-   "line": "L25"
-  },
-  {
-   "w": "bir",
-   "s": 113.236,
-   "e": 113.316,
-   "line": "L25"
-  },
-  {
-   "w": "şey",
-   "s": 113.356,
-   "e": 113.476,
-   "line": "L25"
-  },
-  {
-   "w": "söylüyordu.",
-   "s": 113.576,
-   "e": 114.076,
-   "line": "L25"
-  },
-  {
-   "w": "Çiftliğin",
-   "s": 114.472,
-   "e": 114.892,
-   "line": "L26"
-  },
-  {
-   "w": "hava",
-   "s": 114.992,
-   "e": 115.212,
-   "line": "L26"
-  },
-  {
-   "w": "istasyonu",
-   "s": 115.252,
-   "e": 115.812,
-   "line": "L26"
-  },
-  {
-   "w": "bütün",
-   "s": 115.832,
-   "e": 116.192,
-   "line": "L26"
+   "w": "Bütün",
+   "s": 65.611,
+   "e": 65.831,
+   "line": "L18"
   },
   {
    "w": "gün",
-   "s": 116.272,
-   "e": 116.412,
-   "line": "L26"
+   "s": 65.851,
+   "e": 65.951,
+   "line": "L18"
   },
   {
-   "w": "güneşi",
-   "s": 116.492,
-   "e": 116.832,
-   "line": "L26"
-  },
-  {
-   "w": "ölçtü.",
-   "s": 116.872,
-   "e": 117.132,
-   "line": "L26"
+   "w": "ölçtüm.",
+   "s": 66.011,
+   "e": 66.311,
+   "line": "L18"
   },
   {
    "w": "Gelen",
-   "s": 117.532,
-   "e": 117.832,
-   "line": "L26"
+   "s": 66.671,
+   "e": 66.891,
+   "line": "L18"
   },
   {
    "w": "ışık",
-   "s": 117.892,
-   "e": 118.152,
-   "line": "L26"
-  },
-  {
-   "w": "normalin",
-   "s": 118.252,
-   "e": 118.712,
-   "line": "L26"
-  },
-  {
-   "w": "yarısı.",
-   "s": 118.772,
-   "e": 119.132,
-   "line": "L26"
-  },
-  {
-   "w": "Ve",
-   "s": 119.552,
-   "e": 119.632,
-   "line": "L26"
+   "s": 66.931,
+   "e": 67.191,
+   "line": "L18"
   },
   {
    "w": "her",
-   "s": 119.732,
-   "e": 119.872,
-   "line": "L26"
+   "s": 67.231,
+   "e": 67.391,
+   "line": "L18"
   },
   {
    "w": "saat",
-   "s": 119.992,
-   "e": 120.232,
-   "line": "L26"
-  },
-  {
-   "w": "azalıyor.",
-   "s": 120.312,
-   "e": 120.792,
-   "line": "L26"
-  },
-  {
-   "w": "Güneş",
-   "s": 121.482,
-   "e": 121.742,
-   "line": "L27"
-  },
-  {
-   "w": "azalırsa",
-   "s": 121.802,
-   "e": 122.202,
-   "line": "L27"
-  },
-  {
-   "w": "ne",
-   "s": 122.242,
-   "e": 122.342,
-   "line": "L27"
-  },
-  {
-   "w": "olur?",
-   "s": 122.402,
-   "e": 122.602,
-   "line": "L27"
-  },
-  {
-   "w": "Hesabı",
-   "s": 123.031,
-   "e": 123.371,
-   "line": "L28"
-  },
-  {
-   "w": "yüksek",
-   "s": 123.411,
-   "e": 123.691,
-   "line": "L28"
-  },
-  {
-   "w": "sesle",
-   "s": 123.751,
-   "e": 124.031,
-   "line": "L28"
-  },
-  {
-   "w": "yaptın.",
-   "s": 124.071,
-   "e": 124.351,
-   "line": "L28"
-  },
-  {
-   "w": "Güneş",
-   "s": 124.671,
-   "e": 124.891,
-   "line": "L28"
-  },
-  {
-   "w": "kısılırsa",
-   "s": 124.971,
-   "e": 125.451,
-   "line": "L28"
-  },
-  {
-   "w": "dünya",
-   "s": 125.531,
-   "e": 125.811,
-   "line": "L28"
-  },
-  {
-   "w": "her",
-   "s": 125.851,
-   "e": 125.991,
-   "line": "L28"
-  },
-  {
-   "w": "gün",
-   "s": 126.051,
-   "e": 126.171,
-   "line": "L28"
+   "s": 67.491,
+   "e": 67.731,
+   "line": "L18"
   },
   {
    "w": "biraz",
-   "s": 126.211,
-   "e": 126.471,
-   "line": "L28"
+   "s": 67.791,
+   "e": 68.031,
+   "line": "L18"
   },
   {
    "w": "daha",
-   "s": 126.491,
-   "e": 126.631,
-   "line": "L28"
+   "s": 68.091,
+   "e": 68.331,
+   "line": "L18"
   },
   {
-   "w": "soğur.",
-   "s": 126.731,
-   "e": 126.931,
-   "line": "L28"
+   "w": "azalıyor.",
+   "s": 68.371,
+   "e": 68.831,
+   "line": "L18"
   },
   {
    "w": "Bugün",
-   "s": 127.26,
-   "e": 127.5,
-   "line": "L29"
+   "s": 69.412,
+   "e": 69.692,
+   "line": "L19"
   },
   {
    "w": "on",
-   "s": 127.64,
-   "e": 127.72,
-   "line": "L29"
+   "s": 69.772,
+   "e": 69.892,
+   "line": "L19"
+  },
+  {
+   "w": "bir",
+   "s": 69.932,
+   "e": 69.992,
+   "line": "L19"
   },
   {
    "w": "derece",
-   "s": 127.78,
-   "e": 128.06,
-   "line": "L29"
+   "s": 70.052,
+   "e": 70.312,
+   "line": "L19"
   },
   {
    "w": "düştü.",
-   "s": 128.12,
-   "e": 128.4,
-   "line": "L29"
+   "s": 70.352,
+   "e": 70.612,
+   "line": "L19"
   },
   {
    "w": "Yarın",
-   "s": 128.8,
-   "e": 129.1,
-   "line": "L29"
+   "s": 71.012,
+   "e": 71.212,
+   "line": "L19"
   },
   {
-   "w": "bir",
-   "s": 129.16,
-   "e": 129.34,
-   "line": "L29"
+   "w": "belki",
+   "s": 71.252,
+   "e": 71.472,
+   "line": "L19"
+  },
+  {
+   "w": "dokuz,",
+   "s": 71.532,
+   "e": 71.832,
+   "line": "L19"
+  },
+  {
+   "w": "belki",
+   "s": 72.092,
+   "e": 72.352,
+   "line": "L19"
   },
   {
    "w": "on",
-   "s": 129.4,
-   "e": 129.52,
-   "line": "L29"
+   "s": 72.392,
+   "e": 72.492,
+   "line": "L19"
   },
   {
-   "w": "derece",
-   "s": 129.6,
-   "e": 129.9,
-   "line": "L29"
-  },
-  {
-   "w": "daha.",
-   "s": 129.96,
-   "e": 130.14,
-   "line": "L29"
-  },
-  {
-   "w": "Bu",
-   "s": 130.623,
-   "e": 130.683,
-   "line": "L30"
-  },
-  {
-   "w": "bir",
-   "s": 130.743,
-   "e": 130.863,
-   "line": "L30"
-  },
-  {
-   "w": "hava",
-   "s": 130.903,
-   "e": 131.083,
-   "line": "L30"
-  },
-  {
-   "w": "olayı",
-   "s": 131.123,
-   "e": 131.323,
-   "line": "L30"
-  },
-  {
-   "w": "değil",
-   "s": 131.383,
-   "e": 131.563,
-   "line": "L30"
-  },
-  {
-   "w": "kanka.",
-   "s": 131.623,
-   "e": 131.863,
-   "line": "L30"
-  },
-  {
-   "w": "Haberlerde",
-   "s": 132.494,
-   "e": 132.954,
-   "line": "L31"
-  },
-  {
-   "w": "kimse",
-   "s": 133.014,
-   "e": 133.274,
-   "line": "L31"
-  },
-  {
-   "w": "bundan",
-   "s": 133.314,
-   "e": 133.554,
-   "line": "L31"
-  },
-  {
-   "w": "bahsetmiyordu.",
-   "s": 133.574,
-   "e": 134.174,
-   "line": "L31"
-  },
-  {
-   "w": "Henüz.",
-   "s": 134.594,
-   "e": 134.954,
-   "line": "L31"
-  },
-  {
-   "w": "Kimse",
-   "s": 135.418,
-   "e": 135.738,
-   "line": "L32"
-  },
-  {
-   "w": "fark",
-   "s": 135.758,
-   "e": 135.978,
-   "line": "L32"
-  },
-  {
-   "w": "etmeden",
-   "s": 136.018,
-   "e": 136.358,
-   "line": "L32"
-  },
-  {
-   "w": "hazırlanırsak,",
-   "s": 136.398,
-   "e": 137.098,
-   "line": "L32"
-  },
-  {
-   "w": "herkesten",
-   "s": 137.278,
-   "e": 137.798,
-   "line": "L32"
-  },
-  {
-   "w": "önde",
-   "s": 137.858,
-   "e": 138.018,
-   "line": "L32"
-  },
-  {
-   "w": "oluruz.",
-   "s": 138.078,
-   "e": 138.438,
-   "line": "L32"
+   "w": "dört.",
+   "s": 72.532,
+   "e": 72.712,
+   "line": "L19"
   },
   {
    "w": "Ama",
-   "s": 138.837,
-   "e": 138.977,
-   "line": "L33"
+   "s": 73.132,
+   "e": 73.312,
+   "line": "L19"
+  },
+  {
+   "w": "hep",
+   "s": 73.352,
+   "e": 73.492,
+   "line": "L19"
+  },
+  {
+   "w": "aşağı.",
+   "s": 73.552,
+   "e": 73.832,
+   "line": "L19"
+  },
+  {
+   "w": "Bu",
+   "s": 74.231,
+   "e": 74.291,
+   "line": "L20"
+  },
+  {
+   "w": "bir",
+   "s": 74.331,
+   "e": 74.451,
+   "line": "L20"
+  },
+  {
+   "w": "hava",
+   "s": 74.491,
+   "e": 74.671,
+   "line": "L20"
+  },
+  {
+   "w": "olayı",
+   "s": 74.711,
+   "e": 74.911,
+   "line": "L20"
+  },
+  {
+   "w": "değil",
+   "s": 74.951,
+   "e": 75.151,
+   "line": "L20"
+  },
+  {
+   "w": "kanka.",
+   "s": 75.231,
+   "e": 75.511,
+   "line": "L20"
+  },
+  {
+   "w": "Kimse",
+   "s": 76.128,
+   "e": 76.428,
+   "line": "L21"
+  },
+  {
+   "w": "fark",
+   "s": 76.468,
+   "e": 76.668,
+   "line": "L21"
+  },
+  {
+   "w": "etmeden",
+   "s": 76.728,
+   "e": 77.048,
+   "line": "L21"
+  },
+  {
+   "w": "hazırlanırsak",
+   "s": 77.088,
+   "e": 77.768,
+   "line": "L21"
+  },
+  {
+   "w": "herkesten",
+   "s": 77.928,
+   "e": 78.428,
+   "line": "L21"
+  },
+  {
+   "w": "önde",
+   "s": 78.508,
+   "e": 78.668,
+   "line": "L21"
+  },
+  {
+   "w": "oluruz.",
+   "s": 78.728,
+   "e": 79.088,
+   "line": "L21"
+  },
+  {
+   "w": "Ama",
+   "s": 79.426,
+   "e": 79.566,
+   "line": "L22"
   },
   {
    "w": "bu,",
-   "s": 139.057,
-   "e": 139.137,
-   "line": "L33"
+   "s": 79.646,
+   "e": 79.886,
+   "line": "L22"
   },
   {
    "w": "herkesi",
-   "s": 139.617,
-   "e": 139.957,
-   "line": "L33"
+   "s": 79.946,
+   "e": 80.466,
+   "line": "L22"
   },
   {
    "w": "kendi",
-   "s": 140.037,
-   "e": 140.257,
-   "line": "L33"
+   "s": 80.526,
+   "e": 80.786,
+   "line": "L22"
   },
   {
    "w": "kaderine",
-   "s": 140.317,
-   "e": 140.657,
-   "line": "L33"
+   "s": 80.806,
+   "e": 81.146,
+   "line": "L22"
   },
   {
    "w": "bırakmak",
-   "s": 140.697,
-   "e": 141.037,
-   "line": "L33"
+   "s": 81.206,
+   "e": 81.586,
+   "line": "L22"
   },
   {
    "w": "demekti.",
-   "s": 141.077,
-   "e": 141.397,
-   "line": "L33"
+   "s": 81.646,
+   "e": 81.986,
+   "line": "L22"
   },
   {
    "w": "Sessizce",
-   "s": 142.266,
-   "e": 142.706,
-   "line": "L34"
+   "s": 82.977,
+   "e": 83.517,
+   "line": "L23"
   },
   {
    "w": "hazırlanıyor",
-   "s": 142.746,
-   "e": 143.286,
-   "line": "L34"
+   "s": 83.537,
+   "e": 84.097,
+   "line": "L23"
   },
   {
    "w": "musun,",
-   "s": 143.326,
-   "e": 143.566,
-   "line": "L34"
+   "s": 84.137,
+   "e": 84.497,
+   "line": "L23"
   },
   {
    "w": "yoksa",
-   "s": 143.946,
-   "e": 144.306,
-   "line": "L34"
+   "s": 84.877,
+   "e": 85.257,
+   "line": "L23"
   },
   {
    "w": "herkesi",
-   "s": 144.366,
-   "e": 144.786,
-   "line": "L34"
+   "s": 85.297,
+   "e": 85.717,
+   "line": "L23"
   },
   {
    "w": "uyarıyor",
-   "s": 144.826,
-   "e": 145.146,
-   "line": "L34"
+   "s": 85.757,
+   "e": 86.117,
+   "line": "L23"
   },
   {
    "w": "musun?",
-   "s": 145.206,
-   "e": 145.446,
-   "line": "L34"
+   "s": 86.157,
+   "e": 86.417,
+   "line": "L23"
+  },
+  {
+   "w": "Susarsan",
+   "s": 87.191,
+   "e": 87.731,
+   "line": "L24"
+  },
+  {
+   "w": "kilerin",
+   "s": 87.831,
+   "e": 88.151,
+   "line": "L24"
+  },
+  {
+   "w": "dört",
+   "s": 88.251,
+   "e": 88.451,
+   "line": "L24"
+  },
+  {
+   "w": "ay",
+   "s": 88.511,
+   "e": 88.611,
+   "line": "L24"
+  },
+  {
+   "w": "yeter.",
+   "s": 88.651,
+   "e": 88.911,
+   "line": "L24"
+  },
+  {
+   "w": "Ama",
+   "s": 89.431,
+   "e": 89.551,
+   "line": "L24"
+  },
+  {
+   "w": "bir",
+   "s": 89.611,
+   "e": 89.691,
+   "line": "L24"
+  },
+  {
+   "w": "gün",
+   "s": 89.731,
+   "e": 89.851,
+   "line": "L24"
+  },
+  {
+   "w": "biri",
+   "s": 89.911,
+   "e": 90.051,
+   "line": "L24"
+  },
+  {
+   "w": "sana,",
+   "s": 90.131,
+   "e": 90.331,
+   "line": "L24"
+  },
+  {
+   "w": "biliyordun,",
+   "s": 90.611,
+   "e": 91.111,
+   "line": "L24"
+  },
+  {
+   "w": "diyecek.",
+   "s": 91.291,
+   "e": 91.611,
+   "line": "L24"
+  },
+  {
+   "w": "Uyarırsan",
+   "s": 91.983,
+   "e": 92.603,
+   "line": "L25"
+  },
+  {
+   "w": "birkaç",
+   "s": 92.683,
+   "e": 93.003,
+   "line": "L25"
+  },
+  {
+   "w": "kişi",
+   "s": 93.083,
+   "e": 93.263,
+   "line": "L25"
+  },
+  {
+   "w": "kurtulur.",
+   "s": 93.343,
+   "e": 93.723,
+   "line": "L25"
+  },
+  {
+   "w": "Ama",
+   "s": 94.203,
+   "e": 94.323,
+   "line": "L25"
+  },
+  {
+   "w": "paniği",
+   "s": 94.403,
+   "e": 94.703,
+   "line": "L25"
+  },
+  {
+   "w": "sen",
+   "s": 94.743,
+   "e": 94.903,
+   "line": "L25"
+  },
+  {
+   "w": "başlatırsın.",
+   "s": 94.943,
+   "e": 95.543,
+   "line": "L25"
   }
  ],
  "cues": [
   {
    "fx": "tv_jingle",
-   "t": 17.267,
+   "t": 14.203,
    "slot": "tv"
   },
   {
    "fx": "slot_tv",
-   "t": 17.267,
-   "d": 0.7
+   "t": 14.203,
+   "d": 0.55
   },
   {
    "fx": "arama_ton",
-   "t": 65.884,
+   "t": 44.201,
    "slot": "arama"
   },
   {
    "fx": "slot_arama",
-   "t": 65.884,
-   "d": 0.8
-  },
-  {
-   "fx": "arama_ton",
-   "t": 90.062,
-   "slot": "arama2"
-  },
-  {
-   "fx": "slot_arama2",
-   "t": 90.062,
-   "d": 0.7
+   "t": 44.201,
+   "d": 0.6
   },
   {
    "fx": "kapi_zil",
-   "t": 94.719,
+   "t": 58.655,
    "slot": "zil"
   },
   {
    "fx": "slot_zil",
-   "t": 94.619,
-   "d": 0.8
+   "t": 58.605,
+   "d": 0.55
   }
  ],
  "rules_title": "",
