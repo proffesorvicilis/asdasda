@@ -1,0 +1,1 @@
+{"words": [{"text": "Biri", "start": 0.12, "end": 0.36, "type": "word", "logprob": -7.658192703274835e-05}, {"text": "kapıyı", "start": 0.46, "end": 0.86, "type": "word", "logprob": -6.0853786635561846e-05}, {"text": "çalıyor", "start": 0.96, "end": 1.5, "type": "word", "logprob": -0.00016131143352790138}], "stt": "Biri kapıyı çalıyor", "score": 1.0}
