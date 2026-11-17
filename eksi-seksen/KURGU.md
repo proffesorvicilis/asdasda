@@ -1,194 +1,256 @@
-# EKSİ SEKSEN · Kızılcahamam'daki Çiftlik
+# EKSİ SEKSEN · Perde
 
-Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~85 sn · "sen" anlatımı · her bölümün sonunda izleyici seçiyor
+Tuhaf Saat Hikâyeleri'nin yeni serisi · 9 bölüm · her biri ~140 sn · "sen" anlatımı · her bölümün sonunda izleyici seçiyor
 
-**Tek cümlede:** Ankara'da ılık bir kış günü hava bir gecede sıfıra, ertesi gece eksi ona düşüyor. Bir terslik olduğunu ilk sen fark ediyorsun. İki mühendis arkadaşınla Kızılcahamam'daki çiftliğine kapanıyorsun. Dışarıda dünya donarken siz sobanın başında plan yapıyorsunuz.
+**Tek cümlede:** Ankara'da bir sabah hava on derece düşüyor; herkes soğuk hava dalgası sanıyor. Gece haberlerde gerçek ortaya çıkıyor: Güneş Sistemi bir toz bulutuna girmiş, güneş ışığı her gün biraz daha perdeleniyor. Sıcaklık her gün on derece düşecek. Sen ve iki mühendis arkadaşın Kızılcahamam'daki çiftliğe kapanıyorsunuz.
 
-**Hissi:** Soğuğun içinde sıcaklık. İzleyici her bölümde "ben olsam şöyle yapardım" demeli, "keşke ben de o sobanın başında olsaydım" diye düşünmeli. Korku arka planda kalıyor: haberler, donan şehirler, ölen insanlar. Ama sizin çiftlikte çay demleniyor.
+**Hissi:** Soğuğun içinde sıcaklık. İzleyici "ben olsam şöyle yapardım", "keşke ben de o sobanın başında olsaydım" demeli. Dünya haberlerden çöküyor ama çiftlikte çay demleniyor, plan yapılıyor, iş bölümü var. Her şey adım adım ve mantıklı ilerliyor; kimse bir anda saçma bir şey yapmıyor.
 
-## Dünyanın kuralı
+## Olay: Perde
 
-- Her gece aynı dakikada, saat 04.17'de, sıcaklık tam on derece düşüyor. Dünyanın her yerinde, aynı anda.
-- Gündüz bir derece bile yükselmiyor. Neden olduğunu kimse bilmiyor, hikâye de açıklamıyor.
-- İlk gece +10'dan 0'a, sonra −10, −20... Dokuzuncu gece −80.
+- **18 Aralık sabahı:** Ankara'da hava bir gecede on derece düşüyor (+10'dan 0'a). Haberler "Sibirya kaynaklı soğuk hava dalgası" diyor.
+- **Gün içindeki tuhaflıklar:** Güneş tepede ama ısıtmıyor; soluk, eski bir ampul gibi. Öğlen olmasına rağmen sıcaklık bir derece bile yükselmiyor. Soğuma aynı anda Avrupa'da, Asya'da, Amerika'da da yaşanıyor. Güneş panelleri açık havada yarı yarıya üretiyor.
+- **Aynı gece 23.40'ta son dakika:** NASA ve Avrupa Uzay Ajansı ortak açıklama yapıyor. Güneş Sistemi yıldızlararası bir toz bulutuna girmiş ve bulut güneş ışığını perdeliyor.
+  - Sıcaklıklar her gün yaklaşık on derece düşecek.
+  - Bulutun en yoğun kısmına sekiz gün içinde ulaşılacak; en düşük sıcaklık −80 civarında bekleniyor.
+  - Etki en az üç ay sürecek.
+- Sosyal medya buluta hemen bir isim veriyor: **Perde**. Gece yıldızlar görünmüyor; Perde onları da alıyor.
+- **Takvim:** Gün 1 0°, Gün 2 −10°, Gün 3 −20° ... Gün 9 −80°. Sonrasında aylarca karanlık ve soğuk.
 
 ## Mekân
 
-**Ankara:** Çankaya'da, şehre bakan bir sitenin en üst katında yaşıyorsun.
+- **Ankara:** Çankaya'da, şehre bakan modern bir sitenin en üst katında yaşıyorsun.
+- **Çiftlik:** Kızılcahamam'da, Ankara'nın 75 km kuzeyinde, çam ormanının içinde.
+  - Aras ve Çınar'la kurduğunuz akıllı tarım şirketinin deneme çiftliği. İki yıl önce şirketi sattın ama çiftliği satmadın. Aras hâlâ orada yaşıyor ve sistemlere bakıyor.
 
-**Çiftlik:** Kızılcahamam'da, Ankara'nın 75 km kuzeyinde. Çam ormanının içinde 200 dönüm; taş bir ev, ahır, iki sera ve ambar var. Beş yıl önce aldın, hafta sonları kaçtığın yer. Her şeyi kendin kurdurdun; arkadaşların "abi kıyamet mi kopacak" diye gülerdi.
+**Çiftlikte olanlar (normal bir kış için):**
 
-- **Termal kuyu:** Yerin altından 60 derece termal su çıkıyor. Ev ve seralar yerden ısınıyor; bahçede dumanı tüten küçük bir termal havuz var.
-- **Elektrik:** Tepede 3 rüzgâr türbini (toplam 60 kW), ambarın çatısında güneş panelleri, bodrumda batarya odası ve iki jeneratör.
-- **Isı:** İki döküm soba, bir şömine, taş fırın. Odunlukta 20 ster odun var; normal bir kışa yeter.
-- **Kiler:** 40 kavanoz kavurma, tarhana, erişte, salça, turşu, pekmez, bal, tulum peyniri, bulgur, pirinç, kuru fasulye, nohut, mercimek, patates ve soğan çuvalları.
-- **Sera ve ahır:** Domates, biber, marul, maydanoz, nane; dışarısı ne olursa olsun içerisi +24. Ahırda 2 inek ve 30 tavuk.
-- **Haberleşme:** Uydu çanaklı televizyon, radyo, telsiz.
-- **Güvenlik ve araçlar:** Taş duvar ve çit, birkaç kamera, kar küreme bıçaklı traktör, 4x4 pikap. Kerem'in Kangal'ı Paşa da burada.
+- **Termal kuyu:** Yerin altından 60 derece su çıkıyor. Ev yerden ısınıyor; bahçede dumanı tüten küçük bir havuz var.
+- **Elektrik:** Tepede 3 rüzgâr türbini, güneş panelleri, bataryalar ve bir jeneratör.
+- **Seralar:** LED ışıkla çalışan iki akıllı sera: domates, salatalık, biber, marul, çilek. Güneş kısılsa da seralar kendi güneşini yapıyor.
+- **Büyük depo:** Şirketten kalan tohum stoğu, yedek parçalar, borular, pompalar, aletler.
+- **Kiler, ısı ve yakıt:** Kilerde normal bir evin kışlığı var. Odunlukta 15 ster odun, tankta 2 ton mazot. İçeride iki soba ve bir şömine.
+- **Ahır:** Tavuklar. Bir de Aras'ın Kangal'ı Zeus.
 
 ## Karakterler
 
-Üçünün de kimsesi yok. Sadece birbirleri var.
+Üçünün de kimsesi yok. Sadece birbirleri var. Birbirlerine "kanka" diyorlar.
 
-- **Sen (39):** Kurduğun yazılım şirketini sattın, zenginsin. Annenle babanı yıllar önce kaybettin, evlenmedin. Sakin, planlı, gözlemci; herkesten önce fark eden sensin.
-- **Kerem (34):** Elektrik-elektronik mühendisi. Senin çiftliğinde yaşıyor ve çalışıyor; türbinleri, panelleri, bataryaları, kameraları o kurdu. Esprili, "hallederiz abi" adamı.
-- **Mert (36):** Makine mühendisi, Ankara'da yaşıyor. Isıtma, su, motorlar onun işi. Ve harika bir aşçı.
-- İkisi de sana "abi" diyor.
-- **Paşa:** Kerem'in Kangal'ı. Dışarıdaki her şeyi herkesten önce duyuyor.
-- **Sonradan gelenler:** Ece (5. bölümde çiftliğe sığınan genç doktor), Hüsnü Dayı (yaşlı komşu çoban), Kenan (kasabada yakıta el koyan adam ve grubu).
+- **Sen (33):** Şirketini satıp zengin oldun. Annenle babanı yıllar önce kaybettin, yalnız yaşıyorsun. Sakin, gözlemci, planlı.
+- **Aras (32):** Elektrik-elektronik mühendisi. Çiftlikte yaşıyor; türbinler, paneller, bataryalar, kameralar ve internet onun işi. Sessiz, işini bilen.
+- **Çınar (34):** Makine mühendisi, Ankara'da yaşıyor. Isıtma, su, motorlar ondan sorulur. Ve harika bir aşçı; espriler hep ondan çıkar.
+- **Zeus:** Aras'ın Kangal'ı.
+- **Asya (28):** Kızılcahamam Devlet Hastanesi'nde doktor. 5. günde çiftliğe sığınıyor; onu aranıza alıyorsunuz.
+- **Tolga:** Kasabada yakıta ve en büyük termal otele el koyan grubun başı.
 
 ## Ekranda (aşamalar)
 
-- **Üst satır:** **GÜN 2 · ÇİFTLİK**, dokuz nokta, büyük dış sıcaklık (−10°C) ve saat. Her sahnede saat değişiyor; izleyici günü saat saat yaşıyor.
-- **Çiftlik paneli:** **İÇERİSİ +22°C · SERA +24°C · ODUN 20 STER · KİLER 14 AY · ELEKTRİK 60 kW**. Seçimler ve işler bu sayıları değiştiriyor.
-- **Plan listesi:** Plan sahnelerinde ekranda yapılacaklar listesi beliriyor, bölüm bölüm işaretleniyor: ☐ Isı · ☐ Su · ☐ Elektrik · ☐ Yiyecek · ☐ Güvenlik · ☐ Haberler.
-- **Renkler:** Dışarısı buz mavisi; içerisi soba ateşinin turuncusu; sera ve termal havuz buharlı, sıcak yeşil.
-- **İmza sahnesi:** Her bölümde 04.17. Sayı on derece düşüyor, camlara buz çiçekleri yayılıyor, ormanda ağaçlar tüfek sesi gibi çatlıyor.
+- **Üst satır:** **GÜN 2 · ÇİFTLİK**, dokuz nokta, büyük dış sıcaklık (−10°C) ve saat. Saat her sahnede değişiyor; izleyici günü saat saat yaşıyor.
+- **Çiftlik paneli:** **İÇERİSİ +22 · SERA +24 · ODUN 15 STER · MAZOT 2 TON · KİLER 2 AY · PERDE: 7 GÜN**
+- **Plan tahtası:** Yapılacaklar listesi beliriyor ve bölüm bölüm işaretleniyor: ☐ ISI · ☐ ELEKTRİK · ☐ SU · ☐ YİYECEK · ☐ GÜVENLİK · ☐ HABERLER
+- **Haber ekranı:** Kırmızı "SON DAKİKA" bandı.
+- **Renkler:** Dışarısı buz mavisi ve soluk güneş; içerisi soba ateşinin turuncusu.
 
-## GÜN 1 · 0°C → −10°C · "Bir Gün Soğuk Olur"
+---
 
-Saat saat:
+## GÜN 1 · 0°C · "Soğuk Hava Dalgası"
 
-- **17 Aralık, 13.00 · +10°C:** Ankara'da güneşli, ılık bir kış günü. Kızılay'da insanlar montlarını kollarına almış.
-- **04.17 · 0°C:** Telefonun titriyor: ani soğuma uyarısı. Dışarısı bir dakikada sıfıra düşmüş. "Ankara'nın ayazı" diyorsun; bir gün soğuk olur. Yorganı başına çekip uyuyorsun.
-- **08.00 · 0°C:** Camlar buz tutmuş. Termometre bütün gün sıfırdan kıpırdamıyor, öğlen bile. Haberlerde kısa bir not: soğuma dünyanın her yerinde aynı anda olmuş. Kimse pek umursamıyor.
-- **04.16 · 0°C:** O gece uyuyamıyorsun, pencerenin önündesin.
-- **04.17 · −10°C:** Aynı dakikada yine tam on derece. Bir terslik var.
-- **04.40:** Kerem'i arıyorsun: "Abi, türbinlerin sensörleri de aynı dakikada düştü. Bu bir hava olayı değil."
-- **05.10:** Mert'i arıyorsun: "Abi saat beş... Ne oldu?" "Hazırlan. Çiftliğe gidiyoruz."
-- **07.00:** Mert apartmanının kapısında; elinde bir valiz, bir de düdüklü tencere. "Kıyamet kopsa da yemek yenecek abi."
-- **07.20:** Ankara'dan çıkmadan tek bir yere uğrayacak vaktiniz var. Henüz kimse panik yapmıyor.
-- **SEÇİM: MARKETE Mİ, NALBURA MI?** → MARKET / NALBUR
-  - **MARKET:** Üç araba dolusu: 50 kg un, 20 kg çay, 30 kg şeker, 20 litre zeytinyağı, kahve, konserve, Paşa'ya mama, ilaç. Kasiyer gülüyor: "Düğün mü var abi?" (KİLER +4 AY)
-  - **NALBUR:** Boru izolasyonu, ısıtıcı kablo, iki ısıtıcı, zincirli testere, kar zincirleri, bidonlar, fenerler, piller. (BORULAR GÜVENDE: −40'ta su derdi yok)
+- **07.40 · Ev:** Alarm çalıyor, yerler buz gibi. Pencerenin kenarları buz tutmuş. Telefondaki hava durumu 0 derece gösteriyor; dün +10'du. "On derece düşmüş."
+- **07.50:** Kahve. Televizyon: "Sibirya kaynaklı soğuk hava dalgası... sıcaklıklar mevsim normallerinin altında." Kış işte, Ankara'nın ayazı.
+- **09.00 · Park:** Sabah koşusu. Parktaki süs havuzu buz tutmuş. Güneş tepede ama yüzünü ısıtmıyor; soluk, eski bir ampul gibi.
+- **12.00 · Kafe:** Herkes soğuktan bahsediyor. Hava durumu uygulaması önümüzdeki günler için tuhaf rakamlar gösteriyor: −10, −20, −30. Masadakiler gülüyor: "Uygulama bozulmuş."
+- **13.00:** Öğlen olmasına rağmen termometre hâlâ sıfır, bir derece bile yükselmemiş. Haber bandında bir satır: Avrupa'da, Asya'da, Amerika'da aynı anda ani soğuma. Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.
+- **14.30 · Aras'ı arıyorsun:** "Kanka, burada da sıfır. Dün on ikiydi. Bir de garip bir şey var: gökyüzü masmavi ama paneller yarı yarıya az üretiyor. Güneş sanki kısılmış."
+- **15.00 · Çınar'ı arıyorsun:** "Kanka, ben de tam seni arayacaktım. Bu soğuk normal değil, değil mi?" "Akşam bana gel."
+- **19.00 · Akşam:** Çınar kapıda; elinde iki poşet ve bir düdüklü tencere: "Senin buzdolabında yumurtayla yoğurttan başka bir şey olmadığını biliyorum." Mercimek çorbasının kokusu evi sarıyor. Aras görüntülü aramada, çiftlikteki sobanın başında.
+- **20.00 · Ana haber:** Hâlâ "soğuk hava dalgası". Ama spiker artık gülümsemiyor.
+- **23.40 · SON DAKİKA:** NASA ve Avrupa Uzay Ajansı'nın ortak açıklaması: toz bulutu, her gün on derece, sekiz gün, üç ay. Spikerin sesi titriyor. Sosyal medyada buluta bir isim verilmiş bile: Perde.
+- **23.45:** Salonda kimse konuşmuyor; sadece çorbanın buharı yükseliyor. Çınar: "Üç ay..." Aras: "Kanka. Çiftlik."
+- **SEÇİM: BU GECE Mİ ÇIKIYORSUNUZ, SABAHI MI BEKLİYORSUNUZ?** → BU GECE / SABAH
+  - **BU GECE:** Yollar boş, kimse panik yapmıyor. Ama dükkânlar kapalı; evde ne varsa onunla gidiyorsunuz.
+  - **SABAH:** Market, eczane ve nalbur açık; arabayı doldurursunuz. Ama bütün Ankara da sizinle aynı fikirde.
 
-## GÜN 2 · −10°C · "Çiftlik"
+## GÜN 2 · −10°C · "Yola Çıkış"
 
-- **08.10:** Seçilen durak, alışveriş.
-- **09.30:** Kızılcahamam yolunda kırağı tutmuş çamlar; yolda neredeyse kimse yok. Radyoda: "Uzmanlar soğuğun yarın kırılmasını bekliyor." Mert gülüyor: "Kırılmaz abi."
-- **10.45:** Çiftliğin kapısı. Paşa karlara bata çıka koşuyor. Termal suyun buharı buz tutmuş çamların arasından yükseliyor. Kerem elinde termosla bekliyor: "Hoş geldiniz. Çay demli."
-- **11.00 · Çiftlik turu** (ekrandaki panel tek tek doluyor):
-  - Tepede dönen üç türbin: 60 kW.
-  - Bodrumda yeşil ışıklı batarya odası ve iki jeneratör.
-  - Termal kuyu: 60 derece su, ev ve seralar yerden ısınıyor.
-  - Sera: dışarısı −10, içerisi +24. Domatesler kızarıyor.
-  - Ahır: iki inek, otuz tavuk.
-  - Kiler: kavurma kavanozları, tarhana, erişte, salça.
-  - Odunluk: 20 ster. Kerem: "Normal bir kışa yeter. Ama bu normal bir kış değil."
-- **15.00:** Herkes işinde. Mert sobaları ve termal boruları kontrol ediyor; Kerem salondaki büyük ekrana sıcaklık grafiğini kuruyor; sen elinizdeki her şeyin listesini çıkarıyorsun.
-- **19.00 · Akşam yemeği:** Mert taş fırında kuzu güveç yapıyor; yanında tereyağlı bulgur pilavı ve turşu. Sobanın üstünde kestaneler çatlıyor, semaverde çay. Paşa şöminenin önünde uyuyor, camlarda buz çiçekleri. Dışarısı −10, içerisi +22.
-- **21.00 · Plan masası:** Masaya kocaman bir kâğıt seriliyor. Kerem grafiği gösteriyor: "Her gece on derece. Böyle giderse yedi gün sonra eksi seksen." Bir süre kimse konuşmuyor. Mert: "Eksi seksende çelik bile çatlar abi." Sen: "O zaman bir haftamız var." Kâğıda plan yazılıyor:
-  1. **ISI:** Ne kadar yakacak lazım?
-  2. **SU:** Borular donmasın.
-  3. **ELEKTRİK:** Türbinler ne kadar dayanır?
-  4. **YİYECEK:** Kiler, sera, hayvanlar; stok.
-  5. **GÜVENLİK:** Kapılar, kameralar, nöbet.
-  6. **HABERLER:** Dünyada ne oluyor?
-- **04.17 · −20°C:** Ormanda tüfek sesi gibi patlamalar; ağaçlar soğuktan çatlıyor. Türbinler inliyor. Kerem ekrandaki grafiği izliyor.
-- **SEÇİM: YAKACAĞI NEREDEN BULUYORSUNUZ?** → ORMANDAN ODUN / KASABADAN KÖMÜR
-  - **ORMANDAN ODUN:** Zincirli testereler ve traktörle kendi ormanınızdan kesiyorsunuz. Bedava ama yorucu ve yavaş.
-  - **KASABADAN KÖMÜR:** Kızılcahamam'daki kömürcüden son 10 ton. Hızlı, ama kasabada herkes sizi görüyor.
+- **BU GECE seçildiyse:**
+  - **00.10:** Otuz dakikada hazırlık. Ekranda liste: kalın giysiler, kimlikler, nakit, ilaç dolabındaki her şey, bilgisayar, powerbank'ler, buzdolabının tamamı ve Çınar'ın düdüklü tenceresi.
+  - **00.50:** Kızılcahamam yolunda bariyerler kırağı tutmuş, arkada Ankara'nın ışıkları. Radyoda telefonla bağlanan dinleyiciler: "Perde gerçek mi?" Benzinlikte depo ve dört bidon mazot.
+  - **02.00:** Çiftliğin kapısında Aras, kafa lambası ve Zeus. İlk gece üçünüz sobanın önünde, uyku tulumlarında.
+- **SABAH seçildiyse:**
+  - **08.00:** Market kapısı açılır açılmaz insanlar koşuyor; ekmek ve su rafları on dakikada boşalıyor. Sepete un, pirinç, bulgur, mercimek, yağ, şeker, çay, kahve, konserve ve Zeus'a mama giriyor.
+  - Eczaneden ağrı kesici ve ilk yardım malzemesi alınıyor. Nalburdan boru izolasyonu, ısıtıcı kablo, bidonlar, fenerler, piller; jeneratörler çoktan tükenmiş.
+  - **11.30:** Ankara çıkışında kilometrelerce kuyruk. **14.00'te** çiftlik.
+- **Çiftlik turu** (ekrandaki panel tek tek doluyor):
+  - Termal suyun buharı buz tutmuş çamların arasından yükseliyor.
+  - Tepede üç türbin dönüyor; paneller yarı güçte çünkü Perde güneşi kısıyor.
+  - Batarya odasında mavi ışıklar yanıyor.
+  - Seralar LED ışıklar altında: domatesler kızarıyor, çilekler çiçekte. "Güneş kısılmıştı ama seralar kendi güneşini yapıyordu."
+  - Depoda şirketten kalan tohumlar, yedek pompalar ve borular var. Odunlukta 15 ster, tankta 2 ton mazot.
+- **19.00 · Akşam:** Çınar'ın kuru fasulyesi, tereyağlı pilav, turşu. Sobanın üstünde kestaneler çatlıyor, semaverde çay var. Zeus sobanın önünde uyuyor.
+- **21.00 · Plan tahtası:** Şirketin eski ofisinde, logosu hâlâ duran beyaz tahtanın başındasınız. Üstte büyük harflerle: "PERDE: 8 GÜN DÜŞÜŞ, 3 AY KARANLIK."
+  - **ISI:** Eksi seksende ev şimdikinin üç katı ısı kaybeder; 15 ster odun on gün bile gitmez.
+  - **ELEKTRİK:** Güneş her gün kısılıyor; elektrik türbinlerden ve bataryalardan gelecek. Termal pompa ve seradaki LED'ler elektriğe muhtaç.
+  - **SU:** Termal su ve kuyu var; borular donmamalı.
+  - **YİYECEK:** Kiler üç kişiye iki ay yetiyor. Sera ve tavuklarla üç aya çıkar, ama ölçülü yenirse.
+  - **GÜVENLİK:** Ankara'dan kaçanlar Kızılcahamam'ın termal otellerine gelecek.
+  - **İş bölümü:** Aras elektrik ve haberleşme; Çınar ısı, su ve mutfak; sen stok, plan ve güvenlik.
+- **23.00 · Haber:** Ankara'da benzinliklerde kuyruk, mazot donmaya başlıyor. Hükümet "panik yapmayın" diyor.
+- **SEÇİM: ISIYI NASIL ÇÖZÜYORSUNUZ?** → ODUN TOPLA / TERMALİ GENİŞLET
+  - **ODUN TOPLA:** Ormandan yeterince odun kesmek. Hemen başlar ama ağır iş; sobalar her gün beslenecek.
+  - **TERMALİ GENİŞLET:** Çınar'ın planı: termal suyu bütün odalara ve ikinci seraya taşımak. Üç gün sürer, sonra yakıta neredeyse ihtiyaç kalmaz. Ama her şey pompaya, pompa da elektriğe bağlı.
 
-## GÜN 3 · −20°C · "Yakacak"
+## GÜN 3 · −20°C · "Hesap"
 
-- **07.00 · Kahvaltı:** Mert sobada sucuklu yumurta yapıyor. Bal, kaymak, tulum peyniri, sobada kızarmış ekmek, demlikte çay. Pencereden kırağı tutmuş orman.
-- **07.30 · Haberler:** Ankara'da toplu taşıma durdu, mazot dondu, okullar tatil, marketlerde kuyruk var, doğalgazın basıncı düşüyor. "Gece Ankara'da iki kişi sokakta donarak hayatını kaybetti." Mert sesi kısıyor.
-- **09.00 · Hesap:** Mert beyaz tahtanın başında:
-  - "Eksi onda günde yarım ster yaktık. Eksi kırkta iki ster, eksi seksende beş ster." 20 ster bir hafta bile yetmez.
-  - Çözüm: Sadece mutfak, salon ve tek yatak odası ısınacak; üçünüz aynı odada yatacaksınız.
-  - Pencerelere battaniye ve köpük, kapılara kalın perde.
-  - Asıl koz termal su: 60 derecede çıkıyor, donmuyor, boruları toprağın altında. Yeter ki pompa çalışsın. Pompa için elektrik, elektrik için türbinler lazım.
-- **11.00 · Seçime göre:**
-  - **ORMANDAN ODUN:** Testere sesleri, traktör, kütükler; odun yığını saat saat büyüyor.
-  - **KASABADAN KÖMÜR:** Kömürcünün önünde kuyruk, insanların bakışları, benzinlikteki son kış mazotu. Yaşlı bir adam ilaç soruyor.
-- **15.00 · Türbinler:** Kerem anlatıyor: "Bu türbinler eksi otuza kadar sorunsuz. Eksi kırkta yağ koyulaşır, kanatlar buzlanır. Eksi otuza kadar bataryaları ağzına kadar dolduracağız, eksi kırkta türbinleri durdurup koruyacağız. Güneş panelleri soğukta daha iyi çalışır, yeter ki karını temizleyelim." Ekranda batarya %100'e doğru dolmaya başlıyor.
-- **22.00 · Termal havuz:** Eksi yirmide, karın ortasında dumanı tüten havuzdasınız. Üçünüz suyun içinde, yıldızların altında, elinizde çay. Mert: "Kıyamet buysa fena değil abi."
-- **04.17 · −30°C:** Güney ufkunda Ankara'nın ışık kubbesi bir anda sönüyor. Şebeke çöktü.
+- **07.00 · Kahvaltı:** Sobada sucuklu yumurta, bal, kaymak, peynir, seradan domates, demlikte çay. Zeus'a da bir dilim sucuk düşüyor.
+- **07.30 · Haber:** Ankara −20. Mazot dondu, otobüsler durdu, okullar tatil, doğalgazda basınç uyarısı var. "Gece iki kişi sokakta donarak hayatını kaybetti." Çınar sesi kısıyor.
+- **09.00 · Seçime göre iş:**
+  - **ODUN TOPLA:** Sen ve Aras ellerinizde testereler ormandasınız, Çınar traktörle kütükleri taşıyor. Kaşlarınızdaki ter donuyor. Öğle arasında traktörün üstünde termostan çay ve sandviç.
+  - **TERMALİ GENİŞLET:** Çınar depodaki borularla termal suyu evin içinden, duvar diplerinden geçiriyor; Aras ikinci pompayı bağlıyor. Akşama yatak odaları sobasız ısınıyor.
+- **15.00 · Türbinler (tepede, Aras anlatıyor):**
+  - "Bu türbinler eksi otuza kadar rahat çalışır. Altında yağ koyulaşır, kanatlar buz tutar."
+  - "Perde güneşi kıstıkça paneller bitecek. Elektriğin çoğu türbinden gelecek."
+  - "Plan şu: eksi otuza kadar tam güç çalışıp bataryaları dolduruyoruz. Eksi kırkta kanatları rüzgârdan çevirip frenliyoruz. Sonra jeneratörü günde dört saat çalıştırıyoruz; pompa ve LED'ler için yeter."
+  - "Bataryaları sıcak odaya aldım. Soğuk bataryayı öldürür."
+- **18.00 · Stok:** Çınar kazanda kavurma yapıyor, taş fırında ekmek pişiriyor, tarhana kaynatıyor. Yemekler kaplara bölünüp dışarıda donduruluyor: "Dışarısı artık dünyanın en büyük derin dondurucusu."
+- **22.00 · Termal havuz:** Karın ortasında dumanı tüten su; üçünüz içinde, elinizde çay. Gökyüzünde tek bir yıldız yok; Perde onları da almış. "Ya üç ayda geçmezse?" Çınar: "O zaman dördüncü ayın planını da yaparız kanka."
+- **23.30 · Haber:** NASA, Perde'nin tahminden yoğun olduğunu açıklıyor. Ankara'da elektrik kesintileri başladı.
 - **SEÇİM: ÇİFTLİĞİN IŞIKLARI YANSIN MI?** → KARART / YANSIN
-  - **KARART:** Kalın perdeler çekiliyor, dış ışıklar kapanıyor; karanlıkta kayboluyorsunuz.
-  - **YANSIN:** Kilometrelerce karanlığın ortasında ışığı yanan tek yer siz oluyorsunuz.
+  - **KARART:** Kalın perdeler çekiliyor, dış ışıklar kapanıyor; yoldan bakan çiftliği görmüyor.
+  - **YANSIN:** Karanlığa gömülen vadide ışığı yanan tek yer siz oluyorsunuz.
 
 ## GÜN 4 · −30°C · "Ankara Karanlıkta"
 
-- **Haberler:** Ankara'da borular patlıyor, Kızılay'da bir apartman yanıyor, itfaiye gidemiyor. Hastaneler jeneratörle çalışıyor, ölü sayısı artıyor.
+- **03.00:** Ulusal şebeke çöküyor. Tepeden bakınca güney ufkundaki Ankara'nın ışık kubbesi sönüyor.
+- **08.00 · Haber** (bataryalarınızla çalışan uydu yayını): Ankara karanlıkta. Borular patlıyor, hastaneler jeneratörle çalışıyor, Kızılay'da yangınlar var. Binlerce kişi Kızılcahamam'ın termal otellerine kaçıyor; yolda mazotu donmuş arabalar ve yürüyen insanlar.
 - **Çiftlikte her şey çalışıyor.**
-  - **Güvenlik günü:** Kerem kapıya ve tepeye termal kameralar takıyor, projektörleri kuruyor. Mert kapıyı sacla güçlendiriyor. Nöbet çizelgesi hazırlanıyor; Paşa ortalıkta devriye geziyor.
-  - **Stok günü:** Mert kazanda kavurma yapıyor, taş fırında ekmek pişiriyor, tarhana kaynatıyor. Yemekler dışarıda donduruluyor: "Dışarısı dünyanın en büyük derin dondurucusu."
-- **Hüsnü Dayı:** Komşu çoban traktörüyle kapıya geliyor. Karısı hasta; ne ilacı ne mazotu var.
-- **SEÇİM: HÜSNÜ DAYI'YA YARDIM EDİYOR MUSUN?** → YARDIM ET / KAPIYI AÇMA
+  - **Güvenlik günü:** Aras kapıya ve tepeye termal kameralar takıyor, şirketin eski drone'unu devriyeye çıkarıyor. Çınar kapıyı sac levhayla güçlendiriyor. İki saatlik nöbet çizelgesi hazırlanıyor; nöbetçiye çay ve radyo eşlik ediyor.
+  - **Mantı günü:** Üçünüz şöminenin önünde mantı kapatıyorsunuz, yüzlercesini. Kaplara bölüp dışarıda donduruyorsunuz. Kahkahalar.
+- **16.00 · Telsiz:** Kızılcahamam Devlet Hastanesi'nden çağrı: jeneratör yakıtı bitiyor; mazotu olan varsa yardım etsin.
+- **SEÇİM: HASTANEYE MAZOT GÖTÜRÜYOR MUSUNUZ?** → GÖTÜR / GÖTÜRME
+  - **GÖTÜR:** −30'da kasabaya iniyorsunuz. Hastanede yorgunluktan ayakta duramayan genç bir doktor mazotu teslim alıyor; adı Asya. Kasabanın bakışlarını üzerinizde hissediyorsunuz.
+  - **GÖTÜRME:** Kapılar kapalı kalıyor. Gece telsizden hastanenin son çağrısı geliyor.
 
-## GÜN 5 · −40°C · "Misafir"
+## GÜN 5 · −40°C · "Asya"
 
-- **Biliyor muydun:** Eksi kırkta Celsius ile Fahrenheit eşitlenir. Mert kaynar suyu havaya atıyor, su kar olup düşüyor; gülüşüyorsunuz.
-- **Plan işliyor:** Türbinler durduruldu; bataryalar, jeneratör ve termal su devrede. İçerisi hâlâ +22.
-- **Akşam:** Sobanın başında tavla, kestane, çay. Radyoda eski şarkılar.
-- **02.10:** Paşa havlıyor. Kamerada kapının önünde karın içinde yatan bir kız görünüyor. Dışarı çıkıp onu içeri taşıyorsunuz. Adı Ece; Kızılcahamam'daki sağlık ocağında doktor. Ayakları donmuş. Tek söylediği: "Beni arayan olursa burada değilim."
-- **SEÇİM: ÇANTASINI AÇIYOR MUSUN?** → AÇ / AÇMA
+- **10.00 · Biliyor muydun:** Eksi kırkta Celsius ile Fahrenheit eşitlenir. Çınar kaynar suyu havaya atıyor, su kar olup düşüyor; gülüşüyorsunuz.
+- **Plan işliyor:** Türbinler frenlendi. Jeneratör günde dört saat çalışıyor, termal su akıyor, seralarda LED'ler yanıyor. İçerisi hâlâ +22.
+- **20.00 · Akşam:** Tarçınlı sıcak salep. Tavla ve satranç. Aras eski bir gitarı akort ediyor.
+- **01.50:** Zeus havlıyor. Termal kamerada kapının önüne yığılan bir siluet var. Sen ve Aras yüz maskeleri ve gözlüklerle dışarı çıkıyorsunuz. Kar içinde bir kız: Asya. GÖTÜR seçildiyse onu tanıyorsun.
+- **İlk yardım:** Çınar donmuş ellerini sıcak değil ılık suyla yavaş yavaş ısıtıyor. Asya titreyerek konuşuyor: "Hastanenin jeneratörü sustu. Tolga ve adamları kasabanın mazotunu aldı."
+- **SEÇİM: ASYA'YA HER ŞEYİ GÖSTERİYOR MUSUN?** → GÖSTER / SAKLA
+  - **GÖSTER:** Depoyu, kileri, seraları, termal kuyuyu.
+  - **SAKLA:** Sadece misafir odasını.
 
-## GÜN 6 · −50°C · "Ece"
+## GÜN 6 · −50°C · "Tolga"
 
-- **Ece'nin anlattıkları:** Kasabada Kenan ve adamları sağlık ocağının yakıtına el koymuş. Çiftliğinizi biliyorlar: termal suyu, türbinleri, ışıkları. "Gelecekler."
-- **Akşam:** Mert mantı yapıyor; Ece, Kerem'in elindeki yarayı dikiyor. Sofrada ilk kez dört kişisiniz.
-- **Haberler:** Uydu yayınından tek kanal kaldı. Avrupa'dan, Amerika'dan donmuş şehirler görünüyor; sonra o da kesiliyor.
-- **SEÇİM: KENAN'A KARŞI NE YAPIYORSUNUZ?** → HAZIRLAN / TELSİZDEN KONUŞ
+- **Asya'nın anlattıkları:**
+  - Ankara'dan Kızılcahamam'a atanmış bir doktor; o da yalnız.
+  - Kasabaya on binlerce kişi doldu, termal oteller taşıyor.
+  - Eski bir güvenlik şefi olan Tolga, adamlarıyla akaryakıt deposuna ve en büyük termal otele el koymuş; kasabayı o yönetiyor.
+  - "Rüzgâr güllü çiftliği" biliyorlar.
+- **Çiftlikte yeni düzen:**
+  - Asya küçük bir revir kuruyor, herkesi muayene ediyor.
+  - Çınar ona sacda gözleme yapmayı öğretiyor.
+  - Aras onu seraya götürüyor; LED ışıkların altında çilek topluyorlar. Asya günlerdir ilk kez taze bir meyve yiyor ve ağlıyor.
+- **Haber:** Uydudan son kanallar geliyor. Ölü sayısı artık söylenmiyor. NASA: "Perde'nin en yoğun noktasına üç gün kaldı. Sonra sıcaklıklar yavaş yavaş yükselecek."
+- **23.00 · Telsiz cızırdıyor:** Tolga: "Çiftlikteki arkadaşlar. Sizde ısı var, bizde çocuklar var. Konuşalım."
+- **SEÇİM: TOLGA'YA CEVAP VERİYOR MUSUN?** → KONUŞ / SUS
 
 ## GÜN 7 · −60°C · "Kapıdakiler"
 
-- Kenan ve on iki kişi, traktörün çektiği bir kızakla kapıda; aralarında çocuklar da var.
-- Termal kameralar ve projektörler açık, Paşa hırlıyor. Kenan: "Ya açarsınız ya hepimiz burada ölürüz."
-- Mert hesaplıyor: "On iki kişi girerse kiler on dört ay değil, beş ay yeter."
-- **SEÇİM: ONLARI İÇERİ ALIYOR MUSUNUZ?** → AL / ALMA
+- Belediyenin paletli kar aracı, arkasında bir kızakla kapınıza dayanıyor. On beş kişi var, aralarında çocuklar.
+- Projektörler, termal kameralar ve hoparlör açık; Zeus hırlıyor.
+- Tolga: "Ya bizi içeri alırsınız, ya çocuklar sizin kapınızın önünde donar."
+- Çınar'ın hesabı: "On beş kişi girerse üç aylık kiler üç hafta yeter. Sera on dokuz kişiyi doyurmaz."
+- Asya kızaktakilerin bazılarını tanıyor; hastaları.
+- **SEÇİM: NE YAPIYORSUNUZ?** → İÇERİ AL / KAPIDAN YARDIM ET
+  - **İÇERİ AL:** Çiftlik doluyor. Tolga içeride.
+  - **KAPIDAN YARDIM ET:** Mazot, battaniye ve yemek verip onları kasabaya geri gönderiyorsunuz.
 
-## GÜN 8 · −70°C · "Termal Kuyu"
+## GÜN 8 · −70°C · "Pompa"
 
-- Kuyunun pompa evinde arıza çıkıyor ve çiftliğin kalbi duruyor; içerisi +22'den +12'ye düşüyor.
-- Mert ve Kerem −70'te dışarı çıkıyor. Teknolojiniz yine kazanıyor: yedek pompa devreye giriyor.
-- AL seçildiyse Kenan içeride sorun çıkarıyor; ALMA seçildiyse dışarıdan.
-- **SEÇİM: KENAN'I DIŞARI ATIYOR MUSUN?** → AT / KALSIN
+- Termal pompa duruyor. İÇERİ AL seçildiyse içeride biri kurcalamış; KAPIDAN YARDIM ET seçildiyse dışarıdan kablo kesilmiş. İçerisi +22'den +11'e, seradaki yapraklar kıvrılmaya başlıyor.
+- **Mühendislik gecesi:**
+  - Çınar ve Aras −70'te pompa evine çıkıyor; on dakikalık nöbetlerle, yüz maskeleriyle çalışıyorlar.
+  - Asya her dönüşte donma belirtilerine bakıyor.
+  - Sen depodan şirketten kalan yedek pompayı getiriyorsun. "Büyük depo" o gece işe yarıyor.
+- Sabaha karşı termal su yeniden akıyor; içerisi tekrar ısınıyor.
+- **SEÇİM: TOLGA'YLA NE YAPIYORSUNUZ?** → YÜZLEŞ / AFFET
 
-## GÜN 9 · −80°C · "Son Işık" (final)
+## GÜN 9 · −80°C · "Perde'nin Altında" (sezon finali)
 
-- 04.17'de −80. Ormanda tek bir ses yok. Sobanın başında dört kişi ve Paşa. Sera ışıkları yanıyor, domatesler kızarıyor.
-- Uydudan gece görüntüsü: Türkiye kapkaranlık, sadece birkaç nokta yanıyor. Biri sizsiniz.
-- Onuncu gece 04.17'de hiçbir şey olmuyor. Sabaha karşı termometre bir derece yükseliyor: −79.
-- Son cümle: "Dışarıda dünya donuyordu. Ama sizin sobanız hiç sönmedi."
+- NASA: "Perde'nin en yoğun noktasındayız. Bundan sonra sıcaklıklar yavaş yavaş yükselecek. Üç ay sürecek."
+- **Dışarısı:** Ormanda tek bir ses yok. Kızılcahamam yolunda kırağıya gömülmüş, terk edilmiş arabalar.
+- **İçerisi:** +22. Seralar ışıl ışıl. Çınar fırında sütlaç yapıyor. Zeus sobanın önünde. Asya, Aras ve Çınar masada.
+- Uydudan gece görüntüsü: Türkiye kapkaranlık; ışığı yanan birkaç noktadan biri sizsiniz (KARART seçildiyse perdelerin arkasından sızan ince bir ışık).
+- **Onuncu sabah:** Termometre bir derece yükselmiş: −79. Perde geçecek. Ama önünüzde üç ay var.
+- **Son cümle:** "Dışarıda dünya donuyordu. Ama sizin sobanız hiç sönmedi."
 
-## Gün 1 metni (seslendirmeye hazır, ~85 sn)
+---
 
-Ekrandaki saatler: 13.00 → 04.17 → 08.00 → 04.16 → 04.17 → 04.40 → 05.10 → 07.00 → 07.20
+## GÜN 1 metni (seslendirmeye hazır, ~140 sn)
 
-1. **ANLATICI:** On yedi Aralık. Ankara'da güneşli, ılık bir kış günüydü. Artı on derece.
-2. **ANLATICI:** Gece dördü on yedi geçe telefonun titredi. Ani soğuma uyarısı.
-3. **ANLATICI:** Dışarısı tek bir dakikada sıfır dereceye düşmüştü.
-4. **ANLATICI:** "Ankara'nın ayazı" dedin. Bir gün soğuk olur. Yorganı başına çekip uyudun.
-5. **ANLATICI:** Sabah camlar buz tutmuştu. Termometre bütün gün sıfırdan kıpırdamadı. Öğlen bile.
-6. **SPİKER:** Ani soğuma yalnızca Ankara'da değil, dünyanın her yerinde aynı anda yaşandı.
-7. **ANLATICI:** Kimse pek umursamadı.
-8. **ANLATICI:** O gece uyuyamadın. Dördü on altı geçe pencerenin önündeydin.
-9. **ANLATICI:** Dördü on yedi geçe...
-10. **ANLATICI:** Eksi on.
-11. **ANLATICI:** Aynı dakikada. Yine tam on derece.
-12. **ANLATICI:** Bir terslik vardı. Kerem'i aradın.
-13. **KEREM:** Abi, türbinlerin sensörleri de aynı dakikada düştü. Bu bir hava olayı değil.
-14. **ANLATICI:** Kerem, senin Kızılcahamam'daki çiftliğinde çalışıyor. Elektrik mühendisi. Senin gibi onun da kimsesi yok.
-15. **ANLATICI:** Sonra Mert'i aradın. Makine mühendisi. Onun da kimsesi yok.
-16. **MERT:** Abi saat beş... Ne oldu?
-17. **ANLATICI:** Hazırlan. Çiftliğe gidiyoruz.
-18. **ANLATICI:** Sabah yedide Mert kapıdaydı. Elinde bir valiz, bir de düdüklü tencere.
-19. **MERT:** Kıyamet kopsa da yemek yenecek abi.
-20. **ANLATICI:** Ankara'dan çıkmadan tek bir yere uğrayacak vaktiniz var.
-21. **ANLATICI:** Markete mi gidiyorsun, nalbura mı?
+Ekrandaki saatler: 07.40 → 07.50 → 09.00 → 12.00 → 13.00 → 14.30 → 15.00 → 19.00 → 20.00 → 23.40 → 23.45
+
+1. **ANLATICI:** On sekiz Aralık sabahı alarmın çaldığında, yerler buz gibiydi.
+2. **ANLATICI:** Pencerenin kenarları buz tutmuştu. Telefon sıfır dereceyi gösteriyordu. Dün artı ondu.
+3. **ANLATICI:** On derece düşmüş. Kahveni koyup televizyonu açtın.
+4. **SPİKER:** Sibirya kaynaklı soğuk hava dalgası etkisini artırıyor. Sıcaklıkların mevsim normallerinin altında seyretmesi bekleniyor.
+5. **ANLATICI:** Kış işte, dedin. Ankara'nın ayazı.
+6. **ANLATICI:** Sabah koşusuna çıktın. Parktaki havuz buz tutmuştu.
+7. **ANLATICI:** Güneş tepedeydi ama yüzünü ısıtmıyordu. Soluk, eski bir ampul gibiydi.
+8. **ANLATICI:** Öğlen bir kafede bilgisayarını açtın. Herkes soğuktan bahsediyordu.
+9. **ANLATICI:** Hava durumu uygulaması önümüzdeki günler için tuhaf rakamlar gösteriyordu.
+10. **ANLATICI:** Eksi on. Eksi yirmi. Eksi otuz.
+11. **ANLATICI:** Masadakiler güldü. Uygulama bozulmuş.
+12. **ANLATICI:** Saat birde termometre hâlâ sıfırdı. Öğlen olmasına rağmen bir derece bile yükselmemişti.
+13. **ANLATICI:** Haber bandında bir satır geçti: Avrupa'da, Asya'da, Amerika'da aynı anda ani soğuma.
+14. **ANLATICI:** Soğuk hava dalgası dünyanın her yerine aynı anda gelmez.
+15. **ANLATICI:** Aras'ı aradın. Kızılcahamam'daki çiftlikteydi.
+16. **ARAS:** Kanka, burada da sıfır. Dün on ikiydi. Bir de garip bir şey var.
+17. **ARAS:** Gökyüzü masmavi ama paneller yarı yarıya az üretiyor. Güneş sanki kısılmış.
+18. **ANLATICI:** Aras ve Çınar'la birlikte bir akıllı tarım şirketi kurmuştunuz. İkisi de mühendis.
+19. **ANLATICI:** Şirketi iki yıl önce sattın. Deneme çiftliğini satmadın. Aras hâlâ orada.
+20. **ANLATICI:** Üçünüzün de kimsesi yok. Sadece birbiriniz varsınız.
+21. **ANLATICI:** Çınar'ı aradın.
+22. **ÇINAR:** Kanka, ben de tam seni arayacaktım. Bu soğuk normal değil, değil mi?
+23. **ANLATICI:** Akşam bana gel, dedin.
+24. **ANLATICI:** Çınar yedide kapıdaydı. Elinde iki poşet, bir de düdüklü tencere.
+25. **ÇINAR:** Senin buzdolabında yumurtayla yoğurttan başka bir şey olmadığını biliyorum.
+26. **ANLATICI:** Mercimek çorbasının kokusu bütün evi sardı. Aras görüntülü aramadaydı, çiftlikteki sobanın başından.
+27. **ANLATICI:** Akşam haberleri hâlâ soğuk hava dalgası diyordu. Ama spiker artık gülümsemiyordu.
+28. **ANLATICI:** Gece on bire yirmi kala, ekranda kırmızı bir yazı belirdi. Son dakika.
+29. **SPİKER:** NASA ve Avrupa Uzay Ajansı ortak bir açıklama yaptı.
+30. **SPİKER:** Güneş Sistemi, yıldızlararası bir toz bulutuna girdi. Bulut güneş ışığını perdeliyor.
+31. **SPİKER:** Sıcaklıkların her gün yaklaşık on derece düşmesi bekleniyor. Bulutun en yoğun kısmına sekiz gün içinde ulaşılacak.
+32. **SPİKER:** Etkinin en az üç ay sürmesi bekleniyor.
+33. **ANLATICI:** Spikerin sesi titriyordu.
+34. **ANLATICI:** Sosyal medya buluta bir isim vermişti bile: Perde.
+35. **ANLATICI:** Salonda kimse konuşmadı. Sadece çorbanın buharı yükseliyordu.
+36. **ÇINAR:** Üç ay...
+37. **ARAS:** Kanka. Çiftlik.
+38. **ANLATICI:** Çiftliğe gidiyorsunuz. Ama ne zaman?
+39. **ANLATICI:** Bu gece mi çıkıyorsunuz, yoksa sabahı mı bekliyorsunuz?
 
 **Seçim ekranı:**
 
 - Üstte: GÜN 1 · KARAR ANI
-- Soru: "YOLA ÇIKMADAN TEK DURAK. MARKETE Mİ, NALBURA MI?"
-- Butonlar: [MARKET] [NALBUR]
-- Altta: "2. GÜN: ÇİFTLİK. TAKİP ET"
+- Soru: "PERDE GELİYOR. BU GECE Mİ ÇIKIYORSUNUZ?"
+- Butonlar: [BU GECE] [SABAHI BEKLE]
+- Altında: "Bu gece: yollar boş, dükkânlar kapalı · Sabah: alışveriş var, kalabalık da var"
+- En altta: "2. GÜN: EKSİ ON. TAKİP ET"
 
 ## Görüntü ve ses
 
 - **Motor:** Fener'dekiyle aynı. Karaoke altyazı en fazla 3 kelime; aşama satırı ve seçim ekranı Reels'in güvenli alanında.
-- **Yeni çizimler:** Gece Ankara manzarası, buz tutmuş cam, telefon uyarısı, karlı yol, çiftlik ve türbinler, sera, kiler, sobalı mutfak, plan kâğıdı, termal havuz, haber ekranı, kamera görüntüleri.
-- **Sesler:** Anlatıcı, Kerem, Mert, haber spikeri; ilerleyen bölümlerde Ece, Hüsnü Dayı ve Kenan.
-- **Efektler:** Telefon titreşimi, buz çatırtısı, soba çıtırtısı, kaynayan çaydanlık, düdüklü tencere, testere, türbin uğultusu, ağaç çatlaması, Paşa'nın havlaması.
+- **Yeni çizimler:**
+  - Çankaya'da bir daire ve buz tutmuş pencere
+  - Soluk güneşli Ankara, park, kafe, telefondaki hava durumu
+  - Haber stüdyosu ve son dakika bandı
+  - Sobalı mutfak, gece yolu
+  - Çiftlik: türbinler, seralar, depo
+  - Plan tahtası, termal havuz, kamera görüntüleri
+- **Sesler:**
+  - Gün 1: anlatıcı, haber spikeri, Aras (telefon) ve Çınar
+  - Sonraki bölümler: Asya ve Tolga (telsiz)
+- **Efektler:** Alarm, kahve makinesi, kafe uğultusu, telefon titreşimi, kaynayan tencere, düdüklü tencere, son dakika jingle'ı, soba çıtırtısı, türbin uğultusu, testere, buz çatırtısı, Zeus'un havlaması.
