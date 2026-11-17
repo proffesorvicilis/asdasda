@@ -30,11 +30,16 @@ Seçimini yorumlara yaz. Çoğunluk kazanır.
 **Paylaşım açıklaması:**
 
 ```
-Gece 1/7 · Greywick Feneri 🌊
-Çağrı saat 03:00'te başladı. Cevap veriyor musun?
-👇 Yorumlara CEVAP VER ya da SESSİZ KAL yaz. Çoğunluk kazanır.
+Fener Bekçisi · Gece 1/7 🌊
 
-#korku #gerilim #korkuhikayesi #gizem #denizfeneri #hikaye #reels #keşfet
+Gece 03:00. Telsizden bir imdat çağrısı geliyor.
+Ama kural açık: Saat üçten sonra telsize asla cevap verme.
+
+Cevap veriyor musun?
+👇 Yorumlara yaz: CEVAP VER ya da SESSİZ KAL
+Çoğunluk ne derse 2. gece o olacak.
+
+#korku #gerilim #korkuhikayesi #gizem #denizfeneri #hikaye #etkileşimlihikaye #reels #keşfet
 ```
 
 ### Metin (orijinal → birebir Türkçe)
