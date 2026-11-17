@@ -60,7 +60,7 @@ function drawPP(ctx, S = 1080) {
 }
 
 function drawCover(ctx) {
-  // Senin sabitlenmiş kapağının Türkçesi: THE LIGHTHOUSE METHOD → DENİZ FENERİ YÖNTEMİ
+  // Kapak: GECE 1 · FENER BEKÇİSİ
   ctx.save(); ctx.setTransform(1, 0, 0, 1, 0, 0);
   const t = 1.6;
   nightBackdrop(ctx, t, 1180, { moon: { x: 760, y: 520, r: 60 }, nClouds: 0, stars: 0.3 });
@@ -87,8 +87,8 @@ function drawCover(ctx) {
     ctx.shadowColor = 'rgba(0,0,0,0.5)'; ctx.shadowBlur = 20; ctx.strokeText(txt, W / 2, y); ctx.shadowColor = 'transparent';
     ctx.fillStyle = col; ctx.fillText(txt, W / 2, y);
   };
-  title('DENİZ', 1330, 64, '#ffffff');
-  title('FENERİ', 1440, 150, '#ffffff');
-  title('YÖNTEMİ', 1585, 150, '#ffc83d');
+  title('GECE 1', 1330, 64, '#ffffff');
+  title('FENER', 1440, 150, '#ffffff');
+  title('BEKÇİSİ', 1585, 150, '#ffc83d');
   ctx.restore();
 }
