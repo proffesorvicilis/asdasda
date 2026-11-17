@@ -62,12 +62,7 @@ function drawPP(ctx, S = 1080) {
 function drawCover(ctx) {
   // Kapak: GÜN 1 · EKSİ SEKSEN (buz tutmuş camdan soluk güneşli Ankara)
   ctx.save(); ctx.setTransform(1, 0, 0, 1, 0, 0);
-  const g = ctx.createLinearGradient(0, 0, 0, H);
-  g.addColorStop(0, '#9fb0c6'); g.addColorStop(0.6, '#d6dde6'); g.addColorStop(1, '#c3cbd6');
-  ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
-  paleSun(ctx, 760, 560, 80, 1);
-  ankaraSkyline(ctx, 1240, { ax: 360, ah: 620, far: '#8e9bb0', near: '#5f6d84', seed: 5 });
-  ctx.fillStyle = '#c9d0da'; ctx.fillRect(0, 1240, W, 700);
+  drawAnkaraView(ctx, 0, 0, W, H, 2.0, { horizon: 0.6, ax: 0.32, kx: 0.74, ah: 0.46, seed: 5, count: 7, sunX: 0.72, sunY: 0.2, sunR: 70 });
   frostEdges(ctx, 0, 0, W, H, 2.4, 31);
   coldGrade(ctx, 0.8);
   const gr = ctx.createLinearGradient(0, 1100, 0, 1920);

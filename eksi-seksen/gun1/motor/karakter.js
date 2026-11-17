@@ -5,6 +5,7 @@ const INK = '#15171c';
 const SKIN = '#f3efe6';
 
 // x: merkez, y: ayak tabanı, s: ölçek. Boy ~ 340*s
+function dark2(c, k) { return mix(c, '#000000', k); }
 function drawPerson(ctx, x, y, s, o = {}) {
   const who = o.who ?? 'sen', f = o.face ?? 1, t = o.t ?? 0;
   const bob = Math.sin(t * 2.1 + (o.seed ?? 0)) * 2.2 * s;
@@ -13,7 +14,9 @@ function drawPerson(ctx, x, y, s, o = {}) {
     kahraman: ['#2b3a55', '#1f2b41'], cinar: ['#9a5a2e', '#7a4522'], aras: ['#3e5b46', '#2e4535'],
     spiker: ['#1f2430', '#151922'], kisi1: ['#6b5b8e', '#55477a'], kisi2: ['#a8743d', '#875c2f'], kisi3: ['#4d6f8f', '#3c5873'],
   };
-  const [coat, coatD] = o.coat ? [o.coat, o.coatD ?? o.coat] : (PAL[who] || ['#22304d', '#18233a']);
+  const OUT = { hoodie: ['#7d8594', '#666d7a'], running: ['#243247', '#1a2537'], knit: ['#e2d6c0', '#cbbfa8'], tee: ['#9aa3b0', '#838c99'],
+    parka: ['#5f6b45', '#4b5636'], flannel: ['#8e2f2a', '#6f2420'], suit: ['#1f2430', '#151922'], apron: ['#3b3f46', '#2c3036'] };
+  const [coat, coatD] = o.coat ? [o.coat, o.coatD ?? o.coat] : (o.outfit && OUT[o.outfit]) ? OUT[o.outfit] : (PAL[who] || ['#22304d', '#18233a']);
   const slim = who === 'bekci' || who === 'moss' ? 0.78 : 1;
   const legY = y, hipY = y - 74 * s, shY = y - 230 * s + bob, headY = shY - 62 * s;
   ctx.save();
@@ -58,6 +61,34 @@ function drawPerson(ctx, x, y, s, o = {}) {
     ctx.fillStyle = '#e9e4d8';
     for (let i = 0; i < 3; i++) { ctx.beginPath(); ctx.arc(x - f * 4 * s, shY + 26 * s + i * 34 * s, 4 * s, 0, Math.PI * 2); ctx.fill(); }
   }
+  // kıyafet ayrıntıları
+  if (o.outfit === 'hoodie' && !o.back) {
+    ctx.fillStyle = dark2(coat, 0.18); rr(ctx, x - 34 * s, shY + 70 * s, 68 * s, 40 * s, 10 * s); ctx.fill();
+  }
+  if (o.outfit === 'running' && !o.back) {
+    ctx.fillStyle = '#c8ff3d'; ctx.fillRect(x - 54 * s, shY + 44 * s, 108 * s, 7 * s);
+    ctx.strokeStyle = 'rgba(255,255,255,0.6)'; ctx.lineWidth = 2.5 * s; ctx.beginPath(); ctx.moveTo(x, shY - 6 * s); ctx.lineTo(x, hipY); ctx.stroke();
+  }
+  if (o.outfit === 'knit' && !o.back) {
+    ctx.strokeStyle = 'rgba(120,100,70,0.35)'; ctx.lineWidth = 3 * s;
+    for (let k = -2; k <= 2; k++) { ctx.beginPath(); for (let yy = 0; yy <= 10; yy++) { const px = x + k * 18 * s + Math.sin(yy * 1.6) * 4 * s, py = shY + 10 * s + yy * 16 * s; yy ? ctx.lineTo(px, py) : ctx.moveTo(px, py); } ctx.stroke(); }
+  }
+  if (o.outfit === 'parka' && !o.back) {
+    ctx.strokeStyle = 'rgba(0,0,0,0.35)'; ctx.lineWidth = 3 * s; ctx.beginPath(); ctx.moveTo(x, shY); ctx.lineTo(x, hipY + 4 * s); ctx.stroke();
+    ctx.fillStyle = dark2(coat, 0.15); rr(ctx, x - 50 * s, shY + 96 * s, 34 * s, 26 * s, 5 * s); ctx.fill(); rr(ctx, x + 16 * s, shY + 96 * s, 34 * s, 26 * s, 5 * s); ctx.fill();
+  }
+  if (o.outfit === 'flannel' && !o.back) {
+    ctx.save(); ctx.beginPath(); ctx.moveTo(x - 50 * s, shY); ctx.lineTo(x + 50 * s, shY); ctx.lineTo(x + 62 * s, hipY); ctx.lineTo(x - 62 * s, hipY); ctx.closePath(); ctx.clip();
+    ctx.strokeStyle = 'rgba(20,10,10,0.45)'; ctx.lineWidth = 6 * s;
+    for (let k = -80; k <= 80; k += 22) { ctx.beginPath(); ctx.moveTo(x + k * s, shY - 10 * s); ctx.lineTo(x + k * s, hipY + 10 * s); ctx.stroke(); }
+    for (let k = 0; k <= 240; k += 22) { ctx.beginPath(); ctx.moveTo(x - 80 * s, shY + k * s); ctx.lineTo(x + 80 * s, shY + k * s); ctx.stroke(); }
+    ctx.restore();
+    ctx.fillStyle = '#2a3446'; ctx.beginPath(); ctx.moveTo(x - 52 * s, shY + 4 * s); ctx.lineTo(x - 18 * s, shY + 4 * s); ctx.lineTo(x - 22 * s, hipY); ctx.lineTo(x - 64 * s, hipY); ctx.closePath(); ctx.fill();
+    ctx.beginPath(); ctx.moveTo(x + 52 * s, shY + 4 * s); ctx.lineTo(x + 18 * s, shY + 4 * s); ctx.lineTo(x + 22 * s, hipY); ctx.lineTo(x + 64 * s, hipY); ctx.closePath(); ctx.fill();
+  }
+  if (o.outfit === 'apron' && !o.back) {
+    ctx.fillStyle = '#e9e4da'; rr(ctx, x - 36 * s, shY + 20 * s, 72 * s, 150 * s, 10 * s); ctx.fill();
+  }
   if (who === 'spiker' && !o.back) {
     ctx.fillStyle = '#f2f2f0';
     ctx.beginPath(); ctx.moveTo(x - 22 * s, shY - 8 * s); ctx.lineTo(x, shY + 46 * s); ctx.lineTo(x + 22 * s, shY - 8 * s); ctx.closePath(); ctx.fill();
@@ -95,6 +126,11 @@ function drawPerson(ctx, x, y, s, o = {}) {
     ctx.fillStyle = '#4a3b2c';
     rr(ctx, hR[0] - 30 * s, hR[1] + 4 * s, 70 * s, 54 * s, 14 * s); ctx.fill();
     ctx.lineWidth = 4 * s; ctx.stroke();
+  }
+  if (o.outfit === 'hoodie') { ctx.fillStyle = dark2(coat, 0.1); ctx.beginPath(); ctx.ellipse(x, headY + 30 * s, 70 * s, 50 * s, 0, 0, Math.PI * 2); ctx.fill(); }
+  if (o.outfit === 'parka') {
+    ctx.fillStyle = '#d8c7a6';
+    for (let k = 0; k < 14; k++) { const a = Math.PI * 0.95 + k / 13 * Math.PI * 1.1; ctx.beginPath(); ctx.arc(x + Math.cos(a) * 66 * s, headY + 34 * s + Math.sin(a) * 40 * s, 15 * s, 0, Math.PI * 2); ctx.fill(); }
   }
   drawHead(ctx, x, headY, s, o);
   // ıslaklık damlaları

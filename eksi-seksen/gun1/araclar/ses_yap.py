@@ -34,7 +34,24 @@ def norm(w):
     return re.sub(r'[^a-zçğıöşü0-9]', '', w)
 
 
+ONES = ['', 'bir', 'iki', 'üç', 'dört', 'beş', 'altı', 'yedi', 'sekiz', 'dokuz']
+TENS = ['', 'on', 'yirmi', 'otuz', 'kırk', 'elli', 'altmış', 'yetmiş', 'seksen', 'doksan']
+
+
+def num2tr(n):
+    if n == 0:
+        return 'sıfır'
+    if n < 100:
+        return (TENS[n // 10] + ' ' + ONES[n % 10]).strip()
+    return str(n)
+
+
+def digits_to_words(t):
+    return re.sub(r"(\d+)'?", lambda m: num2tr(int(m.group(1))) + ' ', t)
+
+
 def words_of(t):
+    t = digits_to_words(t)
     out = []
     for w in clean(t).split():
         n = norm(w)
@@ -51,14 +68,27 @@ def dur(p):
     return float(r.stdout.strip())
 
 
-def tts(text, out, voice, stab=0.5):
-    body = {'text': text, 'model_id': S.MODEL, 'language_code': 'tr', 'voice_settings': {'stability': stab}}
+def tts(L, out, voice):
+    body = {'text': L['t'], 'model_id': S.MODEL, 'voice_settings': S.SETTINGS[L['v']]}
+    ctx = context_of(L)
+    if ctx[0]:
+        body['previous_text'] = ctx[0]
+    if ctx[1]:
+        body['next_text'] = ctx[1]
     r = subprocess.run(['curl', '-sS', '-o', out, '-w', '%{http_code}', '-X', 'POST',
                         f'https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format=mp3_44100_128',
                         '-H', 'Content-Type: application/json', '--data-binary', json.dumps(body, ensure_ascii=False)],
                        capture_output=True, text=True)
     if r.stdout != '200':
         raise RuntimeError(f'TTS {r.stdout}: {open(out, "rb").read()[:300]}')
+
+
+def context_of(L):
+    """Aynı konuşmacının hemen önceki/sonraki satırı: tonlama devamlılığı için."""
+    i = next(k for k, x in enumerate(S.LINES) if x['id'] == L['id'])
+    prev = S.LINES[i - 1]['t'] if i > 0 and S.LINES[i - 1]['v'] == L['v'] else ''
+    nxt = S.LINES[i + 1]['t'] if i + 1 < len(S.LINES) and S.LINES[i + 1]['v'] == L['v'] else ''
+    return prev, nxt
 
 
 def stt(path):
@@ -92,14 +122,14 @@ def tempo_of(L):
 
 def make_line(L, retries=7):
     voice = S.VOICES[L['v']]
-    h = hashlib.sha1(f"{voice}|{S.MODEL}|{L['t']}|{S.STAB[L['v']]}".encode()).hexdigest()[:14]
+    h = hashlib.sha1(f"{voice}|{S.MODEL}|{L['t']}|{json.dumps(S.SETTINGS[L['v']], sort_keys=True)}|{context_of(L)}".encode()).hexdigest()[:14]
     wav, meta = f'{CACHE}/{L["id"]}_{h}.wav', f'{CACHE}/{L["id"]}_{h}.json'
     if os.path.exists(wav) and os.path.exists(meta):
         return wav, json.load(open(meta))
     best = None
     for a in range(retries + 1):
         raw, tw = f'{WORK}/{L["id"]}_{a}.mp3', f'{WORK}/{L["id"]}_{a}.wav'
-        tts(L['t'], raw, voice, S.STAB[L['v']])
+        tts(L, raw, voice)
         run(['ffmpeg', '-v', 'error', '-y', '-i', raw, '-af', TRIM, '-ar', '44100', '-ac', '1', tw])
         th = tw.replace('.wav', '_kontrol.wav')
         if fx_kind(L):   # filtreli sesler filtreli halleriyle kontrol edilir
@@ -126,9 +156,9 @@ def make_line(L, retries=7):
 
 
 FX_CHAINS = {
-    'tel': ('highpass=f=300,lowpass=f=3400,acompressor=threshold=-18dB:ratio=3:attack=5:release=80,volume=3dB,asoftclip=type=tanh', 0.006),
-    'tv': ('highpass=f=110,lowpass=f=7800,acompressor=threshold=-20dB:ratio=2.5:attack=5:release=90,aecho=0.6:0.35:16|28:0.16|0.1,volume=1dB', 0.0),
-    'video': ('highpass=f=170,lowpass=f=6800,acompressor=threshold=-18dB:ratio=2.5:attack=5:release=80,volume=2dB', 0.003),
+    'tel': ('highpass=f=200,lowpass=f=5500,equalizer=f=1800:t=q:w=1:g=3,acompressor=threshold=-20dB:ratio=2.5:attack=5:release=80,volume=2dB', 0.002),
+    'tv': ('highpass=f=90,lowpass=f=9000,acompressor=threshold=-20dB:ratio=2:attack=5:release=90,aecho=0.7:0.25:14:0.12,volume=1dB', 0.0),
+    'video': ('highpass=f=140,lowpass=f=7500,equalizer=f=2500:t=q:w=1:g=2,acompressor=threshold=-20dB:ratio=2:attack=5:release=80,volume=1.5dB', 0.0015),
     'radio': ('highpass=f=260,lowpass=f=4200,acompressor=threshold=-20dB:ratio=4:attack=4:release=60,volume=5dB,asoftclip=type=tanh', 0.014),
 }
 

@@ -302,7 +302,7 @@ function drawTablet(ctx, x, y, s, t, o = {}) {
   ctx.shadowColor = 'transparent';
   const sw = w - 24 * s, sh = h - 24 * s;
   ctx.save(); rr(ctx, -sw / 2, -sh / 2, sw, sh, 12 * s); ctx.clip();
-  if ((o.mode ?? 'video') === 'video') arasVideo(ctx, -sw / 2, -sh / 2, sw, sh, t, o);
+  if ((o.mode ?? 'video') === 'video') arasVideoLux(ctx, -sw / 2, -sh / 2, sw, sh, t, o);
   else drawGraph(ctx, -sw / 2, -sh / 2, sw, sh, t, o);
   ctx.restore();
   ctx.restore();
