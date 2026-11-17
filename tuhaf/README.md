@@ -39,7 +39,7 @@ Cevap veriyor musun?
 👇 Yorumlara yaz: CEVAP VER ya da SESSİZ KAL
 Çoğunluk ne derse 2. gece o olacak.
 
-#korku #gerilim #korkuhikayesi #gizem #denizfeneri #hikaye #etkileşimlihikaye #reels #keşfet
+#korku #korkuhikayesi #gerilim #fenerbekçisi #etkileşimlihikaye
 ```
 
 ### Metin (orijinal → birebir Türkçe)

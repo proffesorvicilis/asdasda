@@ -11,15 +11,18 @@
 ```
 Fener Bekçisi · Gece 2/7 🌊
 
-Gece 01:30. Kapı çalınıyor.
-Kapıdaki adam Harlan'ın kasketini takıyor.
+Sessiz kalmayı seçtin. Telsiz yine de kendi kendine açıldı.
+Gece 01:30. Biri kapıyı çalıyor.
+Kapıdaki yaşlı adam Harlan'ın kasketini takıyor.
 Ama kural açık: Geceleri adaya kimse gelmez.
 
 Kapıyı açıyor musun?
 👇 Yorumlara yaz: AÇ ya da KİLİTLİ KALSIN
 Çoğunluk ne derse 3. gece o olacak.
 
-#korku #gerilim #korkuhikayesi #gizem #denizfeneri #hikaye #etkileşimlihikaye #reels #keşfet
+1. geceyi kaçırdıysan profilde 🔦
+
+#korku #korkuhikayesi #gerilim #fenerbekçisi #etkileşimlihikaye
 ```
 
 ## Metin (orijinal → birebir Türkçe)
