@@ -1,0 +1,1107 @@
+{
+ "duration": 80.122,
+ "fps": 30,
+ "lines": [
+  {
+   "id": "L01",
+   "sc": "kapi_kilitli",
+   "v": "N",
+   "s": 0.2,
+   "e": 1.911,
+   "text": "Kapıyı kilitli tutmayı seçtin.",
+   "hl": {},
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L02",
+   "sc": "kapi_kilitli",
+   "v": "N",
+   "s": 3.761,
+   "e": 5.309,
+   "text": "Kapıyı bir süre daha çaldı.",
+   "hl": {},
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L03",
+   "sc": "kapi_kilitli",
+   "v": "N",
+   "s": 5.809,
+   "e": 6.967,
+   "text": "Sonra gitti.",
+   "hl": {
+    "gitti.": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L04",
+   "sc": "el_izleri",
+   "v": "N",
+   "s": 7.567,
+   "e": 10.223,
+   "text": "Sabah, camın dışında el izleri vardı.",
+   "hl": {
+    "camın": "y",
+    "el": "r",
+    "izleri": "r"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L05",
+   "sc": "gunduz3",
+   "v": "N",
+   "s": 10.823,
+   "e": 12.946,
+   "text": "Öğlen, Moss'a ziyaretçiyi anlattın.",
+   "hl": {
+    "ziyaretçiyi": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L06",
+   "sc": "moss_telsiz",
+   "v": "MOSS",
+   "s": 13.346,
+   "e": 15.29,
+   "text": "Harlan'ın kasketi mi?",
+   "hl": {
+    "harlan'ın": "y",
+    "kasketi": "y",
+    "mi?": "y"
+   },
+   "col": null,
+   "etiket": "MOSS · TELSİZ",
+   "pre": 0.12
+  },
+  {
+   "id": "L07",
+   "sc": "moss_telsiz",
+   "v": "MOSS",
+   "s": 15.69,
+   "e": 17.861,
+   "text": "İçeride kal, evlat.",
+   "hl": {},
+   "col": null,
+   "etiket": "MOSS · TELSİZ",
+   "pre": 0.12
+  },
+  {
+   "id": "L08",
+   "sc": "moss_telsiz",
+   "v": "MOSS",
+   "s": 18.161,
+   "e": 23.016,
+   "text": "Yedinci geceden sonra, sabahın ilk ışığıyla oradayım.",
+   "hl": {
+    "yedinci": "y"
+   },
+   "col": null,
+   "etiket": "MOSS · TELSİZ",
+   "pre": 0.12
+  },
+  {
+   "id": "L09",
+   "sc": "gunluk3",
+   "v": "N",
+   "s": 23.516,
+   "e": 24.525,
+   "text": "Harlan'ın günlüğü.",
+   "hl": {
+    "harlan'ın": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L10",
+   "sc": "gunluk3",
+   "v": "N",
+   "s": 24.875,
+   "e": 26.534,
+   "text": "Işığın içinden geçemez.",
+   "hl": {},
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L11",
+   "sc": "gunluk3",
+   "v": "N",
+   "s": 26.784,
+   "e": 29.379,
+   "text": "Işığın sönmesi ya da kapının açılması lazım.",
+   "hl": {
+    "sönmesi": "r",
+    "açılması": "r"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L12",
+   "sc": "gunluk3",
+   "v": "N",
+   "s": 29.629,
+   "e": 31.199,
+   "text": "İkisini de deneyecek.",
+   "hl": {
+    "ikisini": "r",
+    "deneyecek.": "r"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L13",
+   "sc": "merdiven",
+   "v": "N",
+   "s": 33.949,
+   "e": 35.469,
+   "text": "Doksan dokuz basamak.",
+   "hl": {
+    "doksan": "y",
+    "dokuz": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 1.4
+  },
+  {
+   "id": "L14",
+   "sc": "merdiven",
+   "v": "N",
+   "s": 35.869,
+   "e": 36.684,
+   "text": "Güzel.",
+   "hl": {
+    "güzel.": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L15",
+   "sc": "lamba",
+   "v": "N",
+   "s": 37.284,
+   "e": 39.38,
+   "text": "Alacakaranlık. Işık yandı.",
+   "hl": {
+    "yandı.": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L16",
+   "sc": "uykusuz",
+   "v": "N",
+   "s": 39.98,
+   "e": 41.545,
+   "text": "Gece yarısına on var.",
+   "hl": {
+    "gece": "y",
+    "yarısına": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L17",
+   "sc": "uykusuz",
+   "v": "N",
+   "s": 41.845,
+   "e": 42.678,
+   "text": "Uyuyamadın.",
+   "hl": {},
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L18",
+   "sc": "kural5",
+   "v": "N",
+   "s": 47.028,
+   "e": 48.162,
+   "text": "Harlan biliyordu.",
+   "hl": {
+    "biliyordu.": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 2.7
+  },
+  {
+   "id": "L19",
+   "sc": "telsiz_acilir3",
+   "v": "N",
+   "s": 48.862,
+   "e": 51.662,
+   "text": "Üçü yirmi geçe, telsiz kendi kendine açıldı.",
+   "hl": {
+    "kendi": "r",
+    "kendine": "r"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L20",
+   "sc": "ses_telsiz",
+   "v": "SES",
+   "s": 52.112,
+   "e": 54.752,
+   "text": "Moss, benim. Burada her şey yolunda.",
+   "hl": {},
+   "col": "o",
+   "etiket": "TELSİZ · KANAL 16",
+   "pre": 0.12
+  },
+  {
+   "id": "L22",
+   "sc": "yuz_sok",
+   "v": "N",
+   "s": 55.252,
+   "e": 56.43,
+   "text": "Bu senin sesin.",
+   "hl": {
+    "senin": "r",
+    "sesin.": "r"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L23",
+   "sc": "ses_telsiz2",
+   "v": "SES",
+   "s": 56.83,
+   "e": 59.225,
+   "text": "Dinle, yedinci geceden sonra gelme.",
+   "hl": {},
+   "col": "o",
+   "etiket": "TELSİZ · KANAL 16",
+   "pre": 0.12
+  },
+  {
+   "id": "L24",
+   "sc": "ses_telsiz2",
+   "v": "SES",
+   "s": 59.475,
+   "e": 61.642,
+   "text": "Bir hafta daha kalmaya karar verdim.",
+   "hl": {},
+   "col": "o",
+   "etiket": "TELSİZ · KANAL 16",
+   "pre": 0.12
+  },
+  {
+   "id": "L25",
+   "sc": "ses_telsiz2",
+   "v": "MOSS",
+   "s": 62.142,
+   "e": 63.801,
+   "text": "Bir hafta daha mı?",
+   "hl": {},
+   "col": "o",
+   "etiket": "TELSİZ · KANAL 16",
+   "pre": 0.12
+  },
+  {
+   "id": "L26",
+   "sc": "ses_telsiz2",
+   "v": "MOSS",
+   "s": 64.101,
+   "e": 66.566,
+   "text": "Evlat, orada iyi olduğuna emin misin?",
+   "hl": {},
+   "col": "o",
+   "etiket": "TELSİZ · KANAL 16",
+   "pre": 0.12
+  },
+  {
+   "id": "L27",
+   "sc": "yuz_sok2",
+   "v": "N",
+   "s": 67.166,
+   "e": 70.853,
+   "text": "Eğer o Moss'tuysa... seni almaya kimse gelmiyor.",
+   "hl": {
+    "kimse": "r",
+    "gelmiyor.": "r"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  },
+  {
+   "id": "L28",
+   "sc": "secim",
+   "v": "N",
+   "s": 73.403,
+   "e": 75.122,
+   "text": "Moss'u şimdi uyarıyor musun?",
+   "hl": {
+    "şimdi": "y",
+    "uyarıyor": "y",
+    "musun?": "y"
+   },
+   "col": null,
+   "etiket": null,
+   "pre": 0.12
+  }
+ ],
+ "words": [
+  {
+   "w": "Kapıyı",
+   "s": 0.251,
+   "e": 0.61,
+   "line": "L01"
+  },
+  {
+   "w": "kilitli",
+   "s": 0.679,
+   "e": 1.003,
+   "line": "L01"
+  },
+  {
+   "w": "tutmayı",
+   "s": 1.055,
+   "e": 1.379,
+   "line": "L01"
+  },
+  {
+   "w": "seçtin.",
+   "s": 1.465,
+   "e": 1.841,
+   "line": "L01"
+  },
+  {
+   "w": "Kapıyı",
+   "s": 3.812,
+   "e": 4.12,
+   "line": "L02"
+  },
+  {
+   "w": "bir",
+   "s": 4.222,
+   "e": 4.376,
+   "line": "L02"
+  },
+  {
+   "w": "süre",
+   "s": 4.444,
+   "e": 4.615,
+   "line": "L02"
+  },
+  {
+   "w": "daha",
+   "s": 4.684,
+   "e": 4.889,
+   "line": "L02"
+  },
+  {
+   "w": "çaldı.",
+   "s": 4.94,
+   "e": 5.231,
+   "line": "L02"
+  },
+  {
+   "w": "Sonra",
+   "s": 5.911,
+   "e": 6.185,
+   "line": "L03"
+  },
+  {
+   "w": "gitti.",
+   "s": 6.219,
+   "e": 6.561,
+   "line": "L03"
+  },
+  {
+   "w": "Sabah,",
+   "s": 7.669,
+   "e": 7.994,
+   "line": "L04"
+  },
+  {
+   "w": "camın",
+   "s": 8.421,
+   "e": 8.678,
+   "line": "L04"
+  },
+  {
+   "w": "dışında",
+   "s": 8.712,
+   "e": 9.208,
+   "line": "L04"
+  },
+  {
+   "w": "el",
+   "s": 9.259,
+   "e": 9.344,
+   "line": "L04"
+  },
+  {
+   "w": "izleri",
+   "s": 9.396,
+   "e": 9.703,
+   "line": "L04"
+  },
+  {
+   "w": "vardı.",
+   "s": 9.737,
+   "e": 10.011,
+   "line": "L04"
+  },
+  {
+   "w": "Öğlen,",
+   "s": 10.96,
+   "e": 11.319,
+   "line": "L05"
+  },
+  {
+   "w": "Moss'a",
+   "s": 11.473,
+   "e": 11.729,
+   "line": "L05"
+  },
+  {
+   "w": "ziyaretçiyi",
+   "s": 11.781,
+   "e": 12.328,
+   "line": "L05"
+  },
+  {
+   "w": "anlattın.",
+   "s": 12.396,
+   "e": 12.875,
+   "line": "L05"
+  },
+  {
+   "w": "Harlan'ın",
+   "s": 13.509,
+   "e": 13.946,
+   "line": "L06"
+  },
+  {
+   "w": "kasketi",
+   "s": 14.0,
+   "e": 14.4,
+   "line": "L06"
+  },
+  {
+   "w": "mi?",
+   "s": 14.437,
+   "e": 14.546,
+   "line": "L06"
+  },
+  {
+   "w": "İçeride",
+   "s": 15.781,
+   "e": 16.108,
+   "line": "L07"
+  },
+  {
+   "w": "kal,",
+   "s": 16.145,
+   "e": 16.272,
+   "line": "L07"
+  },
+  {
+   "w": "evlat.",
+   "s": 16.327,
+   "e": 16.636,
+   "line": "L07"
+  },
+  {
+   "w": "Yedinci",
+   "s": 18.27,
+   "e": 18.597,
+   "line": "L08"
+  },
+  {
+   "w": "geceden",
+   "s": 18.633,
+   "e": 19.015,
+   "line": "L08"
+  },
+  {
+   "w": "sonra,",
+   "s": 19.088,
+   "e": 19.451,
+   "line": "L08"
+  },
+  {
+   "w": "sabahın",
+   "s": 20.088,
+   "e": 20.597,
+   "line": "L08"
+  },
+  {
+   "w": "ilk",
+   "s": 20.651,
+   "e": 20.797,
+   "line": "L08"
+  },
+  {
+   "w": "ışığıyla",
+   "s": 20.851,
+   "e": 21.342,
+   "line": "L08"
+  },
+  {
+   "w": "oradayım.",
+   "s": 21.688,
+   "e": 22.07,
+   "line": "L08"
+  },
+  {
+   "w": "Harlan'ın",
+   "s": 23.55,
+   "e": 23.977,
+   "line": "L09"
+  },
+  {
+   "w": "günlüğü.",
+   "s": 24.046,
+   "e": 24.439,
+   "line": "L09"
+  },
+  {
+   "w": "Işığın",
+   "s": 25.012,
+   "e": 25.388,
+   "line": "L10"
+  },
+  {
+   "w": "içinden",
+   "s": 25.422,
+   "e": 25.85,
+   "line": "L10"
+  },
+  {
+   "w": "geçemez.",
+   "s": 25.918,
+   "e": 26.482,
+   "line": "L10"
+  },
+  {
+   "w": "Işığın",
+   "s": 26.938,
+   "e": 27.245,
+   "line": "L11"
+  },
+  {
+   "w": "sönmesi",
+   "s": 27.331,
+   "e": 27.895,
+   "line": "L11"
+  },
+  {
+   "w": "ya",
+   "s": 27.946,
+   "e": 28.015,
+   "line": "L11"
+  },
+  {
+   "w": "da",
+   "s": 28.066,
+   "e": 28.168,
+   "line": "L11"
+  },
+  {
+   "w": "kapının",
+   "s": 28.203,
+   "e": 28.51,
+   "line": "L11"
+  },
+  {
+   "w": "açılması",
+   "s": 28.544,
+   "e": 28.955,
+   "line": "L11"
+  },
+  {
+   "w": "lazım.",
+   "s": 28.989,
+   "e": 29.331,
+   "line": "L11"
+  },
+  {
+   "w": "İkisini",
+   "s": 29.698,
+   "e": 30.159,
+   "line": "L12"
+  },
+  {
+   "w": "de",
+   "s": 30.211,
+   "e": 30.313,
+   "line": "L12"
+  },
+  {
+   "w": "deneyecek.",
+   "s": 30.382,
+   "e": 31.048,
+   "line": "L12"
+  },
+  {
+   "w": "Doksan",
+   "s": 34.017,
+   "e": 34.444,
+   "line": "L13"
+  },
+  {
+   "w": "dokuz",
+   "s": 34.479,
+   "e": 34.786,
+   "line": "L13"
+  },
+  {
+   "w": "basamak.",
+   "s": 34.855,
+   "e": 35.333,
+   "line": "L13"
+  },
+  {
+   "w": "Güzel.",
+   "s": 35.903,
+   "e": 36.314,
+   "line": "L14"
+  },
+  {
+   "w": "Alacakaranlık.",
+   "s": 37.37,
+   "e": 38.31,
+   "line": "L15"
+  },
+  {
+   "w": "Işık",
+   "s": 38.72,
+   "e": 38.96,
+   "line": "L15"
+  },
+  {
+   "w": "yandı.",
+   "s": 38.994,
+   "e": 39.267,
+   "line": "L15"
+  },
+  {
+   "w": "Gece",
+   "s": 40.031,
+   "e": 40.236,
+   "line": "L16"
+  },
+  {
+   "w": "yarısına",
+   "s": 40.27,
+   "e": 40.732,
+   "line": "L16"
+  },
+  {
+   "w": "on",
+   "s": 40.783,
+   "e": 40.92,
+   "line": "L16"
+  },
+  {
+   "w": "var.",
+   "s": 40.988,
+   "e": 41.176,
+   "line": "L16"
+  },
+  {
+   "w": "Uyuyamadın.",
+   "s": 41.913,
+   "e": 42.512,
+   "line": "L17"
+  },
+  {
+   "w": "Harlan",
+   "s": 47.079,
+   "e": 47.472,
+   "line": "L18"
+  },
+  {
+   "w": "biliyordu.",
+   "s": 47.54,
+   "e": 48.087,
+   "line": "L18"
+  },
+  {
+   "w": "Üçü",
+   "s": 48.93,
+   "e": 49.221,
+   "line": "L19"
+  },
+  {
+   "w": "yirmi",
+   "s": 49.255,
+   "e": 49.511,
+   "line": "L19"
+  },
+  {
+   "w": "geçe,",
+   "s": 49.58,
+   "e": 49.922,
+   "line": "L19"
+  },
+  {
+   "w": "telsiz",
+   "s": 50.127,
+   "e": 50.52,
+   "line": "L19"
+  },
+  {
+   "w": "kendi",
+   "s": 50.605,
+   "e": 50.845,
+   "line": "L19"
+  },
+  {
+   "w": "kendine",
+   "s": 50.913,
+   "e": 51.238,
+   "line": "L19"
+  },
+  {
+   "w": "açıldı.",
+   "s": 51.289,
+   "e": 51.614,
+   "line": "L19"
+  },
+  {
+   "w": "Moss,",
+   "s": 52.208,
+   "e": 52.55,
+   "line": "L20"
+  },
+  {
+   "w": "benim.",
+   "s": 52.741,
+   "e": 53.008,
+   "line": "L20"
+  },
+  {
+   "w": "Burada",
+   "s": 53.389,
+   "e": 53.655,
+   "line": "L20"
+  },
+  {
+   "w": "her",
+   "s": 53.693,
+   "e": 53.827,
+   "line": "L20"
+  },
+  {
+   "w": "şey",
+   "s": 53.922,
+   "e": 54.074,
+   "line": "L20"
+  },
+  {
+   "w": "yolunda.",
+   "s": 54.112,
+   "e": 54.493,
+   "line": "L20"
+  },
+  {
+   "w": "Bu",
+   "s": 55.286,
+   "e": 55.372,
+   "line": "L22"
+  },
+  {
+   "w": "senin",
+   "s": 55.491,
+   "e": 55.816,
+   "line": "L22"
+  },
+  {
+   "w": "sesin.",
+   "s": 55.919,
+   "e": 56.329,
+   "line": "L22"
+  },
+  {
+   "w": "Dinle,",
+   "s": 56.868,
+   "e": 57.192,
+   "line": "L23"
+  },
+  {
+   "w": "yedinci",
+   "s": 57.516,
+   "e": 57.859,
+   "line": "L23"
+  },
+  {
+   "w": "geceden",
+   "s": 57.916,
+   "e": 58.259,
+   "line": "L23"
+  },
+  {
+   "w": "sonra",
+   "s": 58.354,
+   "e": 58.583,
+   "line": "L23"
+  },
+  {
+   "w": "gelme.",
+   "s": 58.678,
+   "e": 58.983,
+   "line": "L23"
+  },
+  {
+   "w": "Bir",
+   "s": 59.513,
+   "e": 59.665,
+   "line": "L24"
+  },
+  {
+   "w": "hafta",
+   "s": 59.703,
+   "e": 59.97,
+   "line": "L24"
+  },
+  {
+   "w": "daha",
+   "s": 60.046,
+   "e": 60.179,
+   "line": "L24"
+  },
+  {
+   "w": "kalmaya",
+   "s": 60.294,
+   "e": 60.713,
+   "line": "L24"
+  },
+  {
+   "w": "karar",
+   "s": 60.751,
+   "e": 61.017,
+   "line": "L24"
+  },
+  {
+   "w": "verdim.",
+   "s": 61.075,
+   "e": 61.341,
+   "line": "L24"
+  },
+  {
+   "w": "Bir",
+   "s": 62.251,
+   "e": 62.342,
+   "line": "L25"
+  },
+  {
+   "w": "hafta",
+   "s": 62.36,
+   "e": 62.579,
+   "line": "L25"
+  },
+  {
+   "w": "daha",
+   "s": 62.615,
+   "e": 62.779,
+   "line": "L25"
+  },
+  {
+   "w": "mı?",
+   "s": 62.851,
+   "e": 62.96,
+   "line": "L25"
+  },
+  {
+   "w": "Evlat,",
+   "s": 64.265,
+   "e": 64.574,
+   "line": "L26"
+  },
+  {
+   "w": "orada",
+   "s": 65.065,
+   "e": 65.319,
+   "line": "L26"
+  },
+  {
+   "w": "iyi",
+   "s": 65.374,
+   "e": 65.483,
+   "line": "L26"
+  },
+  {
+   "w": "olduğuna",
+   "s": 65.537,
+   "e": 65.846,
+   "line": "L26"
+  },
+  {
+   "w": "emin",
+   "s": 65.865,
+   "e": 66.046,
+   "line": "L26"
+  },
+  {
+   "w": "misin?",
+   "s": 66.119,
+   "e": 66.337,
+   "line": "L26"
+  },
+  {
+   "w": "Eğer",
+   "s": 67.285,
+   "e": 67.559,
+   "line": "L27"
+  },
+  {
+   "w": "o",
+   "s": 67.678,
+   "e": 67.747,
+   "line": "L27"
+  },
+  {
+   "w": "Moss'tuysa...",
+   "s": 67.849,
+   "e": 68.704,
+   "line": "L27"
+  },
+  {
+   "w": "seni",
+   "s": 69.097,
+   "e": 69.354,
+   "line": "L27"
+  },
+  {
+   "w": "almaya",
+   "s": 69.405,
+   "e": 69.764,
+   "line": "L27"
+  },
+  {
+   "w": "kimse",
+   "s": 69.901,
+   "e": 70.225,
+   "line": "L27"
+  },
+  {
+   "w": "gelmiyor.",
+   "s": 70.328,
+   "e": 70.772,
+   "line": "L27"
+  },
+  {
+   "w": "Moss'u",
+   "s": 73.472,
+   "e": 73.711,
+   "line": "L28"
+  },
+  {
+   "w": "şimdi",
+   "s": 73.814,
+   "e": 74.07,
+   "line": "L28"
+  },
+  {
+   "w": "uyarıyor",
+   "s": 74.087,
+   "e": 74.514,
+   "line": "L28"
+  },
+  {
+   "w": "musun?",
+   "s": 74.583,
+   "e": 74.89,
+   "line": "L28"
+  }
+ ],
+ "cues": [
+  {
+   "fx": "kapi_vurus",
+   "t": 2.061,
+   "slot": "vurus"
+  },
+  {
+   "fx": "slot_vurus",
+   "t": 1.911,
+   "d": 1.7
+  },
+  {
+   "fx": "adim_tas",
+   "t": 32.299,
+   "slot": "disari"
+  },
+  {
+   "fx": "slot_disari",
+   "t": 31.199,
+   "d": 2.6
+  },
+  {
+   "fx": "kagit",
+   "t": 43.178,
+   "slot": "kagit"
+  },
+  {
+   "fx": "slot_kagit",
+   "t": 42.678,
+   "d": 4.2
+  },
+  {
+   "fx": "vurus",
+   "t": 70.903,
+   "slot": "kural2"
+  },
+  {
+   "fx": "slot_kural2",
+   "t": 70.853,
+   "d": 2.4
+  }
+ ],
+ "rules_title": "Bekçinin kuralları",
+ "rules": [
+  "Işık alacakaranlıktan şafağa kadar yanmalı. Her zaman.",
+  "Gece 3'ten sonra telsize asla cevap verme.",
+  "Geceleri adaya kimse gelmez. Kimse.",
+  "Lambaya kadar 99 basamak. 100 sayarsan aşağı in.",
+  "Dışarıdaki kimseyi asla içeri alma."
+ ],
+ "gunluk": [
+  [
+   "2024",
+   [
+    "29 Eylül.",
+    "Işığın içinden geçemez.",
+    "Işığın sönmesi ya da",
+    "kapının açılması lazım.",
+    "İkisini de deneyecek."
+   ]
+  ]
+ ]
+}

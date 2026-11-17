@@ -1,0 +1,1 @@
+{"words": [{"text": "Bu", "start": 0.04, "end": 0.14, "type": "word", "logprob": -7.712543447269127e-05}, {"text": "senin", "start": 0.28, "end": 0.66, "type": "word", "logprob": -1.168244216387393e-05}, {"text": "sesin", "start": 0.78, "end": 1.26, "type": "word", "logprob": -2.539105894356908e-05}], "stt": "Bu senin sesin", "score": 1.0}

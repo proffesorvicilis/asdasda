@@ -1,0 +1,1 @@
+{"words": [{"text": "İkisini", "start": 0.08, "end": 0.62, "type": "word", "logprob": -0.003078509550082994}, {"text": "de", "start": 0.68, "end": 0.8, "type": "word", "logprob": -1.1920928244535389e-07}, {"text": "deneyecek", "start": 0.88, "end": 1.66, "type": "word", "logprob": -9.642854289874474e-05}], "stt": "İkisini de deneyecek", "score": 1.0}
