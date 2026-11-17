@@ -125,14 +125,15 @@ function drawDeskScene(ctx, t, o = {}) {
     [[kx - 80, dy - 12], [kx + 80, dy - 12]].forEach(([hx, hy]) => { ctx.beginPath(); ctx.arc(hx, hy, 14, 0, Math.PI * 2); ctx.fill(); ctx.stroke(); });
   }
   drawRadioSmall(ctx, o.radioX ?? 230, dy - 6, 1.15, o.radioGlow ?? 0.6);
-  drawGlassLamp(ctx, o.lampX ?? 900, dy, 1.05, t, 1);
+  drawGlassLamp(ctx, o.lampX ?? 830, dy, 1.0, t, 1);
 }
 
 // ---------- Büyük telsiz (yakın plan)
-function drawRadioBig(ctx, t, level = 0) {
-  const g = ctx.createRadialGradient(W / 2, 760, 100, W / 2, 900, 1200);
+function drawRadioBig(ctx, t, level = 0, dy = -230) {
+  const g = ctx.createRadialGradient(W / 2, 760 + dy, 100, W / 2, 900 + dy, 1200);
   g.addColorStop(0, '#3c3226'); g.addColorStop(1, '#0f0c0a');
   ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+  ctx.save(); ctx.translate(-40, dy);
   ctx.fillStyle = '#7a4a22'; ctx.fillRect(0, 1530, W, 400);
   ctx.fillStyle = '#8f5a2a'; ctx.fillRect(0, 1530, W, 18);
   // anten
@@ -170,6 +171,9 @@ function drawRadioBig(ctx, t, level = 0) {
   lg.addColorStop(0, `rgba(255,170,60,${0.22 + 0.18 * level})`); lg.addColorStop(1, 'rgba(255,170,60,0)');
   ctx.fillStyle = lg; ctx.fillRect(100, 200, 1000, 1300);
   ctx.restore();
+  ctx.restore();
+  ctx.fillStyle = '#7a4a22'; ctx.fillRect(0, 1530 + dy, W, H);
+  ctx.fillStyle = '#8f5a2a'; ctx.fillRect(0, 1530 + dy, W, 18);
 }
 
 // ---------- Büyük saat
@@ -223,7 +227,7 @@ function drawStairs(ctx, t, prog, o = {}) {
   ctx.fillStyle = 'rgba(230,225,215,0.75)'; ctx.font = '700 38px Oswald'; ctx.textAlign = 'center';
   ctx.fillText(String(o.topNum ?? 99), sx + (n - 1) * stepW + 40, sy - (n - 1) * stepH + 44);
   // bekçi yürüyor
-  const pos = prog * (n - 2) + 0.5;
+  const pos = prog * (n - 4) + 0.5;
   const i0 = Math.floor(pos), fr = pos - i0;
   const x = sx + (i0 + 0.5 + fr) * stepW, y = sy - (i0 + (fr > 0.5 ? 1 : 0)) * stepH - Math.sin(fr * Math.PI) * 10;
   drawPerson(ctx, x, y, 1.15, { who: 'bekci', face: 1, t, step: t * 7, brow: o.brow ?? 'kizgin', seed: 5 });
@@ -231,13 +235,13 @@ function drawStairs(ctx, t, prog, o = {}) {
 
 // ---------- Basamak sayacı paneli
 function drawStepCounter(ctx, n, col = '#ffc83d') {
-  ctx.fillStyle = 'rgba(14,16,24,0.85)'; rr(ctx, 790, 300, 230, 170, 22); ctx.fill();
+  ctx.fillStyle = 'rgba(14,16,24,0.85)'; rr(ctx, 690, 290, 230, 170, 22); ctx.fill();
   ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
-  ctx.fillStyle = 'rgba(230,234,242,0.8)'; ctx.font = '700 30px Oswald'; ctx.fillText('BASAMAK', 905, 340);
-  ctx.fillStyle = col; ctx.font = '700 96px Oswald'; ctx.fillText(String(n), 905, 412);
+  ctx.fillStyle = 'rgba(230,234,242,0.8)'; ctx.font = '700 30px Oswald'; ctx.fillText('BASAMAK', 805, 330);
+  ctx.fillStyle = col; ctx.font = '700 96px Oswald'; ctx.fillText(String(n), 805, 402);
   // ilerleme çubuğu
-  ctx.fillStyle = '#e9e6df'; rr(ctx, 890, 500, 30, 360, 15); ctx.fill();
-  ctx.fillStyle = '#d23b2c'; ctx.beginPath(); ctx.arc(905, 500 + 360 * (1 - n / 99), 20, 0, Math.PI * 2); ctx.fill();
+  ctx.fillStyle = '#e9e6df'; rr(ctx, 790, 490, 30, 360, 15); ctx.fill();
+  ctx.fillStyle = '#d23b2c'; ctx.beginPath(); ctx.arc(805, 490 + 360 * (1 - n / 99), 20, 0, Math.PI * 2); ctx.fill();
 }
 
 // ---------- Arı kovanı mercek (fener odası)
@@ -290,9 +294,9 @@ function drawLampRoomB(ctx, t, o = {}) {
   // zemin
   ctx.fillStyle = '#2a2826'; ctx.fillRect(-60, 1500, W + 120, 500);
   ctx.fillStyle = '#34312e'; ctx.fillRect(-60, 1500, W + 120, 30);
-  drawBeehive(ctx, o.lensX ?? 400, o.lensY ?? 1000, o.lensS ?? 1.0, t, lit);
+  drawBeehive(ctx, o.lensX ?? 350, o.lensY ?? 960, o.lensS ?? 0.95, t, lit);
   // şalter direği
-  const sx = o.swX ?? 790, sy = o.swY ?? 1240;
+  const sx = o.swX ?? 690, sy = o.swY ?? 1200;
   ctx.fillStyle = '#2e2b29'; ctx.fillRect(sx - 8, sy + 60, 16, 1500 - sy - 60);
   ctx.fillStyle = '#6d7480'; rr(ctx, sx - 50, sy - 70, 100, 140, 12); ctx.fill();
   ctx.strokeStyle = INK; ctx.lineWidth = 4; ctx.stroke();
@@ -303,7 +307,7 @@ function drawLampRoomB(ctx, t, o = {}) {
   ctx.strokeStyle = '#cfd3da'; ctx.lineWidth = 10; ctx.beginPath(); ctx.moveTo(sx, sy); ctx.lineTo(sx - 40, ky); ctx.stroke();
   ctx.fillStyle = '#d23b2c'; ctx.beginPath(); ctx.arc(sx - 44, ky, 16, 0, Math.PI * 2); ctx.fill(); ctx.stroke();
   // bekçi
-  drawPerson(ctx, o.kx ?? 930, o.ky ?? 1640, 1.2, { who: 'bekci', face: -1, t, arm: 'tut', hand: [sx - 44, ky], brow: o.brow ?? 'kizgin', seed: 6 });
+  drawPerson(ctx, o.kx ?? 830, o.ky ?? 1600, 1.2, { who: 'bekci', face: -1, t, arm: 'tut', hand: [sx - 44, ky], brow: o.brow ?? 'kizgin', seed: 6 });
 }
 
 // ---------- Yağmurlu pencere (dışarıda huzme)
@@ -334,7 +338,7 @@ function drawWindowRain(ctx, t) {
 function drawNoteCard(ctx, t, k) {
   if (k <= 0) return;
   ctx.save(); ctx.globalAlpha = clamp(k * 3);
-  ctx.translate(560, 420 - (1 - easeOut(clamp(k * 3))) * 40); ctx.rotate(-0.01);
+  ctx.translate(520, 700 - (1 - easeOut(clamp(k * 3))) * 40); ctx.rotate(-0.01);
   ctx.shadowColor = 'rgba(0,0,0,0.45)'; ctx.shadowBlur = 30;
   ctx.fillStyle = '#efe6cf'; ctx.fillRect(-310, -130, 620, 260);
   ctx.shadowColor = 'transparent';

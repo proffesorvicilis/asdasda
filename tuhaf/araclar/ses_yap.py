@@ -80,12 +80,17 @@ def score(expected, got):
     r = difflib.SequenceMatcher(None, ''.join(e), ''.join(g)).ratio()
     if len(e) <= 3:
         return (''.join(e) == ''.join(g)), r
-    if not g or e[0] != g[0]:
+    if not g or e[0] != g[0] or e[-1] != g[-1]:
         return False, r * 0.5
     return r >= 0.9, r
 
 
-def make_line(L, retries=4):
+def tempo_of(L):
+    AT = getattr(S, 'ATEMPO', 1.0)
+    return AT[L['v']] if isinstance(AT, dict) else AT
+
+
+def make_line(L, retries=7):
     voice = S.VOICES[L['v']]
     h = hashlib.sha1(f"{voice}|{S.MODEL}|{L['t']}|{S.STAB[L['v']]}".encode()).hexdigest()[:14]
     wav, meta = f'{CACHE}/{L["id"]}_{h}.wav', f'{CACHE}/{L["id"]}_{h}.json'
@@ -96,8 +101,16 @@ def make_line(L, retries=4):
         raw, tw = f'{WORK}/{L["id"]}_{a}.mp3', f'{WORK}/{L["id"]}_{a}.wav'
         tts(L['t'], raw, voice, S.STAB[L['v']])
         run(['ffmpeg', '-v', 'error', '-y', '-i', raw, '-af', TRIM, '-ar', '44100', '-ac', '1', tw])
-        got, words = stt(tw)
+        th = tw.replace('.wav', '_kontrol.wav')
+        run(['ffmpeg', '-v', 'error', '-y', '-i', tw, '-af', f'atempo={tempo_of(L)}', th])
+        got, _ = stt(th)
+        _, words = stt(tw)
         good, r = score(L['t'], got)
+        if L.get('strict'):   # kelimesi kelimesine, iki ayrı STT denemesinde
+            got2, _ = stt(th)
+            e = ''.join(words_of(L['t']))
+            good = good and ''.join(words_of(got)) == e and ''.join(words_of(got2)) == e
+            got = got + ' | ' + got2
         print(f"  {L['id']} deneme{a} uyum={r:.2f} {'OK' if good else 'TEKRAR'} :: {got}", flush=True)
         if best is None or r > best[2]:
             best = (tw, words, r, got)
@@ -120,16 +133,17 @@ def main():
     seq, lines, words_abs, cues = [], [], [], []
     t = S.LEAD
     p = f'{WORK}/lead.wav'; silence(p, t); seq.append(p)
-    k = getattr(S, 'ATEMPO', 1.0)
+    AT = getattr(S, 'ATEMPO', 1.0)
     for i, L in enumerate(S.LINES):
+        k = AT[L['v']] if isinstance(AT, dict) else AT
         wav0, meta = make_line(L)
         wav = f'{WORK}/{L["id"]}_hiz.wav'
         if L['v'] == 'TELSIZ':
             d0 = dur(wav0) / k + 0.2
             run(['ffmpeg', '-v', 'error', '-y', '-i', wav0, '-filter_complex',
-                 f'[0:a]atempo={k},highpass=f=300,lowpass=f=3500,acompressor=threshold=-20dB:ratio=5:attack=4:release=60,'
+                 f'[0:a]atempo={k},highpass=f=260,lowpass=f=4200,acompressor=threshold=-20dB:ratio=4:attack=4:release=60,'
                  f'volume=5dB,asoftclip=type=tanh,apad=pad_dur=0.2[v];'
-                 f'anoisesrc=d={d0:.2f}:c=pink:a=0.022:r=44100,highpass=f=900,lowpass=f=4200[n];'
+                 f'anoisesrc=d={d0:.2f}:c=pink:a=0.014:r=44100,highpass=f=900,lowpass=f=4200[n];'
                  f'[v][n]amix=inputs=2:normalize=0:duration=first,alimiter=limit=0.9',
                  '-ar', '44100', '-ac', '1', wav])
         else:

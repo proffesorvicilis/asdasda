@@ -35,15 +35,15 @@ SC.ada = {
 SC.iskele = {
   cap: 1180,
   draw(ctx, t, lt, d, E) {
-    const L4 = E.ln('L04');
-    const go = smooth(seg(t, L4.s, L4.e + 2.5));
+    const L2 = E.ln('L02');
+    const go = smooth(seg(t, L2.e - 0.8, L2.e + 1.8));
     ctx.save();
     const [sx, sy] = sway(t, 3);
     cam(ctx, 1.0, W / 2 + sx, H / 2 + sy);
     nightBackdrop(ctx, t, 1060, { moon: { x: 860, y: 300, r: 58 }, nClouds: 2, cy0: 420 });
     // tekne ve Moss
     const bx = lerp(640, 900, go), by = lerp(1085, 1062, go), bs = lerp(0.62, 0.42, go);
-    drawPerson(ctx, bx + 70 * bs, by - 22 * bs, 0.32 * bs / 0.62, { who: 'moss', face: -1, t, arm: speaking(E, ['L02', 'L03', 'L04'], t) > 0.3 ? 'tut' : 'asagi', hand: [bx + 20 * bs, by - 170 * bs], seed: 7 });
+    drawPerson(ctx, bx + 70 * bs, by - 22 * bs, 0.32 * bs / 0.62, { who: 'moss', face: -1, t, arm: speaking(E, ['L02'], t) > 0.3 ? 'tut' : 'asagi', hand: [bx + 20 * bs, by - 170 * bs], seed: 7 });
     drawBoat(ctx, bx, by, bs, { facing: -1, t, lights: 0, hull: '#2d2f38', cabinLit: 1 });
     // yeşil direk ışığı
     ctx.save(); ctx.globalCompositeOperation = 'lighter';
@@ -70,6 +70,7 @@ SC.kapi = {
   draw(ctx, t, lt, d, E) {
     ctx.save();
     cam(ctx, 1.0 + lt * 0.008, W / 2, H / 2);
+    ctx.translate(-80, 0);
     ctx.fillStyle = '#05070d'; ctx.fillRect(-60, -60, W + 120, H + 120);
     // kule duvarı
     const g = ctx.createLinearGradient(-60, 0, 760, 0);
@@ -108,7 +109,7 @@ SC.kapi = {
 
 // ---------------------------------------------------------------- MASA
 SC.masa = {
-  cap: 1620,
+  cap: 1430,
   draw(ctx, t, lt, d, E) {
     ctx.save();
     const k = smooth(clamp(lt / d));
@@ -133,7 +134,7 @@ function rulesLayout(ctx, tl) {
   return out;
 }
 SC.kurallar = {
-  cap: 1640,
+  cap: 1320,
   draw(ctx, t, lt, d, E) {
     const tl = E.tl;
     // ahşap duvar
@@ -146,8 +147,8 @@ SC.kurallar = {
     const lay = rulesLayout(ctx, tl);
     const L12 = E.ln('L12');
     const sw = lineWords(E, 'L12');
-    const scribT = (sw.find(w => /karalan/.test(w.w))?.s ?? L12.s + 1) - 0.1;
-    const hardT = (sw.find(w => /sertçe/i.test(w.w))?.s ?? L12.e - 0.6);
+    const scribT = (sw.find(w => /karalan/.test(w.w))?.e ?? L12.s + 1.4) - 0.05;
+    const hardT = (sw.find(w => /bastıra/i.test(w.w))?.s ?? L12.e - 0.6);
     const zk = smooth(seg(t, L12.s - 0.1, L12.s + 1.2));
     const r5 = lay[4];
     ctx.save();
@@ -253,7 +254,7 @@ SC.merdiven = {
 
 // ---------------------------------------------------------------- LAMBA
 SC.lamba = {
-  cap: 1300,
+  cap: 1440,
   draw(ctx, t, lt, d, E) {
     const L16 = E.ln('L16');
     const pullT = L16.s - 0.35;
@@ -271,7 +272,7 @@ SC.lamba = {
 
 // ---------------------------------------------------------------- DEFTER
 SC.defter = {
-  cap: 1620,
+  cap: 1430,
   draw(ctx, t, lt, d, E) {
     const L17 = E.ln('L17');
     ctx.save();
@@ -286,7 +287,7 @@ SC.defter = {
 
 // ---------------------------------------------------------------- SAAT
 SC.saat = {
-  cap: 1380,
+  cap: 1400,
   draw(ctx, t, lt, d, E) {
     const g = ctx.createRadialGradient(W / 2, 760, 100, W / 2, 900, 1200);
     g.addColorStop(0, '#1b2440'); g.addColorStop(1, '#070a14');
@@ -295,18 +296,18 @@ SC.saat = {
     const t3 = (w3?.s ?? E.ln('L18').s + 0.5);
     const ss = clamp(60 - (t3 - t), 52, 60);
     const isThree = t >= t3;
-    drawClockBig(ctx, W / 2, 760, 340, isThree ? 3 : 2, isThree ? 0 : 59, isThree ? 0 : ss);
+    drawClockBig(ctx, 520, 830, 300, isThree ? 3 : 2, isThree ? 0 : 59, isThree ? 0 : ss);
     ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
     ctx.font = '700 140px Oswald';
     ctx.fillStyle = isThree ? '#ff5148' : '#ffffff';
-    ctx.fillText(isThree ? '03:00' : '02:59', W / 2, 1250);
+    ctx.fillText(isThree ? '03:00' : '02:59', 520, 1260);
     drawVignette(ctx, 0.5);
   },
 };
 
 // ---------------------------------------------------------------- TELSİZ
 SC.telsiz = {
-  cap: 1700,
+  cap: 1390,
   draw(ctx, t, lt, d, E) {
     const lvl = speaking(E, ['L19', 'L20', 'L21', 'L22'], t);
     ctx.save();
@@ -332,7 +333,7 @@ SC.pencere = {
 
 // ---------------------------------------------------------------- MASA 2 (cevap ver?)
 SC.masa2 = {
-  cap: 1620,
+  cap: 1430,
   draw(ctx, t, lt, d, E) {
     const L24 = E.ln('L24'), L25 = E.ln('L25');
     const reach = smooth(seg(t, L25.e + 0.2, L25.e + 2.2));
@@ -353,12 +354,12 @@ SC.masa2 = {
 
 // ---------------------------------------------------------------- SEÇİM
 SC.secim = {
-  cap: 1440,
+  cap: 1390,
   draw(ctx, t, lt, d, E) {
     const [c, x] = off('sec');
     drawRadioBig(x, t, 0.1);
     ctx.filter = 'blur(10px) brightness(0.35)'; ctx.drawImage(c, 0, 0); ctx.filter = 'none';
-    drawChoice(ctx, t, clamp(lt / 0.5));
+    drawChoice(ctx, t, lt);
     drawVignette(ctx, 0.5);
   },
 };

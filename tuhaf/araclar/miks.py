@@ -31,7 +31,8 @@ def scenes():
 SC = scenes()
 cue = lambda fx: next(c['t'] for c in TL['cues'] if c['fx'] == fx)
 BEDS = [
-    ('yagmur_deniz', 0.0, SC['masa']['s'] + 0.4, -7, 0.3, 0.6),
+    ('yagmur_deniz', 0.0, ln('L01')['e'] + 0.4, -17, 0.2, 0.4),
+    ('yagmur_deniz', ln('L01')['e'] + 0.1, SC['masa']['s'] + 0.4, -10, 0.4, 0.6),
     ('yagmur_ic', SC['masa']['s'], SC['saat']['s'] + 0.2, -5, 0.5, 0.5),
     ('yagmur_ic', SC['saat']['s'], SC['telsiz']['s'], -17, 0.2, 0.3),
     ('yagmur_ic', SC['telsiz']['s'], SC['pencere']['s'] + 0.3, -11, 0.3, 0.3),
@@ -43,16 +44,15 @@ BEDS = [
 ]
 L06w = word('L06', 'kayboldu')
 L12k = word('L12', 'karalan')
-L12s = word('L12', 'sertçe')
+L12s = word('L12', 'bastıra')
 L18w = word('L18', 'üç')
 pullT = ln('L16')['s'] - 0.35
 ONE = [
-    ('tekne_motor', SC['iskele']['s'] - 0.3, -11, 10.0, 2.0),
-    ('kapi', SC['kapi']['s'] + 0.02, -6, 2.2, 0.5),
+    ('tekne_motor', ln('L01')['e'] + 0.15, -11, 10.0, 2.0),
     ('gok_gurultu', (L06w['s'] if L06w else ln('L06')['s']) - 0.05, -2, None, 1.5),
     ('gecis', SC['kurallar']['s'] - 0.3, -12, None, 0.3),
     ('kagit', SC['kurallar']['s'] + 0.1, 0, None, 0.4),
-    ('karalama', (L12k['s'] if L12k else ln('L12')['s'] + 1) - 0.1, -2, None, 0.5),
+    ('karalama', (L12k['e'] if L12k else ln('L12')['s'] + 1.4) - 0.05, -10, 1.2, 0.4),
     ('vurus', (L12s['s'] if L12s else ln('L12')['e'] - 0.6) - 0.05, -12, None, 1.5),
     ('adim_tas', SC['merdiven']['s'], -5, 5.0, 1.0),
     ('fener_yak', pullT - 0.25, -1, 5.5, 1.5),
@@ -64,9 +64,20 @@ ONE = [
     ('kalp', cue('telsiz_parazit'), -6, 4.6, 1.0),
     ('vurus', SC['secim']['s'] + 0.05, -7, None, 2.0),
     ('kalp', SC['secim']['s'] + 1.0, -10, None, 2.0),
+    ('bekci_yanki', ln('L26')['e'] + 0.6, -9, None, 0.5),
+    ('bekci_yanki', ln('L26')['e'] + 2.3, -14, None, 0.5),
 ]
 for i in range(4):
     ONE.append(('kalem', ln(f'L{8 + i:02d}')['s'] - 0.1, -7, 1.5, 0.3))
+
+
+def bekci_yanki():
+    w = next(w for w in TL['words'] if w['line'] == 'L24')
+    out = f'{FX}/bekci_yanki.wav'
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', f"{w['s'] - 0.03:.3f}", '-t', f"{w['e'] - w['s'] + 0.12:.3f}", '-i', NAR,
+                    '-af', 'highpass=f=400,lowpass=f=2600,aecho=0.8:0.7:180|360:0.4|0.25,afade=t=out:st=0.3:d=0.4,apad=pad_dur=0.8',
+                    '-ar', '44100', '-ac', '2', out], check=True)
+    return out
 
 
 def dur(p):
@@ -75,6 +86,7 @@ def dur(p):
 
 
 def build():
+    bekci_yanki()
     args = ['ffmpeg', '-v', 'error', '-y', '-i', NAR]
     filt = ['[0:a]aformat=channel_layouts=stereo,asplit=2[nar][sc]']
     idx, beds, ones = 1, [], []

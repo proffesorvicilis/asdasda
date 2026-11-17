@@ -91,10 +91,10 @@ function renderFrame(t) {
     ctx.font = '700 30px Oswald'; ctx.textBaseline = 'middle';
     const tag = 'TUHAF SAAT HİKÂYELERİ', ep = 'GECE 1';
     const w1 = ctx.measureText(tag).width, w2 = ctx.measureText(ep).width;
-    ctx.fillStyle = 'rgba(8,12,22,0.6)'; rr(ctx, 44, 52, w1 + w2 + 74, 54, 12); ctx.fill();
-    ctx.fillStyle = '#ffffff'; ctx.fillText(tag, 64, 80);
-    ctx.fillStyle = '#ffc83d'; rr(ctx, 64 + w1 + 14, 62, w2 + 22, 36, 8); ctx.fill();
-    ctx.fillStyle = '#121212'; ctx.fillText(ep, 64 + w1 + 25, 81);
+    ctx.fillStyle = 'rgba(8,12,22,0.6)'; rr(ctx, 56, 262, w1 + w2 + 74, 54, 12); ctx.fill();
+    ctx.fillStyle = '#ffffff'; ctx.fillText(tag, 76, 290);
+    ctx.fillStyle = '#ffc83d'; rr(ctx, 76 + w1 + 14, 272, w2 + 22, 36, 8); ctx.fill();
+    ctx.fillStyle = '#121212'; ctx.fillText(ep, 76 + w1 + 25, 291);
     ctx.restore();
   }
   const capY = typeof SC[S.name].cap === 'function' ? SC[S.name].cap(t, E) : SC[S.name].cap;

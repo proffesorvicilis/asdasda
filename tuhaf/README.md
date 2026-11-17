@@ -20,9 +20,12 @@ Seçimini yorumlara yaz. Çoğunluk kazanır.
 
 ## Fener · Gece 1/7
 
-- **Video:** `cikti/gece1.mp4` (1080×1920, 30 fps, 1:40)
+- **Video:** `cikti/gece1.mp4` (1080×1920, 30 fps, 1:19)
 - **Kapak:** `cikti/kapak.png` ("GECE 1 · SAAT 3 ÇAĞRISI")
 - **Sesler:** anlatıcı (Orhan), kayıkçı Moss (Aykut), telsizdeki kaptan (Emre, telsiz filtresiyle)
+- **Altyazı:** en fazla 3 kelime; o an söylenen kelime sarı (karaoke)
+- **Güvenli alan:** üst 250 px, alt 420 px ve sağ ~140 px (beğen/yorum/paylaş sütunu) boş bırakıldı; her şey x 60–940, y 250–1500 arasında
+- **Kontrol:** son ses iki ayrı yazıya dökme denemesinde kelimesi kelimesine doğru
 
 **Paylaşım açıklaması:**
 
@@ -34,31 +37,30 @@ Gece 1/7 · Greywick Feneri 🌊
 #korku #gerilim #korkuhikayesi #gizem #denizfeneri #hikaye #reels #keşfet
 ```
 
-### Metin (birebir çeviri)
+### Metin (orijinal → birebir Türkçe)
 
-> Kimsenin istemediği bir işi aldın.
-> **MOSS:** Yedi gece! Sabah gelirim, evlat! Gece asla!
-> Son bekçi Harlan, bu ışığı otuz yıl boyunca yaktı.
-> Bir ay önce... ortadan kayboldu.
-> Kuralları hâlâ duvarda asılıydı.
-> Birinci kural: Işık, alacakaranlıktan şafağa kadar yanmalı. Her zaman.
-> İkinci kural: Gece üçten sonra telsize asla cevap verme.
-> Üçüncü kural: Geceleri adaya kimse gelmez. Kimse.
-> Dördüncü kural: Lambaya doksan dokuz basamak var. Yüz sayarsan... aşağı in.
-> Beşinci kuralın üstü karalanmıştı. Sertçe.
-> Doksan dokuz basamak. Say onları. Harlan hep sayardı.
-> Alacakaranlık. Işık yandı.
-> Bunu deftere yazıyorsun. Harlan'ın yaptığı gibi. Her gece.
-> Saat üç.
-> **TELSİZ:** Mayday. Mayday. Balıkçı teknesi Marigold. Motorumuz durdu. Işığınızı göremiyoruz.
-> Işık yanıyor... ve dışarıda hiçbir tekne yok.
-> **TELSİZ:** Bekçi? Lütfen cevap ver. Teknede çocuklar var!
-> Çağrı saat üçte başladı. Cevap veriyor musun?
->
-> **[ CEVAP VER | SESSİZ KAL ]** · Seçimini yorumlara yaz · Çoğunluk sonrakini belirler
+| Orijinal | Türkçe |
+|---|---|
+| You took a job no one else wanted. | Kimsenin istemediği işi sen aldın. |
+| MOSS: Seven nights! I'll be back in the morning, kid! Never at night! | MOSS: Yedi gece! Sabah dönerim, evlat! Gece asla gelmem! |
+| The last keeper, Harlan, kept this light for thirty years. | Önceki bekçi Harlan, bu ışığı otuz yıl boyunca yaktı. |
+| A month ago, he vanished. | Bir ay önce... ortadan kayboldu. |
+| His rules were still pinned to the wall. | Kuralları hâlâ duvarda asılıydı. |
+| Rule one: the light must burn from dusk to dawn, always. | Birinci kural: Işık, alacakaranlıktan şafağa kadar yanmalı. Her zaman. |
+| Rule two: never answer the radio after three AM. | İkinci kural: Gece üçten sonra telsize asla cevap verme. |
+| Rule three: nobody comes to the island at night. Nobody. | Üçüncü kural: Geceleri adaya kimse gelmez. Kimse. |
+| Rule four: there are ninety-nine steps to the lamp. If you count a hundred, go back down. | Dördüncü kural: Lambaya kadar doksan dokuz basamak var. Yüz sayarsan... aşağı in. |
+| Rule five was scratched out, hard. | Beşinci kural karalanmıştı. Bastıra bastıra. |
+| Ninety-nine steps. Count them. Harlan always did. | Doksan dokuz basamak. Say onları. Harlan hep sayardı. |
+| Dusk. The light is on. | Alacakaranlık. Işık yandı. |
+| You write it down, like Harlan did, every night. | Bunu deftere yazıyorsun, Harlan'ın yaptığı gibi. Her gece. |
+| Three o'clock. | Saat üç. |
+| RADIO: Mayday. Mayday. Fishing vessel Marigold. We've lost our engine. We can't see your light. | TELSİZ: Mayday. Mayday. Balıkçı teknesi Marigold. Motorumuz durdu. Işığınızı göremiyoruz. |
+| The light is on, and there is no boat out there. | Işık yanıyor... ve dışarıda hiçbir tekne yok. |
+| RADIO: Keeper, please answer. We have children on board. | TELSİZ: Bekçi? Lütfen cevap ver. Teknede çocuklar var! |
+| The call started at three o'clock. Do you answer? | Çağrı saat üçte başladı. Cevap veriyor musun? |
 
-**Ekran yazıları:** GECE 1 / 7 · 18:42 / 02:59 / 03:00 / 03:01 · GREYWICK KAYASI · DENİZ FENERİ · IŞIK: AÇIK · KURTARILAN GEMİ: 0 ·
-BASAMAK 92…99 · TELSİZ · KANAL 16 · "Gece 1. Sakin. / Işık 18:42'de yandı." · KURAL 2 kartı
+**Seçim bölümü:** GECE 1/7 · KARAR ANI şeridi, ikonlu **CEVAP VER / SESSİZ KAL** kartı, yorum düğmesini gösteren "SEÇİMİNİ YORUMLARA YAZ" oku; arka planda telsizden yankılanan "Bekçi?".
 
 ## Üretim
 
