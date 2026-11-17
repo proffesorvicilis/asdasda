@@ -129,9 +129,9 @@ def main():
             tot = sum(len(e) + 2 for e in exp)
             c = st
             for e in exp:
-                k = (en - st) * (len(e) + 2) / tot
-                aligned.append(dict(w=e, s=c + t, e=c + k + t))
-                c += k
+                q = (en - st) * (len(e) + 2) / tot
+                aligned.append(dict(w=e, s=c + t, e=c + q + t))
+                c += q
         for a in aligned:
             a['line'] = L['id']
         words_abs += aligned

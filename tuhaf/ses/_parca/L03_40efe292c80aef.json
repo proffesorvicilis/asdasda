@@ -1,0 +1,1 @@
+{"words": [{"text": "Sabah", "start": 0.2, "end": 0.5, "type": "word", "logprob": -0.00066541535743454}, {"text": "gelirim", "start": 0.6, "end": 0.94, "type": "word", "logprob": -0.0001647170891893828}, {"text": "evlat", "start": 0.98, "end": 1.38, "type": "word", "logprob": -2.7560509624890984e-05}], "stt": "Sabah gelirim evlat", "score": 1.0}
