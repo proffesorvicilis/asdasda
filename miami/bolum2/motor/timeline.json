@@ -1,0 +1,401 @@
+{
+ "duration": 44.001,
+ "fps": 30,
+ "lines": [
+  {
+   "id": "L01",
+   "v": "ALEX",
+   "s": 0.3,
+   "e": 1.624,
+   "text": "ELİMİ TUT!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L02",
+   "v": "SAM",
+   "s": 2.88,
+   "e": 3.904,
+   "text": "ÇEK, KAPAT!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L03",
+   "v": "SAM",
+   "s": 8.5,
+   "e": 9.251,
+   "text": "Dayanıyor mu?!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L04",
+   "v": "ALEX",
+   "s": 9.6,
+   "e": 10.365,
+   "text": "Dayanıyor!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L05",
+   "v": "ALEX",
+   "s": 12.0,
+   "e": 12.559,
+   "text": "Ah!",
+   "col": null,
+   "nocap": true
+  },
+  {
+   "id": "L06",
+   "v": "SAM",
+   "s": 12.9,
+   "e": 13.65,
+   "text": "İçeri giriyor!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L07",
+   "v": "SAM",
+   "s": 14.55,
+   "e": 15.587,
+   "text": "Açılmıyor!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L08",
+   "v": "ALEX",
+   "s": 15.9,
+   "e": 17.304,
+   "text": "Üstünde tekne var!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L09",
+   "v": "ALEX",
+   "s": 17.424,
+   "e": 18.438,
+   "text": "İT ŞUNU!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L10",
+   "v": "SAM",
+   "s": 27.25,
+   "e": 28.044,
+   "text": "ALEX?!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L11",
+   "v": "ALEX",
+   "s": 28.164,
+   "e": 29.577,
+   "text": "SAM! BURADA!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L12",
+   "v": "SAM",
+   "s": 29.697,
+   "e": 30.679,
+   "text": "BİR TANE DAHA GELİYOR!",
+   "col": "mint",
+   "nocap": false
+  },
+  {
+   "id": "L13",
+   "v": "PILOT",
+   "s": 31.5,
+   "e": 32.171,
+   "text": "TEK GEÇİŞ!",
+   "col": "mor",
+   "nocap": false
+  },
+  {
+   "id": "L14",
+   "v": "PILOT",
+   "s": 32.55,
+   "e": 33.46,
+   "text": "MERDİVENİ TUT!",
+   "col": "mor",
+   "nocap": false
+  },
+  {
+   "id": "L15",
+   "v": "ALEX",
+   "s": 34.55,
+   "e": 35.709,
+   "text": "Kayıyorum!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L16",
+   "v": "SAM",
+   "s": 36.0,
+   "e": 37.508,
+   "text": "HEY! BURAYA!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L17",
+   "v": "PILOT",
+   "s": 37.628,
+   "e": 38.798,
+   "text": "ŞİMDİ! İKİ ELİNLE!",
+   "col": "mor",
+   "nocap": false
+  },
+  {
+   "id": "L18",
+   "v": "ALEX",
+   "s": 39.05,
+   "e": 40.029,
+   "text": "Hadi GİT!",
+   "col": null,
+   "nocap": false
+  },
+  {
+   "id": "L19",
+   "v": "TEKNE",
+   "s": 40.149,
+   "e": 41.32,
+   "text": "TEKNEYE YÜZ!",
+   "col": null,
+   "nocap": false
+  }
+ ],
+ "words": [
+  {
+   "w": "ELİMİ",
+   "s": 0.38,
+   "e": 0.82,
+   "line": "L01"
+  },
+  {
+   "w": "TUT!",
+   "s": 0.94,
+   "e": 1.54,
+   "line": "L01"
+  },
+  {
+   "w": "ÇEK,",
+   "s": 2.96,
+   "e": 3.24,
+   "line": "L02"
+  },
+  {
+   "w": "KAPAT!",
+   "s": 3.4,
+   "e": 3.8,
+   "line": "L02"
+  },
+  {
+   "w": "Dayanıyor",
+   "s": 8.54,
+   "e": 8.928,
+   "line": "L03"
+  },
+  {
+   "w": "mu?!",
+   "s": 8.928,
+   "e": 9.14,
+   "line": "L03"
+  },
+  {
+   "w": "Dayanıyor!",
+   "s": 9.64,
+   "e": 10.24,
+   "line": "L04"
+  },
+  {
+   "w": "Ah!",
+   "s": 12.12,
+   "e": 12.3,
+   "line": "L05"
+  },
+  {
+   "w": "İçeri",
+   "s": 12.96,
+   "e": 13.22,
+   "line": "L06"
+  },
+  {
+   "w": "giriyor!",
+   "s": 13.28,
+   "e": 13.58,
+   "line": "L06"
+  },
+  {
+   "w": "Açılmıyor!",
+   "s": 14.67,
+   "e": 15.35,
+   "line": "L07"
+  },
+  {
+   "w": "Üstünde",
+   "s": 15.98,
+   "e": 16.54,
+   "line": "L08"
+  },
+  {
+   "w": "tekne",
+   "s": 16.58,
+   "e": 16.92,
+   "line": "L08"
+  },
+  {
+   "w": "var!",
+   "s": 16.98,
+   "e": 17.2,
+   "line": "L08"
+  },
+  {
+   "w": "İT",
+   "s": 17.524,
+   "e": 17.664,
+   "line": "L09"
+  },
+  {
+   "w": "ŞUNU!",
+   "s": 17.724,
+   "e": 18.044,
+   "line": "L09"
+  },
+  {
+   "w": "ALEX?!",
+   "s": 27.61,
+   "e": 27.97,
+   "line": "L10"
+  },
+  {
+   "w": "SAM!",
+   "s": 28.284,
+   "e": 28.684,
+   "line": "L11"
+  },
+  {
+   "w": "BURADA!",
+   "s": 28.924,
+   "e": 29.464,
+   "line": "L11"
+  },
+  {
+   "w": "BİR",
+   "s": 29.717,
+   "e": 29.797,
+   "line": "L12"
+  },
+  {
+   "w": "TANE",
+   "s": 29.837,
+   "e": 30.037,
+   "line": "L12"
+  },
+  {
+   "w": "DAHA",
+   "s": 30.077,
+   "e": 30.217,
+   "line": "L12"
+  },
+  {
+   "w": "GELİYOR!",
+   "s": 30.257,
+   "e": 30.577,
+   "line": "L12"
+  },
+  {
+   "w": "TEK",
+   "s": 31.54,
+   "e": 31.7,
+   "line": "L13"
+  },
+  {
+   "w": "GEÇİŞ!",
+   "s": 31.74,
+   "e": 32.08,
+   "line": "L13"
+  },
+  {
+   "w": "MERDİVENİ",
+   "s": 32.61,
+   "e": 33.09,
+   "line": "L14"
+  },
+  {
+   "w": "TUT!",
+   "s": 33.17,
+   "e": 33.39,
+   "line": "L14"
+  },
+  {
+   "w": "Kayıyorum!",
+   "s": 34.61,
+   "e": 35.59,
+   "line": "L15"
+  },
+  {
+   "w": "HEY!",
+   "s": 36.06,
+   "e": 36.604,
+   "line": "L16"
+  },
+  {
+   "w": "BURAYA!",
+   "s": 36.604,
+   "e": 37.42,
+   "line": "L16"
+  },
+  {
+   "w": "ŞİMDİ!",
+   "s": 37.728,
+   "e": 37.988,
+   "line": "L17"
+  },
+  {
+   "w": "İKİ",
+   "s": 38.188,
+   "e": 38.348,
+   "line": "L17"
+  },
+  {
+   "w": "ELİNLE!",
+   "s": 38.408,
+   "e": 38.748,
+   "line": "L17"
+  },
+  {
+   "w": "Hadi",
+   "s": 39.13,
+   "e": 39.45,
+   "line": "L18"
+  },
+  {
+   "w": "GİT!",
+   "s": 39.55,
+   "e": 39.93,
+   "line": "L18"
+  },
+  {
+   "w": "TEKNEYE",
+   "s": 40.189,
+   "e": 40.689,
+   "line": "L19"
+  },
+  {
+   "w": "YÜZ!",
+   "s": 40.789,
+   "e": 41.209,
+   "line": "L19"
+  }
+ ]
+}

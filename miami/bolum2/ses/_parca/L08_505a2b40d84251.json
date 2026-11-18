@@ -1,0 +1,1 @@
+{"words": [{"text": "Üstünde", "start": 0.1, "end": 0.6, "type": "word", "logprob": -0.0002801424861900159}, {"text": "tekne", "start": 0.7, "end": 1.04, "type": "word", "logprob": -3.154204023303464e-05}, {"text": "var", "start": 1.1, "end": 1.3, "type": "word", "logprob": -6.198863957251888e-06}], "stt": "Üstünde tekne var", "intensity": -14.809510589171122}

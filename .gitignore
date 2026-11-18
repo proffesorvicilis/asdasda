@@ -26,3 +26,9 @@ __pycache__/
 /eksi-seksen/gun1/cikti/_parca/
 /eksi-seksen/gun1/ses/efekt/*.wav
 /eksi-seksen/gun1/ses/miks.wav
+
+# Miami Bölüm 2: ara çıktılar (yeniden üretilebilir)
+/miami/bolum2/cikti/_sessiz.mp4
+/miami/bolum2/cikti/_parca/
+/miami/bolum2/ses/miks.wav
+/miami/bolum2/ses/efekt/*.wav

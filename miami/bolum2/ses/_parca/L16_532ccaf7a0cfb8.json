@@ -1,0 +1,1 @@
+{"words": [{"text": "Hey!", "start": 0.06, "end": 0.34, "type": "word", "logprob": -0.004213472636365623}, {"text": "Hey", "start": 1.08, "end": 1.24, "type": "word", "logprob": -1.4543427823809907e-05}, {"text": "buraya", "start": 1.32, "end": 1.72, "type": "word", "logprob": -0.005384999253692513}], "stt": "Hey! Hey buraya", "intensity": -10.28393408958513}
